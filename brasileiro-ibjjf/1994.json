@@ -1,0 +1,596 @@
+[
+  {
+    "category": "Adult / Blue / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Robson Medeiros",
+        "academy": "Pitbull"
+      },
+      {
+        "place": "2",
+        "name": "Bruno Ximenes",
+        "academy": "Sergio Souza"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Thiago Asfora",
+        "academy": "Nova Geracao"
+      },
+      {
+        "place": "2",
+        "name": "Fredson Alves",
+        "academy": "Fed. Amazonas"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Leonardo Borges",
+        "academy": "Carlson Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Gustavo Miggiati",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rafael Correa",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Rogerio Miranda",
+        "academy": "Carlson Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Roberto Atalla",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Eduardo Lerner",
+        "academy": "Carlson Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rodrigo Santiago",
+        "academy": "Gracie Fpolis"
+      },
+      {
+        "place": "2",
+        "name": "Marcelo Arar",
+        "academy": "Strike"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcio Corleta",
+        "academy": "Behring"
+      },
+      {
+        "place": "2",
+        "name": "Sergio Cohen",
+        "academy": "Carlson Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Bruno Vianna",
+        "academy": "Otavio Almeida"
+      },
+      {
+        "place": "2",
+        "name": "Carlos A. Santos",
+        "academy": "Carlson Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rafael Carim",
+        "academy": "Andre Pederneiras"
+      },
+      {
+        "place": "2",
+        "name": "Marcelo Reis",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Claudio Moreno",
+        "academy": "Clube Barra"
+      },
+      {
+        "place": "2",
+        "name": "Marcelo Reis",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Female / Light Feather",
+    "ranking": []
+  },
+  {
+    "category": "Adult / Blue / Female / Feather",
+    "ranking": []
+  },
+  {
+    "category": "Adult / Blue / Female / Light",
+    "ranking": []
+  },
+  {
+    "category": "Adult / Blue / Female / Middle",
+    "ranking": []
+  },
+  {
+    "category": "Adult / Blue / Female / Heavy",
+    "ranking": []
+  },
+  {
+    "category": "Adult / Blue / Female / Open Class",
+    "ranking": []
+  },
+  {
+    "category": "Adult / Purple / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Emerson Carlos",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Marcelo Andrade",
+        "academy": "Sergio Souza"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Cleber Gadelha",
+        "academy": "Monteiro"
+      },
+      {
+        "place": "2",
+        "name": "Marcelo Marques",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Wagner Fabiano",
+        "academy": "Mello T.Clube"
+      },
+      {
+        "place": "2",
+        "name": "Rodrigo Medeiros",
+        "academy": "Carlson Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Eduardo Galvao",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Bruno Severiano",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Flavio Canto",
+        "academy": "Gama Filho"
+      },
+      {
+        "place": "2",
+        "name": "Jorge Patino",
+        "academy": "Cia. Atletica"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ricardo Diogo",
+        "academy": "Carlson Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Carlos Barreto",
+        "academy": "Sergio Souza"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Paulo Pessoa",
+        "academy": "Behring"
+      },
+      {
+        "place": "2",
+        "name": "Alexandre Barȁna",
+        "academy": "Fitness"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Sergio Ferrari",
+        "academy": "Sergio Souza"
+      },
+      {
+        "place": "2",
+        "name": "Claudio Caldas",
+        "academy": "Andre Pederneiras"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Frankye Bergson",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "2",
+        "name": "Marcelo Valente",
+        "academy": "Carlson Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Otavio Duarte",
+        "academy": "J. Pereira"
+      },
+      {
+        "place": "2",
+        "name": "Jose Marcelo",
+        "academy": "Luis Paulo"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Francisco Alb",
+        "academy": "Carlson Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Paulo Nandy",
+        "academy": "Behring"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcio Feitosa",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Paulo Coelho",
+        "academy": "Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Muzio de Angelis",
+        "academy": "Strike"
+      },
+      {
+        "place": "2",
+        "name": "Paulo Guilhobel",
+        "academy": "J. Pereira"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Eduardo Conceicao",
+        "academy": "Master"
+      },
+      {
+        "place": "2",
+        "name": "Roberto Magalhaes",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Roberto Godoy",
+        "academy": "S. Paulo"
+      },
+      {
+        "place": "2",
+        "name": "Rommel Cardoso",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Daniel Sim̝es",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Adalberto Souza",
+        "academy": "Crezio Chaves"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jose Mario",
+        "academy": "Carlson Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Artur Ignara",
+        "academy": "Dojo"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Claudio Ramos",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Joao Paulo Salgado",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jose Mario",
+        "academy": "Carlson Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Artur Ignara",
+        "academy": "Dojo"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Alberto Santos",
+        "academy": "Carlson Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Vinicius Campbello",
+        "academy": "Master"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Royler Gracie",
+        "academy": "Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Alexandre Carneiro",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Renzo Gracie",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Luiz Carlos Valoair",
+        "academy": "Carlson Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ailson Brites",
+        "academy": "Carlson Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Roberto Correa",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Amauri Bitetti",
+        "academy": "Carlson Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Marcelo Figueiredo",
+        "academy": "Borges"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fabio Gurgel",
+        "academy": "Master"
+      },
+      {
+        "place": "2",
+        "name": "Sergio Souza",
+        "academy": "Carlson Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Murilo Bustamante",
+        "academy": "Carlson Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Leonardo C. Branco",
+        "academy": "Master"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rogerio Olegario",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "2",
+        "name": "Ronald Bauer",
+        "academy": "Bauer"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Murilo Bustamante",
+        "academy": "Carlson Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Amauri Bitetti",
+        "academy": "Carlson Gracie"
+      }
+    ]
+  }
+]

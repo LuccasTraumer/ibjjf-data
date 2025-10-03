@@ -1,0 +1,7928 @@
+[
+  {
+    "category": "Adult / White / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Natan Faria Pereira",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Andre dos Santos",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Renan Menezes Elias",
+        "academy": "Nova Opcao"
+      },
+      {
+        "place": "3",
+        "name": "Flavio Thiago Franco Vaz",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Adult / White / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Flavio Souza e Silva",
+        "academy": "CARECA"
+      },
+      {
+        "place": "2",
+        "name": "Edvaldo da Bella Martins",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Thiago Kosudi",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Sergio Romeiro Feitosa",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / White / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Endres Barbosa Mendes",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "2",
+        "name": "Kaio Braga Gomes",
+        "academy": "CHECK MAT BRASIL BJJ"
+      },
+      {
+        "place": "3",
+        "name": "Victor Phelipe Andrade Paula",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Gustavo Almeida Gurgel",
+        "academy": "Reacao"
+      }
+    ]
+  },
+  {
+    "category": "Adult / White / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Elton Caua Rodrigues Nantes",
+        "academy": "Brasa"
+      },
+      {
+        "place": "2",
+        "name": "Renato Correa de Moraes",
+        "academy": "Top Brothers"
+      },
+      {
+        "place": "3",
+        "name": "Eraldo M. Vasconcelos Neto",
+        "academy": "PSLPB CICERO COSTHA"
+      },
+      {
+        "place": "3",
+        "name": "Andre Luiz V. Cruz Gouveia",
+        "academy": "GF TEAM ACADEMIA"
+      }
+    ]
+  },
+  {
+    "category": "Adult / White / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ludy Knychala Goulart",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Joao Stephano de Oliveira",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Levi de Souza Bastos",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Thiago Brum Vacht",
+        "academy": "MICHEL MAIA JJ"
+      }
+    ]
+  },
+  {
+    "category": "Adult / White / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Igor Araujo Vasconcelos",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Fabio Ribeiro Felix",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "3",
+        "name": "Maycksuel Kayano Silveira",
+        "academy": "Queiroz Saude"
+      },
+      {
+        "place": "3",
+        "name": "Alex Goncalves Oliveira",
+        "academy": "Ataque Duplo"
+      }
+    ]
+  },
+  {
+    "category": "Adult / White / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jefferson da Silva Bispo",
+        "academy": "Reacao"
+      },
+      {
+        "place": "2",
+        "name": "Marcelo Gualtieri Varela",
+        "academy": "Atos"
+      },
+      {
+        "place": "3",
+        "name": "Rafael Ferreira Candido Silva",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Alexandre Porto Ribeiro",
+        "academy": "De La Riva"
+      }
+    ]
+  },
+  {
+    "category": "Adult / White / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Asdras Barbosa Silva Mendes",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "2",
+        "name": "Sulivan Rose Nespolo",
+        "academy": "Atos"
+      },
+      {
+        "place": "3",
+        "name": "Alexandre Binotti de Abreu",
+        "academy": "Crezio de Souza"
+      },
+      {
+        "place": "3",
+        "name": "Jatair dos Santos Portella",
+        "academy": "Atos"
+      }
+    ]
+  },
+  {
+    "category": "Adult / White / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Webster de Oliveira Junior",
+        "academy": "Art Combat"
+      },
+      {
+        "place": "2",
+        "name": "Eduardo Alves da Gama",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Robson Rolino de Barros",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Ironaldo Lessa Santos",
+        "academy": "Reacao"
+      }
+    ]
+  },
+  {
+    "category": "Adult / White / Female / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Taisa Beatriz Andrade Paula",
+        "academy": "Tanque"
+      },
+      {
+        "place": "2",
+        "name": "Eliane Rios Lourenco",
+        "academy": "Queiroz Saude"
+      },
+      {
+        "place": "3",
+        "name": "Jennifer Richelie Alves Cunha",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Natajsha Kreischer Rodrigues",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Adult / White / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Catherine Fuhro Perret",
+        "academy": "Elite"
+      },
+      {
+        "place": "2",
+        "name": "Edivania Batista da Silva",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Dayse Ribeiro da Matta",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "3",
+        "name": "Paula Cristina Baptista Argolo",
+        "academy": "Arena"
+      }
+    ]
+  },
+  {
+    "category": "Adult / White / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Katia da Silva Machado",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Gabriela Rocha Silva",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Raiza Rodrigues Rolim",
+        "academy": "CIDADE VIVA JJ"
+      }
+    ]
+  },
+  {
+    "category": "Adult / White / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Leticia Del Penho S. Pinheiro",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Anna Caarolina Negri",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Renata Marinho Moreira",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Denise Macedo Almeida Campo",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Mighty Mite 3 / Gray / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Maycon da Silva Alves",
+        "academy": "PROJETO DRIVE-IN"
+      },
+      {
+        "place": "1",
+        "name": "Vitor Gabriel Araujo da Silva",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "2",
+        "name": "Samuel Mangueira Campos",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Luis Guilherme O. Borba Filho",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Lucas Ruan de Sousa Andrade",
+        "academy": "Carmen Cascagrossa"
+      }
+    ]
+  },
+  {
+    "category": "Mighty Mite 3 / Gray / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Brendo Henrique M. Teixeira",
+        "academy": "Nova Opcao"
+      },
+      {
+        "place": "2",
+        "name": "Lucas Carvalho de Oliveira",
+        "academy": "PROJETO DRIVE-IN"
+      }
+    ]
+  },
+  {
+    "category": "Mighty Mite 3 / Gray / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Arthur Luigi C. Oliveira",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Marcio Guilherme Figallo Lima",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Jefersson da Silva Theodoro",
+        "academy": "Top Brothers"
+      }
+    ]
+  },
+  {
+    "category": "Mighty Mite 3 / Gray / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rafael de Assis Messias",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 1 / Yellow / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Davi Serra Sevalho Santos",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 1 / Yellow / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Pedro Lucius Oliveira Maciel",
+        "academy": "De La Riva"
+      },
+      {
+        "place": "2",
+        "name": "Caio Sousa Nascimento",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Pedro Henrique Amorim",
+        "academy": "PROJETO DRIVE-IN"
+      },
+      {
+        "place": "3",
+        "name": "Joao Vitor Castro de Oliveira",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 1 / Yellow / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rafael Segovia Cataldo",
+        "academy": "Soul Fighters"
+      },
+      {
+        "place": "2",
+        "name": "Caio Cesar Vieira Rocha",
+        "academy": "Top Brothers"
+      },
+      {
+        "place": "3",
+        "name": "Gusthavo Werneck dos Santos",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 1 / Yellow / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Enzo Gabriel Cavalcante Silva",
+        "academy": "Deo"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 1 / Yellow / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Kyara Xavier Gouvea",
+        "academy": "ILHA BROTHERS"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 1 / Yellow / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ana Vytoria Maria Marques",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 2 / Yellow / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Matheus da Cunha Perillo",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 2 / Yellow / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Renato Rabelo Coimbra",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "2",
+        "name": "Leonardo F. Piratininga Neves",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Guilherme Yuri B. de Carvalho",
+        "academy": "Deo"
+      },
+      {
+        "place": "3",
+        "name": "Sandro Andrade Marques Filho",
+        "academy": "PROJETO DRIVE-IN"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 2 / Yellow / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Alace Marques dos Santos",
+        "academy": "PRIDE TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Danilo dos Santos",
+        "academy": "Top Brothers"
+      },
+      {
+        "place": "3",
+        "name": "Thyago Raffael C. Oliveira",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 2 / Yellow / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lucas dos Santos Almeida",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 2 / Yellow / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Eduardo Jeronimo Gadelha",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Pedro Correa Lima Vieira",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Kyan Ferreira de Andrade",
+        "academy": "Evolve Gordo Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 2 / Yellow / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Pedro Henrique Santos Filho",
+        "academy": "BEIJA-FLOR"
+      },
+      {
+        "place": "2",
+        "name": "Davi de Lima Miranda",
+        "academy": "CIDADE VIVA JJ"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 3 / Yellow / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Eduardo Granzotto Vidal Lima",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Reafael Uiles Santos Pereira",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 3 / Yellow / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcos Paulo Amorim Pinheiro",
+        "academy": "PROJETO DRIVE-IN"
+      },
+      {
+        "place": "2",
+        "name": "Lucas Maquine Silva",
+        "academy": "Nova Opcao"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 3 / Yellow / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Alexandre Gregorio S. Filho",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "2",
+        "name": "Pedro Henrique T. Leite Urzedo",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Renato Niro Kotama Costa",
+        "academy": "Deo"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 3 / Yellow / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Pedro Henrique Souza da",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Bryan Souza Santiago",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Igor Laroque Parente",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 3 / Yellow / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Matheus N. Marcelino Lopes",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "2",
+        "name": "Joao Victor Mesquita Azeredo",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 3 / Yellow / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Taichiro Bastos Santiago",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 3 / Yellow / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Brenno Silva Gonzaga",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 3 / Yellow / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Juliana Marques dos Santos",
+        "academy": "PRIDE TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Pee Wee 3 / Yellow / Female / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Petra Zonaide Oliveira Maciel",
+        "academy": "De La Riva"
+      }
+    ]
+  },
+  {
+    "category": "Junior 1 / Yellow / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Carlos Luiz da Silva Cruz",
+        "academy": "PROJETO DRIVE-IN"
+      },
+      {
+        "place": "2",
+        "name": "Ronaldo Santos Neri",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Junior 1 / Yellow / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Mayram Daniel Maquine Alves",
+        "academy": "Nova Opcao"
+      },
+      {
+        "place": "2",
+        "name": "Gabryel Alves Franca",
+        "academy": "PROJETO DRIVE-IN"
+      },
+      {
+        "place": "3",
+        "name": "Fabio Esmilde Machado Souza",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Junior 1 / Yellow / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lucas de Carvalho Pereira",
+        "academy": "Nova Opcao"
+      },
+      {
+        "place": "2",
+        "name": "Gabriel Vieira Cavalcante",
+        "academy": "Monteiro"
+      },
+      {
+        "place": "3",
+        "name": "Gelson Jeferson Jesus Oliveira",
+        "academy": "PROJETO DRIVE-IN"
+      },
+      {
+        "place": "3",
+        "name": "Andre Silva Morgado",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Junior 1 / Yellow / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jansen Gomes Ramos",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Lincoln Torres Costa",
+        "academy": "PROJETO DRIVE-IN"
+      },
+      {
+        "place": "3",
+        "name": "Gabriel Fernando S. Ribeiro",
+        "academy": "Irmao Felix JJ"
+      },
+      {
+        "place": "3",
+        "name": "Andrei Charles F. dos Santos",
+        "academy": "ORIENTE"
+      }
+    ]
+  },
+  {
+    "category": "Junior 1 / Yellow / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Daniel Sathler Campos",
+        "academy": "Brazilian Fight"
+      },
+      {
+        "place": "2",
+        "name": "Jose Breno Duarte da Silva",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Erik Rodrigues",
+        "academy": "BRAZIL 021"
+      },
+      {
+        "place": "3",
+        "name": "Thalys Medeiros de Paula",
+        "academy": "ILHA BROTHERS"
+      }
+    ]
+  },
+  {
+    "category": "Junior 1 / Yellow / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jonatas Siqueira Neponuceno",
+        "academy": "Condor"
+      },
+      {
+        "place": "2",
+        "name": "Victor Quintao Netto",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Junior 1 / Yellow / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Joao Pedro Guimaraes",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Junior 1 / Yellow / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fernando Cesar Oliveira Riccio",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Marcos Paulo Costa da Silva",
+        "academy": "BEIJA-FLOR"
+      },
+      {
+        "place": "3",
+        "name": "Mateus Vinicius de Souza",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Junior 1 / Yellow / Female / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gabrielly S. Ramos Conceicao",
+        "academy": "Top Brothers"
+      }
+    ]
+  },
+  {
+    "category": "Junior 1 / Yellow / Female / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Iris Ricardo dos Santos",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Junior 1 / Yellow / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Maria Isabel Piroco Braga",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "2",
+        "name": "Rayssa Oliveira de Souza",
+        "academy": "Carioca Team"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lucas Jose Xavier",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "2",
+        "name": "Allan Gomes Calixto",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Matheus Antonio da Silva",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Victor Bruno Matos Oliveira",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Nick Torrez Costa",
+        "academy": "PROJETO DRIVE-IN"
+      },
+      {
+        "place": "2",
+        "name": "Marcos Vinicius Neves O. Silva",
+        "academy": "ILHA BROTHERS"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Edjeferson Monteiro Araujo",
+        "academy": "Heleno Maia JJ"
+      },
+      {
+        "place": "2",
+        "name": "Lucas Andre Galvao Protasio",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Fernando Conceicao Carvalho",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Daniel Wanzeler de Almeida",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Pedro Dantas de Oliveira",
+        "academy": "Welton Ribeiro"
+      },
+      {
+        "place": "2",
+        "name": "Jonas Dario Ribeiro Ferreira",
+        "academy": "Brazilian Fight"
+      },
+      {
+        "place": "3",
+        "name": "Andrew Vitorino da Motta",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcus Vinicius Pereira Bastos",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Alexandre Fernandes S. Filho",
+        "academy": "Rostan Lacerda"
+      },
+      {
+        "place": "3",
+        "name": "Joao Vitor Viana Bitencourt",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gustavo Fernandes da Silva",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Marcelo Guimaraes Ribeiro",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Antonio Peterson Rocha",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Orlando Domingos Marques",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Roger de Freitas Teixeira",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Pablo Ribeiro Filho",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Tadeu Deon Vieira",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Hemerson Henrique Araujo",
+        "academy": "Carmen Cascagrossa"
+      },
+      {
+        "place": "3",
+        "name": "Pedro Henrique Moreira Simao",
+        "academy": "BEIJA-FLOR"
+      },
+      {
+        "place": "3",
+        "name": "Breno Silva de Lima",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Female / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gleicy Silva do Couto",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Najiana Alves",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Francine da Silva Barcellos",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Luanne de Souza Andrade",
+        "academy": "Carmen Cascagrossa"
+      },
+      {
+        "place": "2",
+        "name": "Mayrha Lucato",
+        "academy": "Top Brothers"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Female / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rayssa Lucas Queiruja",
+        "academy": "ORIENTE"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Yellow / Female / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Brenda Heim Augusto Queiroz",
+        "academy": "CIDADE VIVA JJ"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Yellow / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Adriano Hugo Magalhaes",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "2",
+        "name": "Moises Carlos Ferreira Silva",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Hugo Hagge Neto",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Yellow / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Victor Hugo C. G. Oliveira",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Marcio Ferreira Teixeira",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "3",
+        "name": "Ezequiel Morais de Almeida",
+        "academy": "BEIJA-FLOR"
+      },
+      {
+        "place": "3",
+        "name": "Fabricio Luis Jesus de Oliveira",
+        "academy": "PROJETO DRIVE-IN"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Yellow / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Iuri Lopes Almeida",
+        "academy": "Welton Ribeiro"
+      },
+      {
+        "place": "2",
+        "name": "Breno Oliveira da Silva",
+        "academy": "Heleno Maia JJ"
+      },
+      {
+        "place": "3",
+        "name": "Miguel Vitor Ribeiro Silva",
+        "academy": "PROJETO DRIVE-IN"
+      },
+      {
+        "place": "3",
+        "name": "Marco Antonio Castro",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Yellow / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jeferson da Silva Ramos",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Bruno Prestes Neutel Silva",
+        "academy": "Nova Opcao"
+      },
+      {
+        "place": "3",
+        "name": "Savio Pereira Nascimento",
+        "academy": "Heleno Maia JJ"
+      },
+      {
+        "place": "3",
+        "name": "Hugo Maturo Ritter",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Yellow / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gabriel de Souza Santos",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Tulio Eduardo Santos Pita",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Matheus Correa Lima Vieira",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Matheus Freitas dos Santos",
+        "academy": "ORIENTE"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Yellow / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcelo Souza Lemelle",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Pedro Soares",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Yellow / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Matheus Franca Lamha Vital",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Joao Pedro Santos Bandeira",
+        "academy": "BEIJA-FLOR"
+      },
+      {
+        "place": "3",
+        "name": "Gabriel Luis Goncalves Gomes",
+        "academy": "BEIJA-FLOR"
+      },
+      {
+        "place": "3",
+        "name": "Caio Leandro Silva de Lima",
+        "academy": "BEIJA-FLOR JJ"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Yellow / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Karina Thaina Galvao Protasio",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Julia Maria Stopa",
+        "academy": "Top Brothers"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Yellow / Female / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gabriella Jesus R. Oliveira",
+        "academy": "PROJETO DRIVE-IN"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Yellow / Female / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Dandara de Souza Matos",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Yellow / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Joao Victor Oliveira Costa",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Moises Sales Moreira",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Jonata Wihamis Silva",
+        "academy": "Carmen Cascagrossa"
+      },
+      {
+        "place": "3",
+        "name": "Mateus Cardoso Garcia",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Yellow / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Henrique Salgado Amaral",
+        "academy": "Kioto"
+      },
+      {
+        "place": "2",
+        "name": "Danilo Silva Teles Ribeiro",
+        "academy": "Nova Uniao"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Yellow / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jeferson Guaresi",
+        "academy": "MARCIO FRANK FJJ-RO"
+      },
+      {
+        "place": "2",
+        "name": "Lucas G. Gomes Nascimento",
+        "academy": "Heleno Maia JJ"
+      },
+      {
+        "place": "3",
+        "name": "Matheus M. Figueiredo Fortes",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Gabriel Silva Guedes Santos",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Yellow / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Antonio Affonso C. Lima Filho",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Antony Alejandro King Pinto",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "3",
+        "name": "Clauber Ferreira da Cruz",
+        "academy": "ILHA BROTHERS"
+      },
+      {
+        "place": "3",
+        "name": "Weslley Vandan Machado",
+        "academy": "Atos"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Yellow / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Joilson Brito Ramos Junior",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Bruno Guimaraes da Silva",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Gabriel Habib de Castro",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Lucas Leitao de Souza",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Yellow / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Daniel Oliveira Amorim Junior",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Zyan Ferreira de Andrade",
+        "academy": "Evolve Gordo Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Tulio Victor Lira Protasio",
+        "academy": "Nova Uniao"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Yellow / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Sergio Fabiano Alcantara Souza",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Paulo Jesus Lima",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "3",
+        "name": "Romario Y. Teixeira Oliveira",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Yellow / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rafael Arantes Pereira",
+        "academy": "Alliance"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Yellow / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Carlos Arthur Lopes Freitas",
+        "academy": "ESCOLA DE JJ LEAO"
+      },
+      {
+        "place": "2",
+        "name": "Erick Andrade da Silva",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Josiel de Oliveira",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Yellow / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Yasmin Dorighetti Bouza",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Carla de Araujo Pereira",
+        "academy": "PROJETO DRIVE-IN"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Yellow / Female / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcelle dos Santos Sousa",
+        "academy": "Top Brothers"
+      },
+      {
+        "place": "2",
+        "name": "Eduarda Cristina C. Monteiro",
+        "academy": "STRIKER JJ / GOES"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Yellow / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fabio Felipe Freire Barbosa",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Yellow / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcos Breno Leal",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Yellow / Male / Light",
+    "ranking": [
+      {
+        "place": "3",
+        "name": "Lucas Guimaraes da Silva",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Yellow / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fabio Oliveira Marim",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "2",
+        "name": "Orismildo Silva Nascimento Jr.",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Yellow / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fernando Pereira Vasconcelos",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "2",
+        "name": "Gabriel Evangelista Rodrigues",
+        "academy": "Queiroz Saude"
+      },
+      {
+        "place": "3",
+        "name": "Victor Veronesi Heartel",
+        "academy": "Brigadeiro"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Yellow / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Isaac de Alencar Irineu",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Brandon da Silva Barcellos",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Yellow / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fabio Gorito Lessa",
+        "academy": "ILHA BROTHERS"
+      },
+      {
+        "place": "2",
+        "name": "Eliomar Ramar dos Santos",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Yellow / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcos Souza O. Mendonca",
+        "academy": "Tata Team"
+      },
+      {
+        "place": "2",
+        "name": "Renan Luiz Ribeiro da Cruz",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Gustavo Henrique Negri",
+        "academy": "Maromba JJ"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Yellow / Female / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Brunna B. Almeida Carvalho",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Yellow / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Izabelle Azevedo",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Yellow / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Mayssa Caldas Pereira Bastos",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Yellow / Female / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fabiana Chaves Alcantara",
+        "academy": "ORIENTE"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Yellow / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Valdomiro P. Oliveira Nto",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "2",
+        "name": "Igor da Silva Farias",
+        "academy": "Nova Uniao"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Yellow / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jose Rodrigues Paivs Neto",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "2",
+        "name": "Adrian de Siqueira Hilbert",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Yellow / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Igor Silveira de Lacerda",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "2",
+        "name": "Jefferson Justino da Silva",
+        "academy": "Gaviao"
+      },
+      {
+        "place": "3",
+        "name": "Wesley Moreira Santos Souza",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Marciano Eduardo da Rosa",
+        "academy": "Gracie Florianopolis"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Yellow / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Diego Cesar Palmiere",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Vitor Miniati Dolorico",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Jefferson Cabral da Silva",
+        "academy": "BEIJA-FLOR"
+      },
+      {
+        "place": "3",
+        "name": "David dos Santos Melo",
+        "academy": "Team Buda"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Yellow / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Matheus Santos Martins",
+        "academy": "Brazilian Fight"
+      },
+      {
+        "place": "2",
+        "name": "Joao Pedro Vieira Ferras",
+        "academy": "STRIKER JJ / GOES"
+      },
+      {
+        "place": "3",
+        "name": "Rafael dos Anjos Torres",
+        "academy": "BEIJA-FLOR"
+      },
+      {
+        "place": "3",
+        "name": "Cauata Samuel Avila Rocha",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Yellow / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Natanael da Luz Alves",
+        "academy": "Atos"
+      },
+      {
+        "place": "2",
+        "name": "Alexandre Faria Molinaro",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Yuri Laroque Parente",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Yellow / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Pedro dos Santos Oliveira",
+        "academy": "BRAZIL 021"
+      },
+      {
+        "place": "2",
+        "name": "Victor Cesar Lopes Faria",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Yellow / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rodrigo Paulo Oliveira Bomfim",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Vinicius Goes",
+        "academy": "Liberi/Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Yellow / Female / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Carla Oliveira da Silva",
+        "academy": "Heleno Maia JJ"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Yellow / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Yasmin Barbosa Marins Araujo",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "2",
+        "name": "Larrisa de Oliveira Madruga",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "3",
+        "name": "Perla Nadryelle Lima Baldez",
+        "academy": "ORIENTE"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Yellow / Female / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Alice Maria Lavaquial Silva",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "2",
+        "name": "Glenda Resende da Silva",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Junior 1 / Orange / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Vinicius Arruda de Andrade",
+        "academy": "CIDADE VIVA JJ"
+      }
+    ]
+  },
+  {
+    "category": "Junior 1 / Orange / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Riquelmy Lima Santos",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Orange / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Meyram Maquine Alves",
+        "academy": "Nova Opcao"
+      },
+      {
+        "place": "2",
+        "name": "Lucas Rodrigues Alves",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Pedro Henrique Santos Ararujo",
+        "academy": "Deo"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Orange / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Luiz Felipe Fernades da Silva",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Orange / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Carlos Alberto Araujo Neto",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Orange / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gabriel de Souza Guimaraes",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Orange / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Leonardo S. Pirath Ferreira",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Junior 2 / Orange / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Wendell Ferreira Arcangeletti",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Orange / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ricardo Carvalho Guimaraes",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Orange / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Wellyngton P. Junior",
+        "academy": "Nova Opcao"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Orange / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Bruno Henrique M. Teixeira",
+        "academy": "Nova Opcao"
+      },
+      {
+        "place": "2",
+        "name": "Kyle Montana Pasciolla",
+        "academy": "TEAM ROLLYSON"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Orange / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcio Fallah",
+        "academy": "Kioto"
+      },
+      {
+        "place": "2",
+        "name": "Paulo Roberto G. Nascimento",
+        "academy": "BEIJA-FLOR"
+      },
+      {
+        "place": "3",
+        "name": "Lucas Braz da Silva",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Junior 3 / Orange / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Thalles Crelier Ferreira",
+        "academy": "Nova Uniao"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Orange / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Vinicius C. Silveira Costa",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Antonio Marcos Nunes Junior",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "3",
+        "name": "Thiago Buscacio Goncalves",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Orange / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Pierre Alexandre de Oliveira",
+        "academy": "Nova Opcao"
+      },
+      {
+        "place": "2",
+        "name": "Bernardo B. Curvello Davila",
+        "academy": "Soul Fighters"
+      },
+      {
+        "place": "3",
+        "name": "Bernardo Mansor Guarconi",
+        "academy": "Soul Fighters"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Orange / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Guilherme Borges O. da",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Bruno Serrato Diniz indio",
+        "academy": "Brazilian Fight"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Orange / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ronaldo Dantas Monteiro",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "2",
+        "name": "Christian Higo M. Afonso",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Orange / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rony Rezende Fialho",
+        "academy": "PROJETO DRIVE-IN"
+      },
+      {
+        "place": "2",
+        "name": "Paulo Robson Reis da Silva",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "3",
+        "name": "Romulo dos Santos Justo",
+        "academy": "Equipe Marcio Rodrigues"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Orange / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Luiz Henrique Lima Silva",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "2",
+        "name": "Patrick Lua Santos da Silva",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Orange / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Matheus Gabriel P. Barros",
+        "academy": "Nova Opcao"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Orange / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jonathan Pereira Maia",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Joao Pedro Misk Miller",
+        "academy": "Asle/Behring"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Orange / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Yuri Machado Santos Netto",
+        "academy": "Nova Uniao"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Orange / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Kaique Moreira dos Santos",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "2",
+        "name": "Joao Pedro Bueno Mendes",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Madson Yves Lopes Silva",
+        "academy": "OSVALDO ALVES AM"
+      },
+      {
+        "place": "3",
+        "name": "Elder da Silva Nascimento",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Orange / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ednilson Reis teixeira Junior",
+        "academy": "BEIJA-FLOR"
+      },
+      {
+        "place": "2",
+        "name": "Henrique Nobrega e Silva",
+        "academy": "Integracao"
+      },
+      {
+        "place": "3",
+        "name": "Gabriel Borges Bomfim",
+        "academy": "BRAZIL 021"
+      },
+      {
+        "place": "3",
+        "name": "Milton Gomes Queiroz Neto",
+        "academy": "CIDADE VIVA JJ"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Orange / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Kevin Torres Costa",
+        "academy": "PROJETO DRIVE-IN"
+      },
+      {
+        "place": "2",
+        "name": "Fabio Tavares da Silva",
+        "academy": "De La Riva"
+      },
+      {
+        "place": "3",
+        "name": "Thiago Eugenio Aguiar Borges",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Cristian Alves M. Anunciacao",
+        "academy": "STORM COMBAT"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Orange / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gabriel Jordao Almeida",
+        "academy": "Brazilian Fight"
+      },
+      {
+        "place": "2",
+        "name": "Victor Augusto M. Fontes",
+        "academy": "Liberi/Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Orange / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Pablo Dominato Suppo",
+        "academy": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Orange / Female / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Brunna B. Almeida Carvalho",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Orange / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jonata Gomes Ramos",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Orange / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Joao Paulo Carvalho Leal",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "2",
+        "name": "Fabricio da Silva Ferreira",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Orange / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jose Hayslan Duarte da Silva",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Igor Alexandre Silva Almeida",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Thiago de Carvalho Pereira",
+        "academy": "Nova Opcao"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Orange / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Henrique Costa de O Fontes",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Paulo Henrique Marques",
+        "academy": "MARCIO FRANK FJJ-RO"
+      },
+      {
+        "place": "3",
+        "name": "Luan Carlos Silva Monteiro",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "3",
+        "name": "Eduardo Segovia Cataldo",
+        "academy": "Soul Fighters"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Orange / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Pedro Henrique Souza Santos",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Bruno Monteiro da Silva",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "3",
+        "name": "Bernardo da Silva Assis",
+        "academy": "Kioto"
+      },
+      {
+        "place": "3",
+        "name": "Alef Ramos da Costa",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Orange / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Felipe Pereira Nazare",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Orange / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rodrigo Feitosa Fialho",
+        "academy": "PROJETO DRIVE-IN"
+      },
+      {
+        "place": "2",
+        "name": "Antonio Henrique Costa Silva",
+        "academy": "CIDADE VIVA JJ"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Orange / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Pedro Carvalho Loureiro",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Albertom Third Zambonatto",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Gabriel Muniz da Conceicao",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Renan Vitor Martins",
+        "academy": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Orange / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Wilson Carvalho de Oliveira",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Orange / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rafaela Thais Godoy",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Orange / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lethicia Vieira dos Santos",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Orange / Female / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Amanda Matos Costa",
+        "academy": "ESCOLA DE JJ LEAO"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Orange / Female / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lorna Liberty Lock",
+        "academy": "Peter de Been"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Green / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ygor dos Santos Rodrigues",
+        "academy": "Equipe Marcio Rodrigues"
+      },
+      {
+        "place": "2",
+        "name": "Joao Pedro Fernandes Olinto",
+        "academy": "ESCOLA DE JJ LEAO"
+      }
+    ]
+  },
+  {
+    "category": "Teen 1 / Green / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Armando Oliveira F.Neto",
+        "academy": "CIA AMAZONENSE DE JJ"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Green / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Kaique Maia Kappler Affonso",
+        "academy": "Crezio de Souza"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Green / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gabriel Carlos",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Green / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Maycon Micael Sousa Messias",
+        "academy": "Carioca Team"
+      },
+      {
+        "place": "2",
+        "name": "Victor Leal Antunes",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Eduardo Romanini",
+        "academy": "Godoi JJ Club"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Green / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Emanuel Nepomuceno de",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Green / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Tiago Menezes Pinho",
+        "academy": "De La Riva"
+      },
+      {
+        "place": "2",
+        "name": "Vinicius da Silva Santos",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Teen 2 / Green / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Barbara Eni Lima Gncalves",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Green / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcos Paulo Carvalho Silva",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Green / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Luiz Henrique dos Santos",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Max Peter de Been",
+        "academy": "Peter de Been"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Green / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gustavo Warde Gonzalez",
+        "academy": "Godoi JJ Club"
+      },
+      {
+        "place": "2",
+        "name": "Renato Forasieppi Canuto",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Carlos Eduardo Gomes Pereira",
+        "academy": "CIDADE VIVA JJ"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Green / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lucas Augusto de Oliveira",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Nikolas Georg Hluchan",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Joao Pedro Chaves de Aquino",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "3",
+        "name": "Max Danrley Ferreira da Silva",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Green / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Carlos Hugo da Silva Crespo",
+        "academy": "Alliance"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Green / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Thaissa Pascchoa Costa",
+        "academy": "Heleno Maia JJ"
+      }
+    ]
+  },
+  {
+    "category": "Teen 3 / Green / Female / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Natalia dos Santos Silva",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Oziel Santos de Carvalho",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "2",
+        "name": "Vanderson Alves Junior",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Raimundo Marli Carvalho",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "2",
+        "name": "Felipe Bezerra G. Oliveira",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "3",
+        "name": "felipe Bezerra G. Oliveira",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Felipe Costa de Mello",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lucas Melo Aragao",
+        "academy": "Equipe Marcio Rodrigues"
+      },
+      {
+        "place": "2",
+        "name": "Bruno Luis Jordao de Andrade",
+        "academy": "PRIDE TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Marco Aurelio Ferreira Coelho",
+        "academy": "Nucleo"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Eric Ribeiro Nunes",
+        "academy": "OSVALDO ALVES AM"
+      },
+      {
+        "place": "2",
+        "name": "Luis Eduardo Cabral",
+        "academy": "GRACIE HUMAITA BJJ"
+      },
+      {
+        "place": "3",
+        "name": "Lincoln Araujo Almeida",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Lucas Dante Netto",
+        "academy": "Alliance"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Pedro Henrique C. Almeida",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "2",
+        "name": "Paulo Araujo Neto",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Matheus Abreu Santana Nobre",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Giordane Jorge Antunes Junior",
+        "academy": "De La Riva"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rafael Perroud Graciano",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Brunno Saygo Poolmerod Basto",
+        "academy": "Alliance"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ramiro Oliveira Pereira Faria",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "1",
+        "name": "Murilo Barbosa Alves",
+        "academy": "Liberi/Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Isaque Bahiense Braz",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Joao Pedro Martins Santos",
+        "academy": "Pantera Negra"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Waldyr Alberto C. Santos Filho",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Gabriel Goncalves Fernandes",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Lucas Machado",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Robert Rodrigues da Silva",
+        "academy": "Guigo JJ"
+      },
+      {
+        "place": "2",
+        "name": "Weniton Braga Matos",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "3",
+        "name": "Felipe Dias de Souza",
+        "academy": "BEIJA-FLOR"
+      },
+      {
+        "place": "3",
+        "name": "Gustavo Nascimento de",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rudson Mateus Sarmento",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "2",
+        "name": "Robert Rodrigues da Silva",
+        "academy": "Guigo JJ"
+      },
+      {
+        "place": "3",
+        "name": "Pedro Henrique C. Almeida",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Thiago Henrique Moises",
+        "academy": "Maromba JJ"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Female / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Thayane Oliveira F. Goncalves",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "2",
+        "name": "Ednaira Monteiro Araujo",
+        "academy": "Heleno Maia JJ"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fernanda de Souza Alcantara",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "2",
+        "name": "Tainara Lima Tavora",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Keline Albuquerque Mesquita",
+        "academy": "Brasa"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Larissa Fritzen Amorim",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Ershirley Kessy Pereira Granja",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Debora Torres Dias",
+        "academy": "PRIDE TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Female / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lara Fritzen Amorim",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Danieli Robaski Dambros",
+        "academy": "MICHEL MAIA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Mirian Barboza Nascimento",
+        "academy": "DDR Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Female / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Deborah Candido Coelho",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Female / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Iris Batista Omena Silva",
+        "academy": "Nova Uniao"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 1 / Blue / Female / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lara Fritzen Amorim",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Mirian Barboza Nascimento",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Deborah Candido Coelho",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Larissa Fritzen Amorim",
+        "academy": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Keven Ribeiro dos Santos",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "2",
+        "name": "Ismael de Sousa Marcusso",
+        "academy": "Liberi/Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Guilherme de Sousa Marcusso",
+        "academy": "Liberi/Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Gean Patrick Gomes Ferreira",
+        "academy": "De La Riva"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rodrigo Ribeiro Bezerra",
+        "academy": "Equipe Marcio Rodrigues"
+      },
+      {
+        "place": "2",
+        "name": "Alvaro do Carmo Silva",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "3",
+        "name": "Henrique de Oliveira Rossi",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Bruno Oliveira Neves",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Adameda Silva",
+        "academy": "Nova Opcao"
+      },
+      {
+        "place": "2",
+        "name": "Gabriel de Souza Lima",
+        "academy": "De La Riva"
+      },
+      {
+        "place": "3",
+        "name": "Bruno Luiz Goncalves Silva",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Wellington Alex da Silva",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lucas Nogueira Marcelo",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Vitor Mairesse Ernest",
+        "academy": "Gracie Florianopolis"
+      },
+      {
+        "place": "3",
+        "name": "Guilherme Lopes Ferreira",
+        "academy": "Nucleo"
+      },
+      {
+        "place": "3",
+        "name": "Bruno Raffael",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcio Andre Barbosa Junior",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Roberto Ramos Fontoura Jr.",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Wesley Nunes da Silva",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Icaro Machado Souza",
+        "academy": "BROCA TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Metheus Guilherme da Costa",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Ismael Rodrigues da Silva",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Douglas Souza",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "3",
+        "name": "Hilber Oliveira Santos Filho",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marco Antonio Regio Canatelli",
+        "academy": "Brasa"
+      },
+      {
+        "place": "2",
+        "name": "Breno Almeida Miranda Santos",
+        "academy": "Gracie Barra America"
+      },
+      {
+        "place": "3",
+        "name": "Jefferson Aparecido S.",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Leann Caldas Almeida Bastos",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lucas Mauricio Almeida",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Gabriel Ferreita de Oliveira",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Omar Padilha Zein",
+        "academy": "ESCOLA DE JJ LEAO"
+      },
+      {
+        "place": "3",
+        "name": "Jimmy Total Montesdeoca",
+        "academy": "Alliance"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Igor Gregorio Scheneider",
+        "academy": "Godoi JJ Club"
+      },
+      {
+        "place": "2",
+        "name": "Paulo Henrique Simeao Silva",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Admilson Gobi Junior",
+        "academy": "De La Riva"
+      },
+      {
+        "place": "3",
+        "name": "Phillipe Duarte Rodrigues",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Igor Gregorio Schneider",
+        "academy": "Godoi JJ Club"
+      },
+      {
+        "place": "2",
+        "name": "Admilson Gobi Junior",
+        "academy": "De La Riva"
+      },
+      {
+        "place": "3",
+        "name": "Paulo Henrinque Simeao Silva",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Marcio Andre Barbosa Junior",
+        "academy": "Nova Uniao"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Female / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Julia Najarro Dias Oliveira",
+        "academy": "Ryan Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Bruna Cunha Souza",
+        "academy": "De La Riva"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Wellem Karem Silva Moreira",
+        "academy": "Nova Opcao"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Raissa Restiffe Fumagalli",
+        "academy": "Lotus Club"
+      },
+      {
+        "place": "2",
+        "name": "Stefanie Rosa Alves Caetano",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Ariany Siqueira Borba",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Female / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lunna Tallen Vieira Silva",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "2",
+        "name": "Rafaela S. Jardim Rodrigues",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Andressa Ferreira",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Beatriz da Silva Victorino",
+        "academy": "BEIJA-FLOR"
+      }
+    ]
+  },
+  {
+    "category": "Juvenile 2 / Blue / Female / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Iris Batista Omena Silva",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Rafaela S. Jardim Rodrigues",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Deborah Cristina Vieira Santos",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Ariany Siqueira Borba",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Mauro Leopoldo Lima Freitas",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Anderson Augusto Sarris",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Caonrado Dias Caixao",
+        "academy": "Nova Uniao  N.U"
+      },
+      {
+        "place": "3",
+        "name": "Igor Vieira Goncalves",
+        "academy": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Eduardo Richard Gouveia",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Willian Melo de Oliveira",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Phillipe Martins M. Repoles",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Joale Jefferson da Silva",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jonathan Daltio Rossi",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Yuri Felipe Fonseca Barbosa",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Henrique M. Barreto Araujo",
+        "academy": "Atos"
+      },
+      {
+        "place": "3",
+        "name": "Jorge Luiz Goncalves Coutinho",
+        "academy": "Welton Ribeiro"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Aquila Lanza de Paula",
+        "academy": "Nucleo"
+      },
+      {
+        "place": "2",
+        "name": "Rodrigo Moreira Lima",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "3",
+        "name": "Pedro Paulo Campi Agrizzi",
+        "academy": "STRIKER JJ / GOES"
+      },
+      {
+        "place": "3",
+        "name": "Lucas Benevolo Valle",
+        "academy": "Infight"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Diego Dias Ramalho",
+        "academy": "Gracie Barra PE"
+      },
+      {
+        "place": "2",
+        "name": "Fernando Henrique Halfeld",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "3",
+        "name": "Lion da Silva Santos",
+        "academy": "Gracie Barra PB"
+      },
+      {
+        "place": "3",
+        "name": "Edson Oliveira Filho",
+        "academy": "Alliance"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Patrick Moura Santos Gaudio",
+        "academy": "Top Brothers"
+      },
+      {
+        "place": "2",
+        "name": "Diego Alberto Farias Brasileiro",
+        "academy": "Carlson Gracie Team"
+      },
+      {
+        "place": "3",
+        "name": "Lucas Velemem Pessanha",
+        "academy": "Nova Uniao  N.U"
+      },
+      {
+        "place": "3",
+        "name": "Daniel Felipe Linhares Silva",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fernando Andrade dos Reis",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Eleonai de Abreu Campos",
+        "academy": "Gracie Barra America"
+      },
+      {
+        "place": "3",
+        "name": "Eduardo Menezes da Silva",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Riccardo Riccio",
+        "academy": "Carlson Gracie Team"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Joao Paulo Sousa Soares",
+        "academy": "SAS TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Rodrigo Matos Albuquerque",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Tiago Mendes Gervasio",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Anderson Almeida Silva",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Victor Hugo Honorio",
+        "academy": "Top Brothers"
+      },
+      {
+        "place": "2",
+        "name": "Reanan Carlos A. Albuquerque",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Sthephano Gonzalez S.",
+        "academy": "Heleno Maia JJ"
+      },
+      {
+        "place": "3",
+        "name": "Antonio Altevir Oliveira Lima",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fernando dos Reis",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Anderson Almeida Silva",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Lion da Silva Santos",
+        "academy": "Gracie Barra PB"
+      },
+      {
+        "place": "3",
+        "name": "Elienai de Abreu Campos",
+        "academy": "Gracie Barra America"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Female / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Danielle Carla da Silva",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Female / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Renata Campos de Freitas",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Jessica de Machado",
+        "academy": "Queiroz Saude"
+      },
+      {
+        "place": "3",
+        "name": "Aghata Abreu Santana Nobre",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Jessica Santos Vitorino",
+        "academy": "Top Brothers"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Larissa Stocker Putz",
+        "academy": "Guigo JJ"
+      },
+      {
+        "place": "2",
+        "name": "Daniela Rodrigues Sakai",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Nina Laura Nascimento Neves",
+        "academy": "Queiroz Saude"
+      },
+      {
+        "place": "3",
+        "name": "Mayra Mello Mazza",
+        "academy": "Alliance"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Juliana de Souza",
+        "academy": "Brigadeiro"
+      },
+      {
+        "place": "2",
+        "name": "Iasmim Silva Ribeiro",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Anna Beatriz T. da Motta",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Roberta Silva Paz",
+        "academy": "Gracie Barra America"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Mille Pedersen",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Margaret Aase",
+        "academy": "Frontline"
+      },
+      {
+        "place": "3",
+        "name": "Talita Oliveira Neves",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Thaissa Satie Silva Taniguchi",
+        "academy": "Tanque"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Female / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Dayane Goncalves da Luz",
+        "academy": "GF TEAM ACADEMIA"
+      },
+      {
+        "place": "2",
+        "name": "Alessandra Helena Friedrich",
+        "academy": "Ryan Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Female / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Patricia Cardoso da Silva",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Female / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Joana Darc Amaral Bortone",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Camila Dias Matte",
+        "academy": "Evolve Gordo Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Female / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Maria Bruna Oliveira da Silva",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Edmara Evaristo dos Santos",
+        "academy": "Maromba JJ"
+      },
+      {
+        "place": "3",
+        "name": "Ana Paula Condutta",
+        "academy": "Atos"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Blue / Female / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Margaret Aase",
+        "academy": "Frontline"
+      },
+      {
+        "place": "2",
+        "name": "Joana Darc Amaral Bortone",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Roselaine Barbosa do Carmo",
+        "academy": "Nucleo"
+      },
+      {
+        "place": "3",
+        "name": "Camila Dias Matte",
+        "academy": "Evolve Gordo Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Blue / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Anderson Vieira Martins",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Blue / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Nelson Eduardo Olalla",
+        "academy": "Infight"
+      },
+      {
+        "place": "2",
+        "name": "Michel Herberty justino Souza",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Matheus Ferreira de",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Luiz Gustavo Lopes Marques",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Blue / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Esmerlannio Marias Vianna",
+        "academy": "Agnaldo Goes"
+      },
+      {
+        "place": "2",
+        "name": "Flavio Silva Bezerra",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Paulo Cezar Teodosio Barbosa",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "David Cavalcanti Bezerra",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Blue / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Douglas Fernandes da Silva",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Henrique Freitas Lawall",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "3",
+        "name": "Rodrigo de Lima Lopes",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "3",
+        "name": "Glaubert Gomes de Assis",
+        "academy": "Gracie Barra America"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Blue / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Anilson Araujo Junior",
+        "academy": "Art Combat"
+      },
+      {
+        "place": "2",
+        "name": "Luis Antonio Cabral Amorim",
+        "academy": "Gracie Barra America"
+      },
+      {
+        "place": "3",
+        "name": "Marcelo da Silva Almeida",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Gelson Fernandes",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Blue / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ricardo F. Justiniano Silva",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Julio Cesar Souza Silva",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Thiago Anderson Santos",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Denizar Augusto Pereira",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Blue / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jarbas Pinho Santana",
+        "academy": "Carlson Gracie Team"
+      },
+      {
+        "place": "2",
+        "name": "Rodrigo Vianna Pivari",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "3",
+        "name": "Ismael Vargas Salgueiro",
+        "academy": "ROLANDO TORO JJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Blue / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Claudio Moreira Rosa",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Caludeir Jose Lima",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "3",
+        "name": "Madson Roberto Nascentes",
+        "academy": "Manimal"
+      },
+      {
+        "place": "3",
+        "name": "Vinicius de Castro Coca",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Blue / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ricardo F. Justiniano Silva",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Douglas Fernandes da Silva",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "3",
+        "name": "Jarbas Pinho Santana",
+        "academy": "Carlson Gracie Team"
+      },
+      {
+        "place": "3",
+        "name": "Ronaldo Almeida Carvalho",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Blue / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ana Elisa Araujo Bernardi",
+        "academy": "Sul JJ"
+      },
+      {
+        "place": "2",
+        "name": "Cristiane Campos Medici",
+        "academy": "ILHA BROTHERS"
+      },
+      {
+        "place": "3",
+        "name": "Rita Carvalho de Avellar",
+        "academy": "Carlson Gracie Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Blue / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Danielle Ackerman",
+        "academy": "Evolve Gordo Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Blue / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Leticia Callegari",
+        "academy": "Sul JJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Blue / Female / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ana Elisa Araujo Bernardi",
+        "academy": "Sul JJ"
+      },
+      {
+        "place": "2",
+        "name": "Leticia Callegari",
+        "academy": "Sul JJ"
+      },
+      {
+        "place": "3",
+        "name": "Danielle Ackerman",
+        "academy": "Evolve Gordo Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Blue / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Valdiney de Souza Silva",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Blue / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jose Luiz Lacerda",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Blue / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fabio de Souza Dolorico",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Jean Guimaraes da Silva",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Mauricio Drummond Junior",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Antonio Souza Lima Neto",
+        "academy": "Gracie Barra America"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Blue / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Bruno Lima Rezende",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Raimundo Marcos da Silva",
+        "academy": "Pantera Negra"
+      },
+      {
+        "place": "3",
+        "name": "Marcelo Alexandre V. Oliveira",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Jadir Firmino da Costa",
+        "academy": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Blue / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Wellington Cristiano R. Cunha",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Marcelo Santana",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Lindberg Geraldo Ferreira",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Helio Raimundo Souza Melo",
+        "academy": "CHECK MAT JIU JITSU"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Blue / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jose Reinaldo Fernandes",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Jorge Maria Pereira Junior",
+        "academy": "Godoi JJ Club"
+      },
+      {
+        "place": "3",
+        "name": "Claudio Roberto Alves Sousa",
+        "academy": "Alliance"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Blue / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Reginaldo Cardoso Liani",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Milton Augusto de Queiroz",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Marcello Ribeiro",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Blue / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lucio Flafio de Campos",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Carlos Eduardo Marins Santos",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Roger Tavares Lima",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Blue / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lindenberg Geraldo Ferreira",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Alexandre Destro",
+        "academy": "Guigo JJ"
+      },
+      {
+        "place": "3",
+        "name": "Vinicius Ferreira de Morais",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Jose Alexandro Batista Souza",
+        "academy": "Gracie Barra America"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Blue / Female / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Livia Sampaio Pires",
+        "academy": "Maromba JJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Blue / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Eriberto Ferreira Leite",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Glen Wilde Lago Freitas",
+        "academy": "CIA AMAZONENSE DE JJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Blue / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ricardo dos Santos Duran",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Andre Ricardo Valoura Oliveira",
+        "academy": "GRACIE IPANEMA"
+      },
+      {
+        "place": "3",
+        "name": "Carlos Evandro Marcondes",
+        "academy": "Condor"
+      },
+      {
+        "place": "3",
+        "name": "Gleidson Dinis Lima Gomes",
+        "academy": "ROMEU VALENTE"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Blue / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Alexandre dos Santos Stellet",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Jose Marcos de Oliveira",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Jose Florentino Neto",
+        "academy": "Reacao"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Blue / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Paulo Roguerio Oliveira Silva",
+        "academy": "Brazilian Fight"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Blue / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Alexandre dos Santos Stellet",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Eriberto Ferreira Leite",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Glen Wilde Lago Freitas",
+        "academy": "CIA AMAZONENSE DE JJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Blue / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jose Barros de Souza",
+        "academy": "Maromba JJ"
+      },
+      {
+        "place": "2",
+        "name": "Jorge Sabino",
+        "academy": "Carlson Gracie Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Blue / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jorge de Amaral Pinheiro",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Blue / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jorge Sabino",
+        "academy": "Carlson Gracie Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 5 / Blue / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Plabito Silva Dutra",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 5 / Blue / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ivanil Rodrigues da Silva",
+        "academy": "Reacao"
+      }
+    ]
+  },
+  {
+    "category": "Master 5 / Blue / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Plabito Silva Dutra",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Ivanil Rodrigues da Silva",
+        "academy": "Reacao"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Guilherme Hideki Mori",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Joao Pedro Oliveira Rodrigues",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Jose Carlos S.Lima Sobrinho",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Maiko Alves Contreira",
+        "academy": "Brasa"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Paulo Henrique Miyao",
+        "academy": "PSLPB CICERO COSTHA"
+      },
+      {
+        "place": "2",
+        "name": "Joao Ricardo Miyao",
+        "academy": "PSLPB CICERO COSTHA"
+      },
+      {
+        "place": "3",
+        "name": "Caio Cesar dos Santos",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Bruno Celio Costa Melo",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gabriel Augusto Lyra Villela",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Onofre Ribeiro Lima",
+        "academy": "Fabricio"
+      },
+      {
+        "place": "3",
+        "name": "Vitor Peres Paschoal",
+        "academy": "Carlson Gracie Team"
+      },
+      {
+        "place": "3",
+        "name": "Nicollas Welker Amorim Araujo",
+        "academy": "Ryan Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Stephen Patrick Martin",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Rafael Neves de Carvalho",
+        "academy": "Nucleo"
+      },
+      {
+        "place": "3",
+        "name": "Rafael Henrique Pereira",
+        "academy": "Evolve Gordo Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Rene Alves de Lima",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Victor Silveiro Santos",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Alexandre Cavalieri Silva",
+        "academy": "ENVOLVE ACADEMY"
+      },
+      {
+        "place": "3",
+        "name": "Marcos Oliveira",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Thargus Judson Luna",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Kit James Dale",
+        "academy": "Peter de Been"
+      },
+      {
+        "place": "2",
+        "name": "Marcos Vinicius Silva",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Thiago Felipe de Lima Souza",
+        "academy": "Queiroz Saude"
+      },
+      {
+        "place": "3",
+        "name": "Marcelo Rocha de Melo",
+        "academy": "Brasa"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Alberto Emiliano Pereira",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Regis Francisco Correa de",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Evan Lightrne Gideon",
+        "academy": "Lloyd Irvin M.A Academy"
+      },
+      {
+        "place": "3",
+        "name": "Jayson Jayme ddos Santos",
+        "academy": "Brasa"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Walnan Presto Constantino",
+        "academy": "UNIVERSIDADE DA LUTA"
+      },
+      {
+        "place": "2",
+        "name": "Marcos Lourenco da Silva",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Thyago Oliveira Souza Cista",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Otavio Nascimento Gil Coutinho",
+        "academy": "Brazilian Fight"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gabriel Lyrio Lucas",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Wilbur Ross Leonard III",
+        "academy": "Lloyd Irvin M.A Academy"
+      },
+      {
+        "place": "3",
+        "name": "Bruno Santos Iglesias Lojo",
+        "academy": "Carlson Gracie Team"
+      },
+      {
+        "place": "3",
+        "name": "Joao Walter Sauders do Vale",
+        "academy": "Brasa"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Wilbur Leonard III",
+        "academy": "Lloyd Irvin M.A Academy"
+      },
+      {
+        "place": "2",
+        "name": "Joao Miyao",
+        "academy": "PSLPB CICERO COSTHA"
+      },
+      {
+        "place": "3",
+        "name": "Joao Walter Vale",
+        "academy": "Brasa"
+      },
+      {
+        "place": "3",
+        "name": "Alberto Emiliano Pereira",
+        "academy": "Nova Uniao"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Female / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lauriane Barcellos Cardoso",
+        "academy": "Gracie Barra America"
+      },
+      {
+        "place": "2",
+        "name": "Marcela Thomaz Aquino Alves",
+        "academy": "Guigo JJ"
+      },
+      {
+        "place": "3",
+        "name": "Monica Goncalves de Souza",
+        "academy": "Gracie Barra America"
+      },
+      {
+        "place": "3",
+        "name": "Aline da Silva Pessoa",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Bruna Oliveira Cruz",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Patricia Maria Fontes Santos",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Bruna de Paula Spaiffer",
+        "academy": "CM SYSTEM"
+      },
+      {
+        "place": "3",
+        "name": "Marilia da Conceicao A. Vieira",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Viviane Araujo Gomes",
+        "academy": "Queiroz Saude"
+      },
+      {
+        "place": "2",
+        "name": "Raphaeella Rodrigues da Silva",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Glaucia Braga Libano",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Jeanepher Meirelles Alcantara",
+        "academy": "Gaviao"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rachel Leigh Demara",
+        "academy": "Lloyd Irvin M.A Academy"
+      },
+      {
+        "place": "2",
+        "name": "Bianca Viana Duarte Gomes",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Andreia da Costa Nunes",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Female / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Sijara Jihan Eubanks",
+        "academy": "Lloyd Irvin M.A Academy"
+      },
+      {
+        "place": "2",
+        "name": "Suelen dos Santos Tobias",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Mariela Gabriel Barroco",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Female / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Priscila Costa Jesus Silva",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Pricila de Souza Franca",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Mariana Neponuceno",
+        "academy": "CIDADE VIVA JJ"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Purple / Female / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rachel Leigh Demara",
+        "academy": "Lloyd Irvin M.A Academy"
+      },
+      {
+        "place": "2",
+        "name": "Sijara Jihan Eubanks",
+        "academy": "Lloyd Irvin M.A Academy"
+      },
+      {
+        "place": "3",
+        "name": "Lauriane Barcellos Cardoso",
+        "academy": "Gracie Barra America"
+      },
+      {
+        "place": "3",
+        "name": "Suelen dos Santos Tobias",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Purple / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Joanery Silva de Andrade",
+        "academy": "CIDADE VIVA JJ"
+      },
+      {
+        "place": "2",
+        "name": "Rodrigo Caetano Andrade",
+        "academy": "RAUL QUINTELA"
+      },
+      {
+        "place": "3",
+        "name": "Fabio Bento Domingos",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Patrick Viana da Silva",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Purple / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Stefano Ebbo",
+        "academy": "Reacao"
+      },
+      {
+        "place": "2",
+        "name": "Minkyu Kim",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Rainey de Souza e Silva",
+        "academy": "Agnaldo Goes"
+      },
+      {
+        "place": "3",
+        "name": "Gulliver Raphael R. Vieira",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Purple / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Vinicius Douglas P. Constantino",
+        "academy": "Crezio de Souza"
+      },
+      {
+        "place": "2",
+        "name": "Rodnei Pereira Silva Machado",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Joaci Reis Machado",
+        "academy": "Orlando Araujo"
+      },
+      {
+        "place": "3",
+        "name": "Jorge Leonardo C. Domingues",
+        "academy": "Equipe Marcio Rodrigues"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Purple / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rodrigo da Silva Santana",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Edmar Teiti Guimaraes Ito",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Adilson Chieri Junior",
+        "academy": "Cia Paulista"
+      },
+      {
+        "place": "3",
+        "name": "Jenailton Joaquim da Silva",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Purple / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Emanuel Correa de Mello",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Moises Doerr",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Glauber Fernandes Gruppi",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "3",
+        "name": "Thiago Alves Rocha",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Purple / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcos Roberto Galdino Silva",
+        "academy": "Queiroz Saude"
+      },
+      {
+        "place": "2",
+        "name": "Guilherme Parreira da Silva",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Thiago Pereira da Silva",
+        "academy": "Agnaldo Goes"
+      },
+      {
+        "place": "3",
+        "name": "Guilherme Roberto Moraes",
+        "academy": "RAUL QUINTELA"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Purple / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jose Antonio de Paula",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Roberval Damiao Vitorino",
+        "academy": "Barbosa JJ"
+      },
+      {
+        "place": "3",
+        "name": "Celso Felix Brun",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Marcio Victor Poggi Oliveira",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Purple / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jean Paulo Santana Gonzaga",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Gustavo Jose Soares Castilho",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Rafael Augusto Barros Telles",
+        "academy": "Brazilian Fight"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Purple / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gustavo Jose Soares Castilho",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Roberval Damiao Vitorino",
+        "academy": "Barbosa JJ"
+      },
+      {
+        "place": "3",
+        "name": "Marcos Roberto Galdino Silva",
+        "academy": "Queiroz Saude"
+      },
+      {
+        "place": "3",
+        "name": "Ricardo Torres Tavares",
+        "academy": "Carlson Gracie Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Purple / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rosimere Pereira dos Santos",
+        "academy": "Agnaldo Goes"
+      },
+      {
+        "place": "2",
+        "name": "Ana Gabriela Almeida",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Purple / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Cinthia Mizobe Soares",
+        "academy": "Cia Paulista"
+      },
+      {
+        "place": "2",
+        "name": "Erica Fidelis da Silva Ramos",
+        "academy": "ORIENTE"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Purple / Female / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Sara da Silva Goes",
+        "academy": "Agnaldo Goes"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Purple / Female / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Erica Fidelis da Silva Ramos",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Sara da Silva Goncalves",
+        "academy": "Agnaldo Goes"
+      },
+      {
+        "place": "3",
+        "name": "Cinthia Mizobe Soares",
+        "academy": "Cia Paulista"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Purple / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fabio do Vale Moore",
+        "academy": "Reacao"
+      },
+      {
+        "place": "2",
+        "name": "Renato Augusto da Silva",
+        "academy": "Reacao"
+      },
+      {
+        "place": "3",
+        "name": "Alexandre Fernandes de",
+        "academy": "Rostan Lacerda"
+      },
+      {
+        "place": "3",
+        "name": "Demilson Ferreira",
+        "academy": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Purple / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Daryl Jay Fort",
+        "academy": "GRACIE FIGHTER"
+      },
+      {
+        "place": "2",
+        "name": "Claudio Heinrich Meier",
+        "academy": "Gordo JJ"
+      },
+      {
+        "place": "3",
+        "name": "Alexandre Ribeiro Nascimento",
+        "academy": "Queiroz Saude"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Purple / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcio Oliveira Lima",
+        "academy": "CIDADE VIVA PB"
+      },
+      {
+        "place": "2",
+        "name": "Luciano Jose da Costa",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Leandro Vieira de Freitas",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Erick Jose Travassos Vidigal",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Purple / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marco Aurelio O. Albuquerque",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Daniel Cardoso Angelim",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Luiz Antonio Teixeira Bizarro",
+        "academy": "Evolve Gordo Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Marco Aurelio Messias Sampaio",
+        "academy": "DDR Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Purple / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gustavo Carneiro Melo",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Fabiano G. Arruda Botelho",
+        "academy": "Otavio de Almeida"
+      },
+      {
+        "place": "3",
+        "name": "Rodrigo Macrini Reis",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Purple / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Leonardo Francisco P. Sousa",
+        "academy": "AJJBA"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Purple / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Nilson Monteiro",
+        "academy": "Agnaldo Goes"
+      },
+      {
+        "place": "2",
+        "name": "Evandro Gomes Silva Junior",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Purple / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gustavo Carneiro Melo",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Leonardo Francisco P. Sousa",
+        "academy": "AJJBA"
+      },
+      {
+        "place": "3",
+        "name": "Fabiano G. Arruda Botelho",
+        "academy": "Otavio de Almeida"
+      },
+      {
+        "place": "3",
+        "name": "Nilson Monteiro",
+        "academy": "Agnaldo Goes"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Purple / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Alexandre Salles Barreto Pinto",
+        "academy": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Purple / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Anibal Julio Souza Lourenco",
+        "academy": "Spirit"
+      },
+      {
+        "place": "2",
+        "name": "Dorival Valdes Garcia Junior",
+        "academy": "Asle/Behring"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Purple / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Mauricio Vicente Ribeiro Jr.",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Marcos Eduardo Rosales",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Marcio Duque da Silva",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Purple / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Mauro Sa da Cunha",
+        "academy": "ROLANDO TORO JJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Purple / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Abelardo Antonio M. Torres",
+        "academy": "CIDADE VIVA PB"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Purple / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcos Eduardo Rosales",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Anibal Julio Souza Loureco",
+        "academy": "Spirit"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Purple / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Derci Gomes Pereira",
+        "academy": "Infight"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Purple / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ricardo Ney Silva de Paula",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Purple / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ricardo de Oliveira Duarte",
+        "academy": "ILHA BROTHERS"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Purple / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Bruce Eric Cane",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Marco da S. A. V. Barozzi",
+        "academy": "Brazilian Fight"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Raul Gomes Marcello",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Levy Jackson Melo Ferreira",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Jonatas Dantas da Silva",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Helio Cordeiro Guilherme",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ronaldo Candido Oliveira",
+        "academy": "Atos"
+      },
+      {
+        "place": "2",
+        "name": "Thomas Correa Lisboa",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Elton Teixeira de Souza",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "3",
+        "name": "Jorge Luiz Nakamura",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Michel Augusto Langhi",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Erick Raposo Oliveira",
+        "academy": "Judson Borges"
+      },
+      {
+        "place": "3",
+        "name": "Wallace Diogo Mesquita",
+        "academy": "Reacao"
+      },
+      {
+        "place": "3",
+        "name": "Johnny Crispim",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rodrigo da Conceicao Barbosa",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Pedro Fernandes Farias",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Aldir Carvalho Ramo Junior",
+        "academy": "Evolve Gordo Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Ralph Patrick Go",
+        "academy": "Atos"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "James Harbison",
+        "academy": "Lloyd Irvin M.A Academy"
+      },
+      {
+        "place": "2",
+        "name": "Diego Borges Silva",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "3",
+        "name": "Josimar Cardoso",
+        "academy": "Gracie Florianopolis"
+      },
+      {
+        "place": "3",
+        "name": "Gabriel Procopio da Fonseca",
+        "academy": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Dimitrius Soares Souza",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Renan Fernandes Rodrigues",
+        "academy": "Gracie Barra America"
+      },
+      {
+        "place": "3",
+        "name": "Charles Negromonte Santos",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Bruno Nascimento Melo",
+        "academy": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Joao Gabriel Oliveira Rocha",
+        "academy": "Soul Fighters"
+      },
+      {
+        "place": "2",
+        "name": "Ricardo Ramos de Mesquita",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Pedro Henrique Peres",
+        "academy": "Otavio de Almeida"
+      },
+      {
+        "place": "3",
+        "name": "Raphael Gustavo Andrade",
+        "academy": "Evolve Gordo Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Andre Alberto W. Campos",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Cristiano Freitas Braga",
+        "academy": "UNIVERSIDADE DA LUTA"
+      },
+      {
+        "place": "3",
+        "name": "Tiago Ribeiro Valle Giussani",
+        "academy": "Tanque"
+      },
+      {
+        "place": "3",
+        "name": "Brenno Novaes Veloso",
+        "academy": "Nova Uniao"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Alexander Riis Hillgsoe Trans",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Anderson Batista de Almeida",
+        "academy": "FIGTHERS TEAM BJJ"
+      },
+      {
+        "place": "3",
+        "name": "Jose dos Santos Junior",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Alexandre Altenburg M. Frota",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Joao Gabriel Rocha",
+        "academy": "Soul Fighters"
+      },
+      {
+        "place": "2",
+        "name": "Andre Alberto Campos",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Pedro Henrique Peres",
+        "academy": "Otavio de Almeida"
+      },
+      {
+        "place": "3",
+        "name": "James Harbison",
+        "academy": "Lloyd Irvin"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Female / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Bruna Andre do Nascimento",
+        "academy": "Top Brothers"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Female / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Leticia Vargas Pires",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "2",
+        "name": "Bibiana Dios Tan Pacini Silva",
+        "academy": "Sul JJ"
+      },
+      {
+        "place": "3",
+        "name": "Andrea Emmel",
+        "academy": "HERCULES"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Carla Franco",
+        "academy": "PEDRA 90"
+      },
+      {
+        "place": "2",
+        "name": "Samela Leticia Oliveira Naiff",
+        "academy": "De La Riva"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ida Josefin Hansson",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Priscila Prandini Juni",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Priscila Assuncao S Santos",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Female / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fabiana Pereira Santos",
+        "academy": "Osvaldo Alves"
+      },
+      {
+        "place": "2",
+        "name": "Loana Barbosa de Oliveria",
+        "academy": "Nova Geracao"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Female / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Talita Andrea Nogueira",
+        "academy": "Ryan Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Andressa Correa",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Ludymila Ferrari Espindola",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Brown / Female / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ida Josefin Hansson",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Ludymila Ferrari Espindola",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Talita Andrea Nogueira",
+        "academy": "Ryan Gracie"
+      },
+      {
+        "place": "3",
+        "name": "Samela Leticia Oliveira Naiff",
+        "academy": "De La Riva"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Brown / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jose Ribamar Santiago Junior",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Marcio Rodrigues da Silva",
+        "academy": "Top Brothers"
+      },
+      {
+        "place": "3",
+        "name": "Edson Junio Rodrigues Nunes",
+        "academy": "STRIKER JJ / GOES"
+      },
+      {
+        "place": "3",
+        "name": "Marckson do Carmo Silva",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Brown / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Mauro Sergio da Silva",
+        "academy": "Sul JJ"
+      },
+      {
+        "place": "2",
+        "name": "Carlos Munir Goncalves Fellini",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Pedro Simoes Lopes Miranda",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Izaias dos Santos Fonseca",
+        "academy": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Brown / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jomar Almeida Junior",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Andre Luis Feitoza",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Edson da Silva",
+        "academy": "Mestre Wilson"
+      },
+      {
+        "place": "3",
+        "name": "Leandro Thuler dos Santos",
+        "academy": "Nova Uniao"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Brown / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Thiago Franco O. de Carvalho",
+        "academy": "Nucleo"
+      },
+      {
+        "place": "2",
+        "name": "Rafael Schimming Pereira",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Allan de Freitas",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Arilson Goncalves Lopo",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Brown / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Paulo Jose Pinto",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Glebio Silva Pereira",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Everton Luiz Silveira Oliveira",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Brown / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Alexandre Nunes Brandao",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Ricardo Augusto Oliveira",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Ivanildo Pereira da Silva",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Ricardo Dutra Pessoa Filho",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Brown / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Wandilson Santos Rodrogues",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Rodrigo Ribeiro da Cruz",
+        "academy": "Evolve Gordo Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Julio Cesar Santana Guimaraes",
+        "academy": "BANNI CLUB"
+      },
+      {
+        "place": "3",
+        "name": "Pedro Florencio Fortes Junior",
+        "academy": "Alliance"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Brown / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Luiz Leonardo Leubeck",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Ricardo Edgard Ayres Silva",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Alexandre Rodrigues Maia",
+        "academy": "Gracie Barra America"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Brown / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Adriano Inacio de Rosa",
+        "academy": "MICHEL MAIA JJ"
+      },
+      {
+        "place": "2",
+        "name": "Ricardo Dutra Pessoa Filho",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Julio Cesar Santana Guimaraes",
+        "academy": "BANNI CLUB"
+      },
+      {
+        "place": "3",
+        "name": "Antonio Claret Donatti Jr.",
+        "academy": "GILE RIBEIRO"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Brown / Female / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Tatiana Santos Conceicao",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Brown / Female / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Tatiana Santos Conceicao",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Brown / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Adilson Vaz da Costa",
+        "academy": "Brazilian Fight"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Brown / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Denilson Ferreira",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Claudio Gonsalves Porto",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Brown / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Silvio de Carvalho Reis",
+        "academy": "Reacao"
+      },
+      {
+        "place": "2",
+        "name": "Cristiano da Silva Lourenco",
+        "academy": "Gracie Barra BA"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Brown / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gustavo Soares",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Mariano Jucieudes Cabral",
+        "academy": "Brazilian Fight"
+      },
+      {
+        "place": "3",
+        "name": "Andre Reinaldo da Fonseca",
+        "academy": "EQUIPE MG"
+      },
+      {
+        "place": "3",
+        "name": "Max Fredson de Souza Mol",
+        "academy": "Gracie Barra America"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Brown / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Caius Luiz da Fonseca",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Volmar Trindade Maria",
+        "academy": "Gracie Barra America"
+      },
+      {
+        "place": "3",
+        "name": "Rodrigo Casaes",
+        "academy": "Brazilian Fight"
+      },
+      {
+        "place": "3",
+        "name": "Fabio Kudo",
+        "academy": "Bon Sai"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Brown / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcio Catenacci de Aquino",
+        "academy": "Barbosa JJ"
+      },
+      {
+        "place": "2",
+        "name": "Alessandro M. Ferreira Alegre",
+        "academy": "Maromba JJ"
+      },
+      {
+        "place": "3",
+        "name": "Paulo Jose da Silva",
+        "academy": "DDR Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Emerson Evangelista de",
+        "academy": "Alliance"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Brown / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Emerson Faria de Andrade",
+        "academy": "Tanque"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Brown / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Linario Jose Leal Junior",
+        "academy": "Yamasaki Academy"
+      },
+      {
+        "place": "2",
+        "name": "Leandro Warley S. Lodetti",
+        "academy": "Barbosa JJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Brown / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Joilson de Brito Ramos",
+        "academy": "ORIENTE"
+      },
+      {
+        "place": "2",
+        "name": "Ricardo de Paula Souza",
+        "academy": "Maromba JJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Brown / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Caius Luiz da Fonseca",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Emerson Faria de Andrade",
+        "academy": "Tanque"
+      },
+      {
+        "place": "3",
+        "name": "Andre Galdino Figueira",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Gustavo Soares",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Brown / Female / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Cristina Medeiros dos Santos",
+        "academy": "Equipe Marcio Rodrigues"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Brown / Female / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Cristina Medeiros dos Santos",
+        "academy": "Equipe Marcio Rodrigues"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Brown / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Alex Pereira da Costa",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Brown / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcos Diniz Jesus Lopes",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Victor Mello de A. Cardoso",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Vilmar Fontes Costa",
+        "academy": "CASCAO JJ"
+      },
+      {
+        "place": "3",
+        "name": "Ivan Roberto Ferreira Pinto",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Brown / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Samuel de Souza Pereira",
+        "academy": "Top Brothers"
+      },
+      {
+        "place": "2",
+        "name": "Maurileno Rodrigues Fontes",
+        "academy": "Heleno Maia JJ"
+      },
+      {
+        "place": "3",
+        "name": "Marcelo Alves dos Santos",
+        "academy": "RAUL QUINTELA"
+      },
+      {
+        "place": "3",
+        "name": "Adilson Rabelo Torres Filho",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Brown / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jorge Gomes de Lima",
+        "academy": "Passaros da manha"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Brown / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Vitor Machado da Rocha",
+        "academy": "ART LIVRE"
+      },
+      {
+        "place": "2",
+        "name": "Jose Andrade",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Brown / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Paulo Cesar Furlan",
+        "academy": "Otavio de Almeida"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Brown / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Vitor Machado da Rocha",
+        "academy": "ART LIVRE"
+      },
+      {
+        "place": "2",
+        "name": "Marcos Diniz Jesus Lopes",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "3",
+        "name": "Maurileno Rodrigues Fortes",
+        "academy": "Heleno Maia JJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Brown / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Renato Silva Lyrio Filho",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 5 / Brown / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Chan Ying Kit",
+        "academy": "Orlando Saraiva"
+      }
+    ]
+  },
+  {
+    "category": "Master 5 / Brown / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gustavo Henrique Bosesky",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 5 / Brown / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Silvio Romero Ferreira Moreira",
+        "academy": "Brazilian Fight"
+      }
+    ]
+  },
+  {
+    "category": "Master 5 / Brown / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "David Addison Nicholl",
+        "academy": "Peter de Been"
+      }
+    ]
+  },
+  {
+    "category": "Master 5 / Brown / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "David Addison Nicholl",
+        "academy": "Peter de Been"
+      },
+      {
+        "place": "2",
+        "name": "Gustavo Henrique Bosesky",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Silvio Romero Ferreira Moreira",
+        "academy": "Brazilian Fight"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Bruno Malfacine",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Felipe P. da Costa e Silva",
+        "academy": "Brasa"
+      },
+      {
+        "place": "3",
+        "name": "Elvis Deyvid F. Queiroga",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Igor Rodrigues dos Santos",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ary de Melo Farias",
+        "academy": "Atos"
+      },
+      {
+        "place": "2",
+        "name": "Gabriel Afonso Santos Moraes",
+        "academy": "Clube Pina"
+      },
+      {
+        "place": "3",
+        "name": "Leandro Martins da Silva",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Douglas Rufino da Silva",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Bruno Frazzato Xavier Barbosa",
+        "academy": "Atos"
+      },
+      {
+        "place": "2",
+        "name": "Leonardo Fernandes Saggioro",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "3",
+        "name": "Bruno David Fonseca",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Marcos Alexandre C. Almeida",
+        "academy": "Clube Pina"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Leandro Pereira do",
+        "academy": "PSLPB CICERO COSTHA"
+      },
+      {
+        "place": "2",
+        "name": "Michael Alexandre Langhi",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Davi Ramos Pinheiro da Silva",
+        "academy": "ATOS/TOP BROTHER JJ"
+      },
+      {
+        "place": "3",
+        "name": "Augusto Lopes Mendes",
+        "academy": "Soul Fighters"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Daniel Garcia Dias",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Augusto Casar Carsalade Vieira",
+        "academy": "Renzo Gracie"
+      },
+      {
+        "place": "3",
+        "name": "Alan Douglas P. Nascimento",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Bruno Almeida Alves",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Sergio Ricardo de Moraes",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Nivaldo de Oliveira Lima",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Diogo Sampaio Araujo",
+        "academy": "Soul Fighters"
+      },
+      {
+        "place": "3",
+        "name": "Diego Gamonal Nogueira",
+        "academy": "Brazilian Fight"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Antonio Carlos Barbosa Junior",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Paulo Tarcisio Pessoa Jardim",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Fabiano Junior Leite Souza",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Bruno Novaes Veloso",
+        "academy": "Nova Uniao"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Ricardo Ferreira Evangelista",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Antonio Carlos A. Peinado",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Cassio Francis da Silva",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Leonardo Pires Nogueira",
+        "academy": "Alliance"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Michael George Wilson",
+        "academy": "Peter de Been"
+      },
+      {
+        "place": "2",
+        "name": "Mario Costa Pereira Netto",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Luiz Felipe de Oliveira",
+        "academy": "Tozi"
+      },
+      {
+        "place": "3",
+        "name": "Bruno Matias Soares",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Leonardo Nogueira",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Sergio Moraes",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Nivaldo Oliveira",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marina Soares Ribeiro Medeiros",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Ana Michelle Tavares Dantas",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Female / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Michelle Zonato Nicolini",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Lauriane Clarice Santos",
+        "academy": "CM SYSTEM"
+      },
+      {
+        "place": "3",
+        "name": "Hellen Bastos Teixeira",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Luiza Monteiro Moura Costa",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Tania Mabel Andrade Barreto",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Diana de Souza de Menezes",
+        "academy": "Bon Sai"
+      },
+      {
+        "place": "3",
+        "name": "Tatiana Silva Cordeiro",
+        "academy": "Brazilian Fight"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Female / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Silvana Cristina Silva Abreu",
+        "academy": "Carlson Gracie Team"
+      },
+      {
+        "place": "2",
+        "name": "Fernanda Mazzelli Almeida",
+        "academy": "STRIKER JJ / GOES"
+      },
+      {
+        "place": "3",
+        "name": "Leticia S. Tanabe Lalli",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Female / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Bianca Andrade Barreto",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Female / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Luzia Camem Fernandes",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Adult / Black / Female / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Luiza Monteiro Moura Costa",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Michelle Zonato Nicolini",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Fernanda Mazzelli Almeida",
+        "academy": "STRIKER JJ / GOES"
+      },
+      {
+        "place": "3",
+        "name": "Barbara Gomes dos Santos",
+        "academy": "Queiroz Saude"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Male / Rooster",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Aldo Valente Ubaldo",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Daniel de Oliveira Piza",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Tiago Marques Magalhaes",
+        "academy": "EQUIPE MG"
+      },
+      {
+        "place": "3",
+        "name": "Pablo dos Santos",
+        "academy": "Brazilian Fight"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Vinicius Batista Pedrosa",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "2",
+        "name": "Bruno Vinicius Setta Lagares",
+        "academy": "De La Riva"
+      },
+      {
+        "place": "3",
+        "name": "Rodrigo de Pinho Borges",
+        "academy": "GRACIE IPANEMA"
+      },
+      {
+        "place": "3",
+        "name": "Paulo Cesar Alves Pinheiro",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcelo dos Santos",
+        "academy": "Reacao"
+      },
+      {
+        "place": "2",
+        "name": "Sebastian Augusto Lalli",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Carlos Eduardo Enes Raymundo",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Rafael Lima Ribeiro",
+        "academy": "GAME FIGHT BJJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Thiago de Oliveira Dutra",
+        "academy": "STRIKER JJ / GOES"
+      },
+      {
+        "place": "2",
+        "name": "Felipe Miranda Correia Lima",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Gabriel Toledo Garcia",
+        "academy": "Caveirinha Team"
+      },
+      {
+        "place": "3",
+        "name": "Rodrigo Tarcitano H. de Faria",
+        "academy": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Miogre Tavares Coronheiro",
+        "academy": "Gracie Barra BSB"
+      },
+      {
+        "place": "2",
+        "name": "Gabriel Araujo do Carmo",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Homero Inacio Silveira Junior",
+        "academy": "Gracie Barra BA"
+      },
+      {
+        "place": "3",
+        "name": "Luiz Carlos Chagas",
+        "academy": "Reacao"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Eduardo Milioli",
+        "academy": "Rillion Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Anderson Luis Santos Oliveira",
+        "academy": "Soul Fighters"
+      },
+      {
+        "place": "3",
+        "name": "Washington de Souza Ferreira",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Lucio Sergio dos Santos",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Francinei Duarte dos Santos",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Fabricio do Couto de Araujo",
+        "academy": "PRIDE TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Thiago Ribeiro Coutinho",
+        "academy": "Agnaldo Goes"
+      },
+      {
+        "place": "3",
+        "name": "Paulo Cesar Melo Sa Junior",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rodrigo de Oliveira Cabral",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Renato Rodrigues Fraga",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Gilson Rebelo Pimentel",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Emilio Carlos da Silva Junior",
+        "academy": "DE LA RIVA JIU-JITSU"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Helton Nogueira Lima",
+        "academy": "Gracie Barra BSB"
+      },
+      {
+        "place": "2",
+        "name": "Leonardo Lima Gonzaga",
+        "academy": "Pitbull"
+      },
+      {
+        "place": "3",
+        "name": "Phelippe Lira Souza",
+        "academy": "Pitbull"
+      },
+      {
+        "place": "3",
+        "name": "GabrielSouto Maior Arboes",
+        "academy": "Alliance"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Eduardo Milioli",
+        "academy": "Rillion Gracie"
+      },
+      {
+        "place": "2",
+        "name": "Wesley dos Santos",
+        "academy": "Rocian Gracie"
+      },
+      {
+        "place": "3",
+        "name": "Helton Nogueira Lima",
+        "academy": "Gracie Barra BSB"
+      },
+      {
+        "place": "3",
+        "name": "Daniel Costa Prado",
+        "academy": "Peposo Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Female / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Elizangela Meireles",
+        "academy": "EQUIPE GAVIAO"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Elisangela Silva Fernandes",
+        "academy": "Checkmat Bjj"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Female / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rosalind Ferreira",
+        "academy": "EQUIPE GAVIAO"
+      }
+    ]
+  },
+  {
+    "category": "Master 1 / Black / Female / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Elisangela Silva Fernandes",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Rosalind Ferreira",
+        "academy": "EQUIPE GAVIAO"
+      },
+      {
+        "place": "3",
+        "name": "Elisangela Meireles",
+        "academy": "EQUIPE GAVIAO"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Black / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Andre Luiz Soares",
+        "academy": "EQUIPE MG"
+      },
+      {
+        "place": "2",
+        "name": "Rodrigo Borges Pagani",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Sued dos Santos",
+        "academy": "Alliance"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Black / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Omar Antonio Salum Jr.",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Ricardo Caetano da Silva",
+        "academy": "Pitbull"
+      },
+      {
+        "place": "3",
+        "name": "Klecius Nascimento Marques",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Alcenor Alves Soeiro",
+        "academy": "Nova Opcao"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Black / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Fabricio Medeiros",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "2",
+        "name": "Pedro Jose Freire Falbo",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Luciano Nunes Nucci",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Clayton Meiji Ito",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Black / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gustavo Souto Perdigao Granha",
+        "academy": "Carlson Gracie Team"
+      },
+      {
+        "place": "2",
+        "name": "Alex Luiz dos Anjos Santos",
+        "academy": "MICHEL MAIA JJ"
+      },
+      {
+        "place": "3",
+        "name": "Henrique Patrick Castro Silva",
+        "academy": "Caveirinha Team"
+      },
+      {
+        "place": "3",
+        "name": "Ronaldo Barcelos",
+        "academy": "Fabricio"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Black / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Alcenir Lima da Conceicao",
+        "academy": "De La Riva"
+      },
+      {
+        "place": "2",
+        "name": "Rainaldo dos Santos Vieira",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Alvaro Augusto Oliveira",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "3",
+        "name": "Sandro Pereira Cardoso",
+        "academy": "Nova Uniao  N.U"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Black / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Flavio Roberto Ferreira Silva",
+        "academy": "Brazilian Top Team"
+      },
+      {
+        "place": "2",
+        "name": "Eder Gomes Silva",
+        "academy": "Gracie Barra PB"
+      },
+      {
+        "place": "3",
+        "name": "Ricardo de Azevedo Martins",
+        "academy": "Mestre Wilson"
+      },
+      {
+        "place": "3",
+        "name": "Carlos Alberto Castro A. Filho",
+        "academy": "Osvaldo Alves"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Black / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcus Widengren",
+        "academy": "Hilti BJJ"
+      },
+      {
+        "place": "2",
+        "name": "Raul Silva Faconti",
+        "academy": "Alliance"
+      },
+      {
+        "place": "3",
+        "name": "Nicolau Mario Souza Rodrigues",
+        "academy": "GAME FIGHT BJJ"
+      },
+      {
+        "place": "3",
+        "name": "Rogerio Bracalentti",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Black / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Claudio Daniel Bonfim da",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Alex de Oliveira Magalhaes",
+        "academy": "ILHA BROTHERS"
+      },
+      {
+        "place": "3",
+        "name": "Bruno Domato de Aragao",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Adilson Higa Dorval",
+        "academy": "De La Riva"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Black / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Luciano Nunes Nucci",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Ronilson Nunes Silva",
+        "academy": "Elite"
+      },
+      {
+        "place": "3",
+        "name": "Sergio Ricardo Nunes Ribeiro",
+        "academy": "Nucleo"
+      },
+      {
+        "place": "3",
+        "name": "Claudio Daniel da Silva",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Black / Female / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Renata Felicio",
+        "academy": "Nucleo"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Black / Female / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Maria do Carmo Paixao",
+        "academy": "Carmen Cascagrossa"
+      }
+    ]
+  },
+  {
+    "category": "Master 2 / Black / Female / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Renata Felicio",
+        "academy": "Nucleo"
+      },
+      {
+        "place": "2",
+        "name": "Maria do Carmo Paixao",
+        "academy": "Carmen Cascagrossa"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Black / Male / Light Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jeremias Casemiro Alves Silva",
+        "academy": "Macaco Gold Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Black / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jefferson Campos Dantas",
+        "academy": "De La Riva"
+      },
+      {
+        "place": "2",
+        "name": "Diojone Farias Guimaraes",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Alexandre Abrahao da Silva",
+        "academy": "Brazilian Fight"
+      },
+      {
+        "place": "3",
+        "name": "Guilherme Cascon Martins",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Black / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Adimilson Brites",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Jose Helio Bezerra Dias",
+        "academy": "PSLPB CICERO COSTHA"
+      },
+      {
+        "place": "3",
+        "name": "Marcello Campos Freire",
+        "academy": "Infight"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Black / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Carlos Antonio Oliveira Pinho",
+        "academy": "DE LA RIVA JIU-JITSU"
+      },
+      {
+        "place": "2",
+        "name": "Jefferson Emanuel Barros",
+        "academy": "Checkmat Bjj"
+      },
+      {
+        "place": "3",
+        "name": "Bruno Pitanga Silvares",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Cristovao Oliveira da Silva",
+        "academy": "PRIDE TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Black / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Osires Maia Borges Medeiros",
+        "academy": "Brazilian Fight"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Black / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Dalton Mota Pereira",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Regis Alexandre Santos Silva",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Black / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Eduardo Filizola Soares",
+        "academy": "Alliance"
+      },
+      {
+        "place": "2",
+        "name": "Paulo Roberto Sampaio",
+        "academy": "Evolve Gordo Jiu-Jitsu"
+      },
+      {
+        "place": "3",
+        "name": "Bruno Melo Tavares",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Black / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Frank Alberto Alves Franco",
+        "academy": "Monteiro"
+      },
+      {
+        "place": "2",
+        "name": "Rogerio Rodrigues de Oliveira",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "3",
+        "name": "Alexandre Soares",
+        "academy": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 3 / Black / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Frank Alberto Alves Franco",
+        "academy": "Monteiro"
+      },
+      {
+        "place": "2",
+        "name": "Osires Maia Borges Medeiros",
+        "academy": "Brazilian Fight"
+      },
+      {
+        "place": "3",
+        "name": "Rogerio Rodrigues de Oliveira",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Black / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Lucivaldo Margalho Figueiro",
+        "academy": "Carmen Cascagrossa"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Black / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcel Laguna Duque Estrada",
+        "academy": "Nova Geracao"
+      },
+      {
+        "place": "2",
+        "name": "Evandro Alves Nascimento",
+        "academy": "GF TEAM"
+      },
+      {
+        "place": "3",
+        "name": "Marcio Jordan Reis",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "3",
+        "name": "Simao Henrique Correia",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Black / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Van Dyck Oliveira",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Renato Bezerra de Souza",
+        "academy": "De La Riva"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Black / Male / Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Marcelo Conti",
+        "academy": "Rillion Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Black / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Gibson Amorim Junior",
+        "academy": "Nova Uniao"
+      },
+      {
+        "place": "2",
+        "name": "Giordani Jorge Antunes",
+        "academy": "De La Riva"
+      },
+      {
+        "place": "3",
+        "name": "Ricardo Tadeu Silva Veloso",
+        "academy": "Carlson Gracie Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Black / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Joao Batista Freire Silva",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Jesse Rodrigues Almeida Neto",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 4 / Black / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Jesse Rodrigues Almeida Neto",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "2",
+        "name": "Renato Bezerra de Souza",
+        "academy": "De La Riva"
+      },
+      {
+        "place": "3",
+        "name": "Giordani Jorge Antunes",
+        "academy": "De La Riva"
+      },
+      {
+        "place": "3",
+        "name": "Marcelo Conti",
+        "academy": "Rillion Gracie"
+      }
+    ]
+  },
+  {
+    "category": "Master 5 / Black / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Rolando Patricio Toro",
+        "academy": "ROLANDO TORO JJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 5 / Black / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Luiz Henrique Linck Miller",
+        "academy": "Asle/Behring"
+      }
+    ]
+  },
+  {
+    "category": "Master 5 / Black / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Carlos Bozano Collor",
+        "academy": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "category": "Master 5 / Black / Male / Super Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Joao Miguel F. Nascimento",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Leonardo Correa Pires",
+        "academy": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "category": "Master 5 / Black / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Carlos Bozano Collor",
+        "academy": "Gracie Humaita"
+      },
+      {
+        "place": "2",
+        "name": "Rolando Patricio Toro",
+        "academy": "ROLANDO TORO JJ"
+      }
+    ]
+  },
+  {
+    "category": "Master 6 / Black / Male / Feather",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Milton Marcelo de Faria",
+        "academy": "Brasa"
+      }
+    ]
+  },
+  {
+    "category": "Master 6 / Black / Male / Light",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Cosme Paulo Sturm da Cunha",
+        "academy": "BRAZIL 021"
+      }
+    ]
+  },
+  {
+    "category": "Master 6 / Black / Male / Middle",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Paulo Cesar Santos Oliveira",
+        "academy": "GF TEAM"
+      }
+    ]
+  },
+  {
+    "category": "Master 6 / Black / Male / Medium Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Aloisio Mario dos Santos",
+        "academy": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "category": "Master 6 / Black / Male / Ultra Heavy",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Colin Vaughan Foster",
+        "academy": "Fabricio"
+      }
+    ]
+  },
+  {
+    "category": "Master 6 / Black / Male / Open Class",
+    "ranking": [
+      {
+        "place": "1",
+        "name": "Colin Vaughan Foster",
+        "academy": "Fabricio"
+      },
+      {
+        "place": "2",
+        "name": "Aloisio Mario dos Santos",
+        "academy": "Gracie Barra"
+      },
+      {
+        "place": "3",
+        "name": "Paulo Cesar Santos Oliveira",
+        "academy": "GF TEAM"
+      }
+    ]
+  }
+]
+
+{
+  "Novice": [
+    {
+      "place": "1",
+      "name": "Cidade Viva",
+      "points": ""
+    },
+    {
+      "place": "2",
+      "name": "Alliance",
+      "points": ""
+    },
+    {
+      "place": "3",
+      "name": "Nova Uniao",
+      "points": ""
+    }
+  ],
+  "Mighty Mite": [
+    {
+      "place": "1",
+      "name": "GF Team",
+      "points": ""
+    },
+    {
+      "place": "2",
+      "name": "Osvaldo Alves",
+      "points": ""
+    },
+    {
+      "place": "3",
+      "name": "Nova Opcao",
+      "points": ""
+    }
+  ],
+  "Pee Wee": [
+    {
+      "place": "1",
+      "name": "Gracie Humaita",
+      "points": ""
+    },
+    {
+      "place": "2",
+      "name": "Beija-Flor",
+      "points": ""
+    },
+    {
+      "place": "3",
+      "name": "Game Fight",
+      "points": ""
+    }
+  ],
+  "Junior": [
+    {
+      "place": "1",
+      "name": "Gracie Humaita",
+      "points": ""
+    },
+    {
+      "place": "2",
+      "name": "Nova Opcao",
+      "points": ""
+    },
+    {
+      "place": "3",
+      "name": "GF Team",
+      "points": ""
+    }
+  ],
+  "Teen": [
+    {
+      "place": "1",
+      "name": "Osvaldo Alves",
+      "points": ""
+    },
+    {
+      "place": "2",
+      "name": "GF Team",
+      "points": ""
+    },
+    {
+      "place": "3",
+      "name": "Gracie Barra",
+      "points": ""
+    }
+  ],
+  "Juvenile": [
+    {
+      "place": "1",
+      "name": "Brazilian Top Team",
+      "points": ""
+    },
+    {
+      "place": "2",
+      "name": "DDR JJ",
+      "points": ""
+    },
+    {
+      "place": "3",
+      "name": "Game Fight",
+      "points": ""
+    }
+  ],
+  "Adult Male": [
+    {
+      "place": "1",
+      "name": "Alliance",
+      "points": ""
+    },
+    {
+      "place": "2",
+      "name": "Checkmat BJJ",
+      "points": ""
+    },
+    {
+      "place": "3",
+      "name": "Nova Uniao",
+      "points": ""
+    }
+  ],
+  "Adult Female": [
+    {
+      "place": "1",
+      "name": "Gracie Humaita",
+      "points": ""
+    },
+    {
+      "place": "2",
+      "name": "Brazilian Top Team",
+      "points": ""
+    },
+    {
+      "place": "3",
+      "name": "Alliance",
+      "points": ""
+    }
+  ],
+  "Masters": [
+    {
+      "place": "1",
+      "name": "Checkmat BJJ",
+      "points": ""
+    },
+    {
+      "place": "2",
+      "name": "Lloyd Irvin M.A Academy",
+      "points": ""
+    },
+    {
+      "place": "3",
+      "name": "Gracie Barra",
+      "points": ""
+    }
+  ]
+}

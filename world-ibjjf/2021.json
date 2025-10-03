@@ -1,0 +1,2861 @@
+[
+  {
+    "categoria": "Juvenile 1 / Male / Blue / Light-Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "João C. Nascimento",
+        "academia": "Ares BJJ"
+      },
+      {
+        "posicao": 2,
+        "nome": "Guilherme Gomes Balmante",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Max Alexander Gonzalez",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Stefen Anthony Marlowe",
+        "academia": "Fabin Rosa Brazilian Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Male / Blue / Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Thiago Peixoto de Castilho Frazão",
+        "academia": "Qatar BJJ / Vision Brasil"
+      },
+      {
+        "posicao": 2,
+        "nome": "Jason Chih",
+        "academia": "Vicente Jr. Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Hassan King",
+        "academia": "Ares BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Michael Jalen B. Fonacier",
+        "academia": "Alliance"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Male / Blue / Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Yin Phonnarin Redman",
+        "academia": "Nova União"
+      },
+      {
+        "posicao": 2,
+        "nome": "Arjuna Brown",
+        "academia": "American Jiu-Jitsu Syndicate"
+      },
+      {
+        "posicao": 3,
+        "nome": "Colin Marcus Yun",
+        "academia": "Rodrigo Freitas Brazilian Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Vidar Karl Herman Helin",
+        "academia": "Frontline Academy"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Male / Blue / Middle",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Samuel Hulsey",
+        "academia": "Cleber Jiu-Jitsu Visalia"
+      },
+      {
+        "posicao": 2,
+        "nome": "Jacob Daban Benedicto",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Jesiah Joshua Tubby",
+        "academia": "American Jiu-Jitsu Syndicate"
+      },
+      {
+        "posicao": 3,
+        "nome": "Juan Carlos Granados",
+        "academia": "Cardonas BJJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Male / Blue / Medium-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "William Wilson",
+        "academia": "Carlson Gracie Team"
+      },
+      {
+        "posicao": 2,
+        "nome": "Enzo Botinelly Rodrigues",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 3,
+        "nome": "Bernardo Goulart Teixeira",
+        "academia": "Pirâmide Grappling Association"
+      },
+      {
+        "posicao": 3,
+        "nome": "Enzo Yamasaki",
+        "academia": "Yamasaki Academy"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Male / Blue / Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Rafael Hipólito de Oliveira Junior",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 2,
+        "nome": "Landon Minturn",
+        "academia": "Maracaba BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Alexander Leo Shahin",
+        "academia": "Frontline Academy"
+      },
+      {
+        "posicao": 3,
+        "nome": "Levi Vance Andersen",
+        "academia": "Double Five Glendale"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Male / Blue / Ultra-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Dexter L. A. Tamas Gunnhage",
+        "academia": "Dynamix Fighting Sports"
+      },
+      {
+        "posicao": 2,
+        "nome": "Santiago Pulecio",
+        "academia": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Male / Blue / Open Class Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Colin Marcus Yun",
+        "academia": "Rodrigo Freitas Brazilian Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Michael Jalen B. Fonacier",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Guilherme Gomes Balmante",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Vidar Karl Herman Helin",
+        "academia": "Frontline Academy"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Male / Blue / Open Class Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Rafael Hipólito de Oliveira Junior",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 2,
+        "nome": "Enzo Botinelly Rodrigues",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 3,
+        "nome": "Bernardo Goulart Teixeira",
+        "academia": "Pirâmide Grappling Association"
+      },
+      {
+        "posicao": 3,
+        "nome": "Dexter L. A. Tamas Gunnhage",
+        "academia": "Dynamix Fighting Sports"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Female / Blue / Light-Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Samantha Lopez",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 2,
+        "nome": "Violet Helena Pineda",
+        "academia": "CheckMat"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Female / Blue / Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Gabriela Campos Mendanha",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 2,
+        "nome": "Nyma Anisa Ehtesham",
+        "academia": "Team Shawn Hammonds"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Female / Blue / Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Brianna Holcomb",
+        "academia": "Team Lloyd Irvin"
+      },
+      {
+        "posicao": 2,
+        "nome": "Hailee Joan Scarangello",
+        "academia": "Lotus Club USA"
+      },
+      {
+        "posicao": 3,
+        "nome": "Liliana A. Mendez",
+        "academia": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Female / Blue / Middle",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Júlia Maciel de Carvalho",
+        "academia": "Fight for a Kid"
+      },
+      {
+        "posicao": 2,
+        "nome": "Amara Sofia Rodriguez",
+        "academia": "LCCT - Combat Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Destiney Rachelle Lynn Simmons",
+        "academia": "Alliance"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Female / Blue / Medium-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Carolina Vieira do Carmo Massot",
+        "academia": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Female / Blue / Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Giovanna Xavier Carneiro",
+        "academia": "GF Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Female / Blue / Super-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Emari Ja'khia Brown",
+        "academia": "Fabin Rosa Brazilian Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Eduarda Rodrigues Batista",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Ana Carolina Ferraz Teixeira",
+        "academia": "Anibal Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Female / Blue / Open Class Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Brianna Holcomb",
+        "academia": "Team Lloyd Irvin"
+      },
+      {
+        "posicao": 2,
+        "nome": "Hailee Joan Scarangello",
+        "academia": "Lotus Club USA"
+      },
+      {
+        "posicao": 3,
+        "nome": "Gabriela Campos Mendanha",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 3,
+        "nome": "Liliana A. Mendez",
+        "academia": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 1 / Female / Blue / Open Class Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Giovanna Xavier Carneiro",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 2,
+        "nome": "Carolina Vieira do Carmo Massot",
+        "academia": "Gracie Humaita"
+      },
+      {
+        "posicao": 3,
+        "nome": "Eduarda Rodrigues Batista",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Emari Ja'khia Brown",
+        "academia": "Fabin Rosa Brazilian Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Male / Blue / Light-Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Ismael Alvarez Bermudez",
+        "academia": "Carlson Gracie Team"
+      },
+      {
+        "posicao": 2,
+        "nome": "Caio Contreira Moraes",
+        "academia": "Nova União"
+      },
+      {
+        "posicao": 3,
+        "nome": "Brayden Simmons",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Ethan Abraham",
+        "academia": "Ares BJJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Male / Blue / Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Victor Hugo Araujo Ferreira",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 2,
+        "nome": "Colby Hernandez",
+        "academia": "Soul Fighters Texas"
+      },
+      {
+        "posicao": 3,
+        "nome": "Lucas de Palma Boraschi",
+        "academia": "MJN Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Steven Alexander Gomez",
+        "academia": "Art of Jiu Jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Male / Blue / Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Gustavo Umeoka Ogawa",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Owen Anthony Jones",
+        "academia": "ZR Team Association"
+      },
+      {
+        "posicao": 3,
+        "nome": "Ethan Roy Major",
+        "academia": "Renzo Gracie Ottawa"
+      },
+      {
+        "posicao": 3,
+        "nome": "Matheus Faria Damm",
+        "academia": "Atos Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Male / Blue / Middle",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Michael Carl De Vita",
+        "academia": "Unity Jiu-jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Guy Alexander Ficker",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Cash Burgess",
+        "academia": "TAC Team BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Kydyn Luk Correa Lima",
+        "academia": "Neutral Grounds /  Gracie Jiu Jitsu Long Beach"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Male / Blue / Medium-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Dylan Gary Cordell",
+        "academia": "Tony Passos Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Nathan Lam Nichols",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Christian Robert Shaffer",
+        "academia": "Stout PGH - Team Renzo Gracie"
+      },
+      {
+        "posicao": 3,
+        "nome": "Lucas Sheridan Thomas",
+        "academia": "Atos Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Male / Blue / Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Mateo Cardona",
+        "academia": "Cardonas BJJ"
+      },
+      {
+        "posicao": 2,
+        "nome": "Enzo Marasciulo Silva",
+        "academia": "R1NG BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Martin Sebastian Corvetto",
+        "academia": "Winners Training Center"
+      },
+      {
+        "posicao": 3,
+        "nome": "Thiago Vieira Meirelles",
+        "academia": "Carlson Gracie Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Male / Blue / Super-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Daniel Fernandes Cruz de Souza",
+        "academia": "Icon Jiu-Jitsu Team"
+      },
+      {
+        "posicao": 2,
+        "nome": "Guilherme Avelino da Silva",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "David Mahonri Clay",
+        "academia": "Ares BJJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Male / Blue / Ultra-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Takeshiro Tanino Kauan Yuuki",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Leeroy Gutierrez",
+        "academia": "Ns Brotherhood"
+      },
+      {
+        "posicao": 3,
+        "nome": "Krom Tsuyoshi Shimizu Cunha",
+        "academia": "Cunha Jiu-Jitsu Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Nathan Angelette",
+        "academia": "NOLA Brazilian Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Male / Blue / Open Class Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Gustavo Umeoka Ogawa",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Steven Alexander Gomez",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Ethan Roy Major",
+        "academia": "Renzo Gracie Ottawa"
+      },
+      {
+        "posicao": 3,
+        "nome": "Owen Anthony Jones",
+        "academia": "ZR Team Association"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Male / Blue / Open Class Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Takeshiro Tanino Kauan Yuuki",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Mateo Cardona",
+        "academia": "Cardonas BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "David Mahonri Clay",
+        "academia": "Ares BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Guilherme Avelino da Silva",
+        "academia": "Alliance"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Female / Blue / Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Delaney Grace Smith",
+        "academia": "Honor Roll BJJ"
+      },
+      {
+        "posicao": 2,
+        "nome": "Mandy Schneider",
+        "academia": "Soul Fighters Texas"
+      },
+      {
+        "posicao": 3,
+        "nome": "Shye Lilly",
+        "academia": "Sim Go Academy"
+      },
+      {
+        "posicao": 3,
+        "nome": "Yasmin Nayara de Oliveira Gomes da Silva",
+        "academia": "Guigo JJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Female / Blue / Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Lauren Hanako Sognefest",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Camryn Payton Oranday",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Marisa Kay Trentadue",
+        "academia": "Uflacker Academy"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Female / Blue / Middle",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Tamara Toros",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Sydney J. Dizon",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Ana Luiza Bianchi Vanelli",
+        "academia": "Lótus Club"
+      },
+      {
+        "posicao": 3,
+        "nome": "Rylee Kitchen",
+        "academia": "CheckMat"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Female / Blue / Medium-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Emily Adrianne Gomes Vasconcelos Martins",
+        "academia": "American Top Team Coconut Creek"
+      },
+      {
+        "posicao": 2,
+        "nome": "Elizabeth Genge",
+        "academia": "Stealth BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Stephanie Alexandra Lain",
+        "academia": "University of Ground Fighting"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Female / Blue / Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Keanna Carolyn Klay",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 2,
+        "nome": "Nuzmeya Mohammad Abdrabboh",
+        "academia": "LEAD BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Isabel Texas Foster",
+        "academia": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Female / Blue / Super-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Nia Blackman",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 2,
+        "nome": "Alexis Frederick",
+        "academia": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Female / Blue / Open Class Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Lauren Hanako Sognefest",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Camryn Payton Oranday",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Shye Lilly",
+        "academia": "Sim Go Academy"
+      },
+      {
+        "posicao": 3,
+        "nome": "Yasmin Nayara de Oliveira Gomes da Silva",
+        "academia": "Guigo JJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Female / Blue / Open Class Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Nia Blackman",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 2,
+        "nome": "Elizabeth Genge",
+        "academia": "Stealth BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Emily Adrianne Gomes Vasconcelos Martins",
+        "academia": "American Top Team Coconut Creek"
+      },
+      {
+        "posicao": 3,
+        "nome": "Rylee Kitchen",
+        "academia": "CheckMat"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Male / Purple / Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Cole Anthony Abate",
+        "academia": "Art of Jiu Jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Juvenile 2 / Male / Purple / Open Class Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Cole Anthony Abate",
+        "academia": "Art of Jiu Jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Blue / Rooster",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Varun Mehrotra",
+        "academia": "Unity Jiu-jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Arthur Teixeira Francisco",
+        "academia": "Fight for a Kid"
+      },
+      {
+        "posicao": 3,
+        "nome": "Kaelin Richard Matthews",
+        "academia": "Nova União"
+      },
+      {
+        "posicao": 3,
+        "nome": "Quinton Isaiah Dixon",
+        "academia": "Team Lloyd Irvin"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Blue / Light-Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Henry Vielma",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 2,
+        "nome": "André Luiz Sarmento Baroni",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Jason Adrian Calvario",
+        "academia": "Unity Jiu-jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Pedro Henrique Moura Avila",
+        "academia": "Dream Art"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Blue / Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Jonah Aaron Gratt",
+        "academia": "Unity Jiu-Jitsu International"
+      },
+      {
+        "posicao": 2,
+        "nome": "Rafael Camargo Costa",
+        "academia": "Carlson Gracie Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Abdul Mateen Stevens",
+        "academia": "Unity Jiu-jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Andre-Dominic Tedoco Salimbangon",
+        "academia": "R1NG BJJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Blue / Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Enzo Ciarlini Gurgel Azara",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 2,
+        "nome": "Tad Alan Cravens",
+        "academia": "Pedigo Submission Fighting"
+      },
+      {
+        "posicao": 3,
+        "nome": "Johnathan Waid",
+        "academia": "Gracie Barra Academy"
+      },
+      {
+        "posicao": 3,
+        "nome": "Lisander Lopez",
+        "academia": "Unity Jiu-jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Blue / Middle",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "José Steve Nduazulu Ndilu",
+        "academia": "Cens Academy"
+      },
+      {
+        "posicao": 2,
+        "nome": "Victor Tannus de Araujo",
+        "academia": "MXT Academy BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Carlos Heredia",
+        "academia": "Team Lloyd Irvin"
+      },
+      {
+        "posicao": 3,
+        "nome": "Joseph Alfred De La Mora",
+        "academia": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Blue / Medium-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Danylo Ferreira Wruck",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 2,
+        "nome": "Nation Gibrick",
+        "academia": "Pedigo Submission Fighting"
+      },
+      {
+        "posicao": 3,
+        "nome": "Andrews Dyer",
+        "academia": "Surfight Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Joshua Lee Grubbs",
+        "academia": "BJJ Revolution Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Blue / Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Leonardo Silveira Ferreira",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 2,
+        "nome": "Peter Hailer",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Kevin Thomas Smith",
+        "academia": "Double Five Highland Village"
+      },
+      {
+        "posicao": 3,
+        "nome": "Richard Kelly",
+        "academia": "TAC Team BJJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Blue / Super-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Nicklas Christopher Vinso Hartman",
+        "academia": "Zenith BJJ - Las Vegas"
+      },
+      {
+        "posicao": 2,
+        "nome": "Salron Zephirin",
+        "academia": "Unity Jiu-jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Chris Cornwell",
+        "academia": "Brazilian Top Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Travis Patrick Flynn",
+        "academia": "Fabio Novaes BJJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Blue / Ultra-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Pedro Marcolino Sales Filho",
+        "academia": "Zenith BJJ"
+      },
+      {
+        "posicao": 2,
+        "nome": "Marc Leon",
+        "academia": "Caio Terra Association"
+      },
+      {
+        "posicao": 3,
+        "nome": "Jonovan Darius Smith",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Martin Andres Gonzalez",
+        "academia": "Brazilian Top Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Blue / Open Class",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Danylo Ferreira Wruck",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 2,
+        "nome": "Leonardo Silveira Ferreira",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "José Steve Nduazulu Ndilu",
+        "academia": "Cens Academy"
+      },
+      {
+        "posicao": 3,
+        "nome": "Joshua Lee Grubbs",
+        "academia": "BJJ Revolution Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Blue / Rooster",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Melody M. Y. Wong",
+        "academia": "SF Empire Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Daniela de Souza Mosqueira",
+        "academia": "Luiz Palhares Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Christina Yuequan Kwok",
+        "academia": "Brazilian Top Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Jayda Ann C. Macatangay",
+        "academia": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Blue / Light-Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Thaynara Victoria Soares da Silva",
+        "academia": "Dream Art"
+      },
+      {
+        "posicao": 2,
+        "nome": "Sophia Rose Magana",
+        "academia": "Nova União"
+      },
+      {
+        "posicao": 3,
+        "nome": "Dominique Aceves",
+        "academia": "Rodrigo Pinheiro BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Elisabeth Cristianna Robles",
+        "academia": "CheckMat"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Blue / Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Karina Nicole Lagrana",
+        "academia": "Team Lloyd Irvin"
+      },
+      {
+        "posicao": 2,
+        "nome": "Karen Damm",
+        "academia": "American Top Team Coconut Creek"
+      },
+      {
+        "posicao": 3,
+        "nome": "Gabrielle Czernik",
+        "academia": "Grapplers Guide"
+      },
+      {
+        "posicao": 3,
+        "nome": "Malena Sessa",
+        "academia": "Renzo Gracie Orlando"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Blue / Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Olivia Schauer",
+        "academia": "Tony Passos Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Iris Nascimento da Costa Feliz",
+        "academia": "R1NG BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Gabriela Carrillo Cortes",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Leilani Suma Bernales",
+        "academia": "Fight Sports"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Blue / Middle",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Heloysa Fernanda Araujo Oliveira",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 2,
+        "nome": "Naomi Sharp",
+        "academia": "Unity Jiu-jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Aila Solecki",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Sienna Alicia Rodriguez",
+        "academia": "BJJ Revolution Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Blue / Medium-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Giovanna Jara de Souza",
+        "academia": "Dream Art"
+      },
+      {
+        "posicao": 2,
+        "nome": "Kiana Jackson",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Kathleen Ann Sparks",
+        "academia": "LEAD BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Sara Elizabeth Kouba",
+        "academia": "Cleber Jiu-Jitsu Visalia"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Blue / Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Laura Kolm Schmidlin",
+        "academia": "Unity Jiu-jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Elizabeth Grace Sebestyen",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Riana Elizabeth Roche Coogan",
+        "academia": "ECJJA"
+      },
+      {
+        "posicao": 3,
+        "nome": "Yekaterina Sin",
+        "academia": "Ethos Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Blue / Super-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Lyndsie Maurene Hauck",
+        "academia": "Absolute Behring"
+      },
+      {
+        "posicao": 2,
+        "nome": "Alexandra Waasdorp",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Lucy Campos",
+        "academia": "Paragon BJJ Academy"
+      },
+      {
+        "posicao": 3,
+        "nome": "Melissa Peart",
+        "academia": "Unity Jiu-jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Blue / Open Class",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Thaynara Victoria Soares da Silva",
+        "academia": "Dream Art"
+      },
+      {
+        "posicao": 2,
+        "nome": "Giovanna Jara de Souza",
+        "academia": "Dream Art"
+      },
+      {
+        "posicao": 3,
+        "nome": "Heloysa Fernanda Araujo Oliveira",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 3,
+        "nome": "Laura Kolm Schmidlin",
+        "academia": "Unity Jiu-jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Purple / Rooster",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Shay Ananda Montague",
+        "academia": "ECJJA"
+      },
+      {
+        "posicao": 2,
+        "nome": "Lucas de Souza Castro",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 3,
+        "nome": "Daniel Ferretti Levi",
+        "academia": "Carlson Gracie Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Santiago Guerra",
+        "academia": "GF Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Purple / Light-Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Eduardo Granzotto Vidal Lima",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 2,
+        "nome": "Robin Bohlin",
+        "academia": "Rodrigo Pinheiro BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Jacob Elijah Cisneros",
+        "academia": "Cleber Jiu-Jitsu Visalia"
+      },
+      {
+        "posicao": 3,
+        "nome": "Lucas Tomas Canto",
+        "academia": "Corpo E Mente International"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Purple / Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Mourece Noah Ramirez",
+        "academia": "Nova União"
+      },
+      {
+        "posicao": 2,
+        "nome": "Cleison dos Santos Gabriel",
+        "academia": "Carlson Gracie Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Guilherme Rodrigues Fernandes",
+        "academia": "PSLPB Cicero Costha USA"
+      },
+      {
+        "posicao": 3,
+        "nome": "Tero Aku, Oskari Juntunen",
+        "academia": "Hilti BJJ Turku"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Purple / Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Adilson Junior Fernandes Monteiro",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 2,
+        "nome": "Tyler Shew",
+        "academia": "Caio Terra Association"
+      },
+      {
+        "posicao": 3,
+        "nome": "João Pedro Lopes Rodrigues",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Mo'olele H. A. Cuellar",
+        "academia": "Rodrigo Pinheiro BJJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Purple / Middle",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Franco Manuel Diaz",
+        "academia": "Unity Jiu-jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Vinicius Bueno Coimbra",
+        "academia": "ZR Team Association"
+      },
+      {
+        "posicao": 3,
+        "nome": "Corey Marcus Dorsey II",
+        "academia": "Team Lloyd Irvin"
+      },
+      {
+        "posicao": 3,
+        "nome": "Mahmoud M Jabr",
+        "academia": "Wisconsin 360 Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Purple / Medium-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Gabriel Viebrantz Brod",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 2,
+        "nome": "Dory Raymond Aoun",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Luis Flávio Vital de Paula Junior",
+        "academia": "Rodrigo Pinheiro BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Mauro Bastian Rebolledo Baeza",
+        "academia": "Fight Sports"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Purple / Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Rayron Gracie",
+        "academia": "Renzo Gracie Academy"
+      },
+      {
+        "posicao": 2,
+        "nome": "Francisco Papasidero",
+        "academia": "Renzo Gracie Academy"
+      },
+      {
+        "posicao": 3,
+        "nome": "Guilherme  Carmo Cypriano",
+        "academia": "PSLPB Cicero Costha USA"
+      },
+      {
+        "posicao": 3,
+        "nome": "Thomas Henry Strembickyj",
+        "academia": "Unity Jiu-jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Purple / Super-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Joao Marcelo Ribeiro",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 2,
+        "nome": "Caio Perondi de Melo",
+        "academia": "Zenith BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "London Horn",
+        "academia": "Ares BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Victor Bonato",
+        "academia": "CheckMat"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Purple / Ultra-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Bruno Rodrigues Altoé",
+        "academia": "Nova União"
+      },
+      {
+        "posicao": 2,
+        "nome": "Wyatt Beau Doblado",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Helder Jose Rodrigues Júnior",
+        "academia": "Qatar BJJ / Vision Brasil"
+      },
+      {
+        "posicao": 3,
+        "nome": "William Doucet",
+        "academia": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Purple / Open Class",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Rayron Gracie",
+        "academia": "Renzo Gracie Academy"
+      },
+      {
+        "posicao": 2,
+        "nome": "Dory Raymond Aoun",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Gabriel Viebrantz Brod",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 3,
+        "nome": "Guilherme  Carmo Cypriano",
+        "academia": "PSLPB Cicero Costha USA"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Purple / Rooster",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Shelby Lena Murphey",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Yasmyn Castro",
+        "academia": "Nova União"
+      },
+      {
+        "posicao": 3,
+        "nome": "Giavanna Crivello",
+        "academia": "Ralph Gracie"
+      },
+      {
+        "posicao": 3,
+        "nome": "Janayra Nascimento Cavalcante",
+        "academia": "Ares BJJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Purple / Light-Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Lani Strijbosch",
+        "academia": "Meraki BJJ"
+      },
+      {
+        "posicao": 2,
+        "nome": "Natalie Faris",
+        "academia": "TAC Team BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Ana Carolina Da Silva",
+        "academia": "Fight Sports"
+      },
+      {
+        "posicao": 3,
+        "nome": "Sandra Jimenez-Villalvazo",
+        "academia": "Sim Go Academy"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Purple / Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Maria Cláudia Almeida Silva",
+        "academia": "Infight JJ"
+      },
+      {
+        "posicao": 2,
+        "nome": "Adrianna Natalia Wojarska",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 3,
+        "nome": "Brenda Wunner",
+        "academia": "Form Jiu Jitsu Academy"
+      },
+      {
+        "posicao": 3,
+        "nome": "Sooin Choi",
+        "academia": "KJ Competition Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Purple / Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Emily Pakulski",
+        "academia": "Unity Jiu-jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Felicia Jocelyne Marie Marceau",
+        "academia": "PSLPB Cicero Costha USA"
+      },
+      {
+        "posicao": 3,
+        "nome": "Elizabeth Cao Huang",
+        "academia": "Abmar Barbosa Association"
+      },
+      {
+        "posicao": 3,
+        "nome": "Maria Carolina Joia da Silva",
+        "academia": "GF Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Purple / Middle",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Rebeca Ferreira de Lima",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 2,
+        "nome": "Mayara Santos de Melo",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Ana Carolina Marques de Siqueira Campos",
+        "academia": "GF Team International"
+      },
+      {
+        "posicao": 3,
+        "nome": "Larissa Martins dos Santos",
+        "academia": "Dream Art"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Purple / Medium-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Aurélie LE Vern",
+        "academia": "Six Blades Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Jhenifer Barbosa dos Santos Canezin",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Kennedy Paige Franklin",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Scarlett Anstiss-Liljefors",
+        "academia": "Dynamix Fighting Sports"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Purple / Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Danielle R Walker",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 2,
+        "nome": "Ibtisam El-Shahat",
+        "academia": "PSLPB Cicero Costha USA"
+      },
+      {
+        "posicao": 3,
+        "nome": "Amanda Corey Kempa",
+        "academia": "Alliance"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Purple / Super-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Bailey Luttrell",
+        "academia": "Sabre Jiu-Jitsu Academy"
+      },
+      {
+        "posicao": 2,
+        "nome": "Erin Quillen",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Anna Vyrginnia da Silva Rocha",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Ruby Rachel Matic",
+        "academia": "Gracie Barra"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Purple / Open Class",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Rebeca Ferreira de Lima",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 2,
+        "nome": "Aurélie LE Vern",
+        "academia": "Six Blades Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Scarlett Anstiss-Liljefors",
+        "academia": "Dynamix Fighting Sports"
+      },
+      {
+        "posicao": 3,
+        "nome": "Sooin Choi",
+        "academia": "KJ Competition Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Brown / Rooster",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Matheus Henrique Araújo Azancot Vilaça",
+        "academia": "Ares BJJ"
+      },
+      {
+        "posicao": 2,
+        "nome": "Hiryu Niwa",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Osamah Ali Almarwai",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Pierre Pires",
+        "academia": "Brazil 021 School of Jiu-Jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Brown / Light-Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Sebastian Ernesto Serpa",
+        "academia": "Carlson Gracie Team"
+      },
+      {
+        "posicao": 2,
+        "nome": "Yuma Nomura",
+        "academia": "Pato Studio"
+      },
+      {
+        "posicao": 3,
+        "nome": "Reon Niwa",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Thomas Foster Kennedy",
+        "academia": "Roberto Traven BJJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Brown / Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Eduardo de Araujo Roque",
+        "academia": "R1NG BJJ"
+      },
+      {
+        "posicao": 2,
+        "nome": "Daniel Sathler Campos",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "An Vu",
+        "academia": "Roberto Traven BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Carlos Eduardo Jourdan Nogueira",
+        "academia": "GF Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Brown / Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Tye Ruotolo",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Kade Ruotolo",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Lucas Batista Rodrigues",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Lucas Garcia Alcantara",
+        "academia": "PSLPB Cicero Costha USA"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Brown / Middle",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Mateus Rodrigues de Souza",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Vinícius do Canto Martins",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Elijah Youngblood Pizarro",
+        "academia": "Roberto Traven BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Luiz Eduardo de Oliveira Athayde",
+        "academia": "Carlson Gracie Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Brown / Medium-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Jansen Gomes Ramos",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 2,
+        "nome": "Enderson Dias de Almeida",
+        "academia": "Fight Sports"
+      },
+      {
+        "posicao": 3,
+        "nome": "Martin Alejandro Gonzalez Mejia",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Rui Alves Neto",
+        "academia": "Dream Art"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Brown / Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Pedro Henrique Pinheiro Machado de Souza",
+        "academia": "R1NG BJJ"
+      },
+      {
+        "posicao": 2,
+        "nome": "Elder Alexander Cruz",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Javier Arturo Barter",
+        "academia": "Fernando Moya Jiu-Jitsu Academy"
+      },
+      {
+        "posicao": 3,
+        "nome": "Theo Lee Lopes de Andrades",
+        "academia": "Ares BJJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Brown / Super-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Mason Fowler",
+        "academia": "Caio Terra Association"
+      },
+      {
+        "posicao": 2,
+        "nome": "Renan Cruz",
+        "academia": "R1NG BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Cássio Felipe Sousa Costa",
+        "academia": "Six Blades Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Marcos Carrozzino",
+        "academia": "GF Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Brown / Ultra-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Guilherme Bacha Guedes",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 2,
+        "nome": "Paulo André Lanzillotti",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Matheus de Menezes Ferreira Marely",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Pedro José Pessoa de Melo Bisneto",
+        "academia": "ZR Team Association"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Brown / Open Class",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Pedro Henrique Pinheiro Machado de Souza",
+        "academia": "R1NG BJJ"
+      },
+      {
+        "posicao": 2,
+        "nome": "Mason Fowler",
+        "academia": "Caio Terra Association"
+      },
+      {
+        "posicao": 3,
+        "nome": "Eduardo de Araujo Roque",
+        "academia": "R1NG BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Rui Alves Neto",
+        "academia": "Dream Art"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Brown / Rooster",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Jhenifer Aquino Gonzaga",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Giulia Guimaraes Gregorut",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Faye Cherrier",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Fiona Ko",
+        "academia": "Art of Jiu Jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Brown / Light-Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Rafaela Alexandra Policarpo da Rosa",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 2,
+        "nome": "Abbigayle Pontes",
+        "academia": "PSLPB Cicero Costha USA"
+      },
+      {
+        "posicao": 3,
+        "nome": "Isadora Borges Maggioni",
+        "academia": "Carlson Gracie Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Jessica Mallely Crane",
+        "academia": "Ares BJJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Brown / Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Gabriela A. Pereira",
+        "academia": "Qatar BJJ / Vision Brasil"
+      },
+      {
+        "posicao": 2,
+        "nome": "Elizabeth Joy Liera",
+        "academia": "Atos JJ USA"
+      },
+      {
+        "posicao": 3,
+        "nome": "Alexandria L. Enriquez",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Astrid Scholin",
+        "academia": "CheckMat"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Brown / Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Vitoria Carollina Araujo Vieira",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 2,
+        "nome": "Thamires Arruda Monteiro",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Joanna Christine Trindade",
+        "academia": "TAC Team BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Júlia de Jesus Alves",
+        "academia": "GF Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Brown / Middle",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Iasmim Casser da Silva",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Betina Chaves Penedo Pereira",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Jéssika Bartoli Almeida",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Michelle Marques de Oliveira",
+        "academia": "ACJJ International"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Brown / Medium-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Amy Scot Campo",
+        "academia": "Zenith BJJ - Las Vegas"
+      },
+      {
+        "posicao": 2,
+        "nome": "Luciana Mota Castelo Branco",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Brittney Johnson",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Deise dos Santos Leonanjo",
+        "academia": "PSLPB Cicero Costha USA"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Brown / Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Paige Ivette Borras",
+        "academia": "Legion American Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Letícia Cardozo de Carvalho",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Maria Vitória Gonçalves Ruffatto",
+        "academia": "Brazilian Top Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Maryanna Santos Cardoso",
+        "academia": "Unity Jiu-jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Brown / Super-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Mayara Kaori Oishi",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 2,
+        "nome": "Savannah Marie Ellis",
+        "academia": "Lotus Club USA"
+      },
+      {
+        "posicao": 3,
+        "nome": "Ashley Montellano",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Athena Simona Herrera",
+        "academia": "One World Jiu Jitsu Academy"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Brown / Open Class",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Amy Scot Campo",
+        "academia": "Zenith BJJ - Las Vegas"
+      },
+      {
+        "posicao": 2,
+        "nome": "Mayara Kaori Oishi",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Maria Vitória Gonçalves Ruffatto",
+        "academia": "Brazilian Top Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Vitoria Carollina Araujo Vieira",
+        "academia": "GF Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Black / Rooster",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Michael Musumeci Jr.",
+        "academia": "Pedigo Submission Fighting"
+      },
+      {
+        "posicao": 2,
+        "nome": "Bruno da Silva Malfacine",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Francisco Jonas Borges Andrade",
+        "academia": "PSLPB Cicero Costha USA"
+      },
+      {
+        "posicao": 3,
+        "nome": "Rodnei Barbosa Gabriel Jr.",
+        "academia": "Qatar BJJ Brasil"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Black / Light-Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Diego Oliveira Batista",
+        "academia": "PSLPB Cicero Costha USA"
+      },
+      {
+        "posicao": 2,
+        "nome": "Malachi James C. Edmond",
+        "academia": "Team Lloyd Irvin"
+      },
+      {
+        "posicao": 3,
+        "nome": "Meyram Maquiné Alves",
+        "academia": "Dream Art"
+      },
+      {
+        "posicao": 3,
+        "nome": "Rene Eduardo Lopez",
+        "academia": "Jiu-Jitsu Methods"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Black / Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Fabricio Andrey Batista  Junior",
+        "academia": "Fight Sports"
+      },
+      {
+        "posicao": 2,
+        "nome": "Shane Jamil Hill-Taylor",
+        "academia": "Team Lloyd Irvin"
+      },
+      {
+        "posicao": 3,
+        "nome": "Alexssandro Pinto Sodré",
+        "academia": "Nova União"
+      },
+      {
+        "posicao": 3,
+        "nome": "Raimundo Diego Pinto Sodre",
+        "academia": "Nova União"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Black / Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Renato Forasieppi Alves Canuto",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 2,
+        "nome": "Matheus Gabriel Pinheiro Barros",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Lucas Sette C. Valente Tobias",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 3,
+        "nome": "Murilo Guimarães do Amaral",
+        "academia": "Alliance"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Black / Middle",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Tainan Dalpra Costa",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Isaque Bahiense Braz",
+        "academia": "Dream Art"
+      },
+      {
+        "posicao": 3,
+        "nome": "Jonnatas Gracie Araujo da Silva",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Tommy Lilleskog Langaker",
+        "academia": "Nova União"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Black / Medium-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Gustavo Espindola Batista",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Lucas Daniel Silva Barbosa",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "André Luiz Novaes Porfirio",
+        "academia": "Fight Sports"
+      },
+      {
+        "posicao": 3,
+        "nome": "Leandro Lo Pereira do Nascimento",
+        "academia": "Unity Jiu-jitsu"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Black / Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Kaynan Casemiro Duarte",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Luan Azevedo Lima",
+        "academia": "PSLPB Cicero Costha USA"
+      },
+      {
+        "posicao": 3,
+        "nome": "Dimitrius Soares Souza",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Gabriel Henrique dos S. Oliveira",
+        "academia": "Alliance"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Black / Super-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Erich Munis dos Santos",
+        "academia": "Dream Art"
+      },
+      {
+        "posicao": 2,
+        "nome": "Fellipe Andrew Leandro Silva",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Devhonte M. Johnson",
+        "academia": "Unity Jiu-jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Harryson Santana Pereira",
+        "academia": "Ataque Duplo"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Black / Ultra-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Victor Hugo Costa Marques",
+        "academia": "Six Blades Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Max dos Santos Gimenis",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 3,
+        "nome": "Igor Gregório Schneider",
+        "academia": "Dream Art"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Male / Black / Open Class",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Fellipe Andrew Leandro Silva",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Kaynan Casemiro Duarte",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Max dos Santos Gimenis",
+        "academia": "GF Team"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Black / Rooster",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Mayssa Caldas Pereira Bastos",
+        "academia": "GF Team"
+      },
+      {
+        "posicao": 2,
+        "nome": "Jessica Caroline Coelho Dantas",
+        "academia": "Caio Terra Association Brasil"
+      },
+      {
+        "posicao": 3,
+        "nome": "Brenda Larissa Alves da Silva",
+        "academia": "Fight Sports"
+      },
+      {
+        "posicao": 3,
+        "nome": "Serena Gabrielli",
+        "academia": "Flow"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Black / Light-Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Ana Cristina Araujo Rodrigues",
+        "academia": "Dream Art"
+      },
+      {
+        "posicao": 2,
+        "nome": "Tammi Alana Musumeci",
+        "academia": "Pedigo Submission Fighting"
+      },
+      {
+        "posicao": 3,
+        "nome": "Jessamine Jada Khan",
+        "academia": "Art of Jiu Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Rose-Marie el Sharouni",
+        "academia": "CheckMat"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Black / Feather",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Gabrielle McComb Lima",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Bianca Barbosa Basilio",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Gabriela Meireles Fechter",
+        "academia": "CheckMat"
+      },
+      {
+        "posicao": 3,
+        "nome": "Larissa Campos Carvalho",
+        "academia": "Gracie Humaita"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Black / Light",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Beatriz de Oliveira Mesquita",
+        "academia": "Gracie Humaita"
+      },
+      {
+        "posicao": 2,
+        "nome": "Luiza Monteiro Moura da Costa",
+        "academia": "Atos Jiu-Jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Margot Ciccarelli",
+        "academia": "Unity Jiu-jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Nathalie Wan Soares Veras Ribeiro",
+        "academia": "CheckMat"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Black / Middle",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Andressa Mezari Cintra",
+        "academia": "Gracie Barra"
+      },
+      {
+        "posicao": 2,
+        "nome": "Thamara Ferreira Silva",
+        "academia": "Guigo JJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Claire North",
+        "academia": "TAC Team BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Raquel Dayne Kaleialoha Paaluhi",
+        "academia": "CheckMat"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Black / Medium-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Ana Carolina Vieira Srour",
+        "academia": "Aviv Jiu-Jitsu"
+      },
+      {
+        "posicao": 2,
+        "nome": "Elisabeth Ann Clay",
+        "academia": "Ares BJJ"
+      },
+      {
+        "posicao": 3,
+        "nome": "Chloé  McNally",
+        "academia": "Unity Jiu-jitsu"
+      },
+      {
+        "posicao": 3,
+        "nome": "Fernanda Yukari Makiyama Cristo",
+        "academia": "Evox BJJ"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Black / Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Melissa Stricker Cueto",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 2,
+        "nome": "Izadora Cristina Silva",
+        "academia": "Dream Art"
+      },
+      {
+        "posicao": 3,
+        "nome": "Maggie Grindatti",
+        "academia": "Fight Sports"
+      },
+      {
+        "posicao": 3,
+        "nome": "Maria Malyjasiak",
+        "academia": "Abmar Barbosa Association"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Black / Super-Heavy",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Gabrieli Pessanha de Souza Marinho",
+        "academia": "Infight JJ"
+      },
+      {
+        "posicao": 2,
+        "nome": "Yara Soares do Nascimento",
+        "academia": "Dream Art"
+      },
+      {
+        "posicao": 3,
+        "nome": "Gabrielle Lemos Garcia",
+        "academia": "Alliance"
+      },
+      {
+        "posicao": 3,
+        "nome": "Mayara Monteiro Custódio",
+        "academia": "CheckMat"
+      }
+    ]
+  },
+  {
+    "categoria": "Adult / Female / Black / Open Class",
+    "ranking": [
+      {
+        "posicao": 1,
+        "nome": "Gabrieli Pessanha de Souza Marinho",
+        "academia": "Infight JJ"
+      },
+      {
+        "posicao": 2,
+        "nome": "Yara Soares do Nascimento",
+        "academia": "Dream Art"
+      },
+      {
+        "posicao": 3,
+        "nome": "Beatriz de Oliveira Mesquita",
+        "academia": "Gracie Humaita"
+      },
+      {
+        "posicao": 3,
+        "nome": "Gabrielle Lemos Garcia",
+        "academia": "Alliance"
+      }
+    ]
+  }
+]
+
+{
+  "Masculino": [
+    {
+      "posicao": 1,
+      "academia": "CheckMat",
+      "pontos": 62
+    },
+    {
+      "posicao": 2,
+      "academia": "Alliance",
+      "pontos": 60
+    },
+    {
+      "posicao": 3,
+      "academia": "Atos Jiu-Jitsu",
+      "pontos": 47
+    },
+    {
+      "posicao": 4,
+      "academia": "R1NG BJJ",
+      "pontos": 32
+    },
+    {
+      "posicao": 5,
+      "academia": "Unity Jiu-jitsu",
+      "pontos": 27
+    },
+    {
+      "posicao": 6,
+      "academia": "Gracie Barra",
+      "pontos": 25
+    },
+    {
+      "posicao": 7,
+      "academia": "Art of Jiu Jitsu",
+      "pontos": 23
+    },
+    {
+      "posicao": 8,
+      "academia": "Nova União",
+      "pontos": 22
+    },
+    {
+      "posicao": 9,
+      "academia": "Renzo Gracie Academy",
+      "pontos": 21
+    },
+    {
+      "posicao": 10,
+      "academia": "GF Team",
+      "pontos": 20
+    }
+  ],
+  "Feminino": [
+    {
+      "posicao": 1,
+      "academia": "GF Team",
+      "pontos": 63
+    },
+    {
+      "posicao": 2,
+      "academia": "Dream Art",
+      "pontos": 49
+    },
+    {
+      "posicao": 3,
+      "academia": "CheckMat",
+      "pontos": 39
+    },
+    {
+      "posicao": 4,
+      "academia": "Infight JJ",
+      "pontos": 27
+    },
+    {
+      "posicao": 5,
+      "academia": "Atos Jiu-Jitsu",
+      "pontos": 27
+    },
+    {
+      "posicao": 6,
+      "academia": "Unity Jiu-jitsu",
+      "pontos": 26
+    },
+    {
+      "posicao": 7,
+      "academia": "Gracie Barra",
+      "pontos": 24
+    },
+    {
+      "posicao": 8,
+      "academia": "Alliance",
+      "pontos": 24
+    },
+    {
+      "posicao": 9,
+      "academia": "Art of Jiu Jitsu",
+      "pontos": 21
+    },
+    {
+      "posicao": 10,
+      "academia": "Zenith BJJ - Las Vegas",
+      "pontos": 18
+    }
+  ],
+  "Juvenil": [
+    {
+      "posicao": 1,
+      "academia": "Gracie Barra",
+      "pontos": 52
+    },
+    {
+      "posicao": 2,
+      "academia": "Art of Jiu Jitsu",
+      "pontos": 47
+    },
+    {
+      "posicao": 3,
+      "academia": "Atos Jiu-Jitsu",
+      "pontos": 35
+    },
+    {
+      "posicao": 4,
+      "academia": "Alliance",
+      "pontos": 29
+    },
+    {
+      "posicao": 5,
+      "academia": "GF Team",
+      "pontos": 27
+    },
+    {
+      "posicao": 6,
+      "academia": "CheckMat",
+      "pontos": 27
+    },
+    {
+      "posicao": 7,
+      "academia": "Carlson Gracie Team",
+      "pontos": 19
+    },
+    {
+      "posicao": 8,
+      "academia": "Team Lloyd Irvin",
+      "pontos": 18
+    },
+    {
+      "posicao": 9,
+      "academia": "Cardonas BJJ",
+      "pontos": 13
+    },
+    {
+      "posicao": 10,
+      "academia": "Ares BJJ",
+      "pontos": 13
+    }
+  ]
+}
