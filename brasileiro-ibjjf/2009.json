@@ -5990,7 +5990,7 @@
   }
 ]
 
-{
+"rankingAcademias": [{
   "Novice": [
     {
       "place": "1",
@@ -6134,4 +6134,4 @@
       "points": ""
     }
   ]
-}
+}]

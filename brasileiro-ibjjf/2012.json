@@ -7671,7 +7671,7 @@
   }
 ]
 
-{
+"rankingAcademias": [{
   "Estreantes": [
     {
       "posicao": 1,
@@ -8105,4 +8105,4 @@
       "pontos": 11
     }
   ]
-}
+}]

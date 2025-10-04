@@ -6030,8 +6030,7 @@
     ]
   }
 ]
-
-{
+"rankingAcademias": [{
   "Mighty Mite": [
     {
       "place": "1",
@@ -6168,4 +6167,4 @@
       "points": ""
     }
   ]
-}
+}]

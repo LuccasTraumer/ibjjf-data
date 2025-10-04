@@ -2181,7 +2181,7 @@
   }
 ]
 
-{
+"rankingAcademias":[{
   "Masculino": [
     {
       "posicao": 1,
@@ -2338,4 +2338,4 @@
       "pontos": 10
     }
   ]
-}
+}]

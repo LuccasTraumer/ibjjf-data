@@ -756,7 +756,7 @@
   }
 ]
 
-{
+"rankingAcademias":[{
   "Overall": [
     {
       "place": "1",
@@ -774,4 +774,4 @@
       "points": ""
     }
   ]
-}
+}]

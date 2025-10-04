@@ -1036,10 +1036,47 @@
   }
 ]
 
-// Academias
-// Masculino
-["Aliance", "Nova Uniao", "Carlson Gracie"]
-// Feminino
-["UGF", "Brigadeiro", "Aliance"]
-// Juvenil
-["Nova Uniao", "Carlson Gracie", "UGF"]
+"rankingAcademias": [{
+  "Masculino": [
+    {
+      "nome": "Aliance",
+      "posicao": 1
+    },
+    {
+      "nome": "Nova Uniao",
+      "posicao": 2
+    },
+    {
+      "nome": "Carlson Gracie",
+        "posicao": 3
+    }],
+    "Feminino": [
+        {
+        "nome": "UGF",
+        "posicao": 1
+        },
+        {
+        "nome": "Brigadeiro",
+        "posicao": 2
+        },
+        {
+        "nome": "Aliance",
+        "posicao": 3
+        }
+      ],
+  "Juvenil": [
+    {
+      "nome": "Nova Uniao",
+      "posicao": 1
+    },
+    {
+      "nome": "Carlson Gracie",
+      "posicao": 2
+    },
+    {
+      "nome": "UGF",
+      "posicao": 3
+    }
+  ]
+}]
+

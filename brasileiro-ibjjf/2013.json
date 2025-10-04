@@ -7631,7 +7631,7 @@
   }
 ]
 
-{
+"rankingAcademias": [{
   "Pré-Mirim": [
     {
       "posicao": 1,
@@ -7986,4 +7986,4 @@
       "pontos": 13
     }
   ]
-}
+}]

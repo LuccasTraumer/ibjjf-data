@@ -5141,7 +5141,7 @@
   }
 ]
 
-{
+"rankingAcademias": [{
   "Pee Wee": [
     {
       "place": "1",
@@ -5261,4 +5261,4 @@
       "points": ""
     }
   ]
-}
+}]

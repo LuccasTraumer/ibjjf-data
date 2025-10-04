@@ -6348,7 +6348,7 @@
   }
 ]
 
-{
+"rankingAcademias": [{
   "Pre Mirim": [
     {
       "place": "1",
@@ -6485,4 +6485,4 @@
       "points": ""
     }
   ]
-}
+}]

@@ -7336,7 +7336,7 @@
   }
 ]
 
-{
+"rankingAcademias":[{
   "Novice": [
     {
       "posicao": 1,
@@ -7545,4 +7545,4 @@
       "pontos": 9
     }
   ]
-}
+}]

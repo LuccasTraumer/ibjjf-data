@@ -5826,7 +5826,7 @@
   }
 ]
 
-{
+"rankingAcademias": [{
   "Juvenile": [
     {
       "place": "1",
@@ -5895,4 +5895,4 @@
       "points": ""
     }
   ]
-}
+}]

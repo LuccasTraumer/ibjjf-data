@@ -2496,7 +2496,7 @@
   }
 ]
 
-{
+"rankingAcademias":[{
   "Adult Male": [
     {
       "place": "1",
@@ -2565,4 +2565,4 @@
       "points": ""
     }
   ]
-}
+}]
