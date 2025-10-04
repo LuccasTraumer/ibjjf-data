@@ -12828,216 +12828,217 @@
         "academia": "Tribal Gym"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "AOJ",
+          "pontos": 105
+        },
+        {
+          "posicao": 2,
+          "academia": "Alliance",
+          "pontos": 79
+        },
+        {
+          "posicao": 3,
+          "academia": "CheckMat",
+          "pontos": 56
+        },
+        {
+          "posicao": 4,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 38
+        },
+        {
+          "posicao": 5,
+          "academia": "Cicero Costha Internacional",
+          "pontos": 28
+        },
+        {
+          "posicao": 6,
+          "academia": "DreamArt",
+          "pontos": 26
+        },
+        {
+          "posicao": 7,
+          "academia": "Six Blades Jiu-Jitsu",
+          "pontos": 20
+        },
+        {
+          "posicao": 8,
+          "academia": "Marcio Andre Jiu-Jitsu",
+          "pontos": 15
+        },
+        {
+          "posicao": 9,
+          "academia": "Start Doing",
+          "pontos": 14
+        },
+        {
+          "posicao": 10,
+          "academia": "Esporte Dez / Instituto Calasans Camargo",
+          "pontos": 12
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 53
+        },
+        {
+          "posicao": 2,
+          "academia": "Alliance",
+          "pontos": 48
+        },
+        {
+          "posicao": 3,
+          "academia": "AOJ",
+          "pontos": 40
+        },
+        {
+          "posicao": 4,
+          "academia": "DreamArt",
+          "pontos": 33
+        },
+        {
+          "posicao": 5,
+          "academia": "Gracie Barra",
+          "pontos": 33
+        },
+        {
+          "posicao": 6,
+          "academia": "Fratres Brazilian Jiu-Jitsu",
+          "pontos": 28
+        },
+        {
+          "posicao": 7,
+          "academia": "Team Lloyd Irvin",
+          "pontos": 21
+        },
+        {
+          "posicao": 8,
+          "academia": "Infight JJ",
+          "pontos": 18
+        },
+        {
+          "posicao": 9,
+          "academia": "JFC Almeida JJ",
+          "pontos": 18
+        },
+        {
+          "posicao": 10,
+          "academia": "GF Team",
+          "pontos": 14
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Melqui Galvão Jiu-Jitsu",
+          "pontos": 45
+        },
+        {
+          "posicao": 2,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 40
+        },
+        {
+          "posicao": 3,
+          "academia": "AOJ",
+          "pontos": 38
+        },
+        {
+          "posicao": 4,
+          "academia": "Vision",
+          "pontos": 33
+        },
+        {
+          "posicao": 5,
+          "academia": "Gracie Barra",
+          "pontos": 31
+        },
+        {
+          "posicao": 6,
+          "academia": "Nova União",
+          "pontos": 27
+        },
+        {
+          "posicao": 7,
+          "academia": "Marcio Andre Jiu-Jitsu",
+          "pontos": 26
+        },
+        {
+          "posicao": 8,
+          "academia": "Squad BJJ",
+          "pontos": 21
+        },
+        {
+          "posicao": 9,
+          "academia": "CheckMat",
+          "pontos": 20
+        },
+        {
+          "posicao": 10,
+          "academia": "Infight JJ",
+          "pontos": 19
+        }
+      ],
+      "Novice": [
+        {
+          "posicao": 1,
+          "academia": "Pedigo Submission Fighting",
+          "pontos": 77
+        },
+        {
+          "posicao": 2,
+          "academia": "Gracie Barra",
+          "pontos": 58
+        },
+        {
+          "posicao": 3,
+          "academia": "Renato Tavares Association",
+          "pontos": 45
+        },
+        {
+          "posicao": 4,
+          "academia": "Alliance",
+          "pontos": 37
+        },
+        {
+          "posicao": 5,
+          "academia": "Rilion Gracie Miami Lakes",
+          "pontos": 36
+        },
+        {
+          "posicao": 6,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 27
+        },
+        {
+          "posicao": 7,
+          "academia": "R1NG BJJ",
+          "pontos": 27
+        },
+        {
+          "posicao": 8,
+          "academia": "CheckMat",
+          "pontos": 26
+        },
+        {
+          "posicao": 9,
+          "academia": "Nova União",
+          "pontos": 25
+        },
+        {
+          "posicao": 10,
+          "academia": "Lansang Brazilian Jiu-Jitsu",
+          "pontos": 22
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "AOJ",
-      "pontos": 105
-    },
-    {
-      "posicao": 2,
-      "academia": "Alliance",
-      "pontos": 79
-    },
-    {
-      "posicao": 3,
-      "academia": "CheckMat",
-      "pontos": 56
-    },
-    {
-      "posicao": 4,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 38
-    },
-    {
-      "posicao": 5,
-      "academia": "Cicero Costha Internacional",
-      "pontos": 28
-    },
-    {
-      "posicao": 6,
-      "academia": "DreamArt",
-      "pontos": 26
-    },
-    {
-      "posicao": 7,
-      "academia": "Six Blades Jiu-Jitsu",
-      "pontos": 20
-    },
-    {
-      "posicao": 8,
-      "academia": "Marcio Andre Jiu-Jitsu",
-      "pontos": 15
-    },
-    {
-      "posicao": 9,
-      "academia": "Start Doing",
-      "pontos": 14
-    },
-    {
-      "posicao": 10,
-      "academia": "Esporte Dez / Instituto Calasans Camargo",
-      "pontos": 12
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 53
-    },
-    {
-      "posicao": 2,
-      "academia": "Alliance",
-      "pontos": 48
-    },
-    {
-      "posicao": 3,
-      "academia": "AOJ",
-      "pontos": 40
-    },
-    {
-      "posicao": 4,
-      "academia": "DreamArt",
-      "pontos": 33
-    },
-    {
-      "posicao": 5,
-      "academia": "Gracie Barra",
-      "pontos": 33
-    },
-    {
-      "posicao": 6,
-      "academia": "Fratres Brazilian Jiu-Jitsu",
-      "pontos": 28
-    },
-    {
-      "posicao": 7,
-      "academia": "Team Lloyd Irvin",
-      "pontos": 21
-    },
-    {
-      "posicao": 8,
-      "academia": "Infight JJ",
-      "pontos": 18
-    },
-    {
-      "posicao": 9,
-      "academia": "JFC Almeida JJ",
-      "pontos": 18
-    },
-    {
-      "posicao": 10,
-      "academia": "GF Team",
-      "pontos": 14
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Melqui Galvão Jiu-Jitsu",
-      "pontos": 45
-    },
-    {
-      "posicao": 2,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 40
-    },
-    {
-      "posicao": 3,
-      "academia": "AOJ",
-      "pontos": 38
-    },
-    {
-      "posicao": 4,
-      "academia": "Vision",
-      "pontos": 33
-    },
-    {
-      "posicao": 5,
-      "academia": "Gracie Barra",
-      "pontos": 31
-    },
-    {
-      "posicao": 6,
-      "academia": "Nova União",
-      "pontos": 27
-    },
-    {
-      "posicao": 7,
-      "academia": "Marcio Andre Jiu-Jitsu",
-      "pontos": 26
-    },
-    {
-      "posicao": 8,
-      "academia": "Squad BJJ",
-      "pontos": 21
-    },
-    {
-      "posicao": 9,
-      "academia": "CheckMat",
-      "pontos": 20
-    },
-    {
-      "posicao": 10,
-      "academia": "Infight JJ",
-      "pontos": 19
-    }
-  ],
-  "Novice": [
-    {
-      "posicao": 1,
-      "academia": "Pedigo Submission Fighting",
-      "pontos": 77
-    },
-    {
-      "posicao": 2,
-      "academia": "Gracie Barra",
-      "pontos": 58
-    },
-    {
-      "posicao": 3,
-      "academia": "Renato Tavares Association",
-      "pontos": 45
-    },
-    {
-      "posicao": 4,
-      "academia": "Alliance",
-      "pontos": 37
-    },
-    {
-      "posicao": 5,
-      "academia": "Rilion Gracie Miami Lakes",
-      "pontos": 36
-    },
-    {
-      "posicao": 6,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 27
-    },
-    {
-      "posicao": 7,
-      "academia": "R1NG BJJ",
-      "pontos": 27
-    },
-    {
-      "posicao": 8,
-      "academia": "CheckMat",
-      "pontos": 26
-    },
-    {
-      "posicao": 9,
-      "academia": "Nova União",
-      "pontos": 25
-    },
-    {
-      "posicao": 10,
-      "academia": "Lansang Brazilian Jiu-Jitsu",
-      "pontos": 22
-    }
-  ]
-}]

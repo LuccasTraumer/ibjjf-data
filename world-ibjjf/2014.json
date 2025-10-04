@@ -2498,164 +2498,165 @@
         "academia": "PSLPB Cicero Costha"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 99
+        },
+        {
+          "posicao": 2,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 97
+        },
+        {
+          "posicao": 3,
+          "academia": "Gracie Barra",
+          "pontos": 57
+        },
+        {
+          "posicao": 4,
+          "academia": "Team Lloyd Irvin",
+          "pontos": 51
+        },
+        {
+          "posicao": 5,
+          "academia": "CheckMat",
+          "pontos": 50
+        },
+        {
+          "posicao": 6,
+          "academia": "GF Team",
+          "pontos": 49
+        },
+        {
+          "posicao": 7,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 16
+        },
+        {
+          "posicao": 8,
+          "academia": "Ribeiro Jiu-Jitsu",
+          "pontos": 15
+        },
+        {
+          "posicao": 9,
+          "academia": "Nova União",
+          "pontos": 13
+        },
+        {
+          "posicao": 10,
+          "academia": "Alliance International",
+          "pontos": 13
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 79
+        },
+        {
+          "posicao": 2,
+          "academia": "CheckMat",
+          "pontos": 52
+        },
+        {
+          "posicao": 3,
+          "academia": "Gracie Humaita",
+          "pontos": 46
+        },
+        {
+          "posicao": 4,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 42
+        },
+        {
+          "posicao": 5,
+          "academia": "Team Lloyd Irvin",
+          "pontos": 22
+        },
+        {
+          "posicao": 6,
+          "academia": "Brazilian Top Team",
+          "pontos": 19
+        },
+        {
+          "posicao": 7,
+          "academia": "Gracie Barra",
+          "pontos": 18
+        },
+        {
+          "posicao": 8,
+          "academia": "Gracie Elite Team",
+          "pontos": 16
+        },
+        {
+          "posicao": 9,
+          "academia": "Alliance International",
+          "pontos": 15
+        },
+        {
+          "posicao": 10,
+          "academia": "GF Team",
+          "pontos": 13
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Gracie Barra",
+          "pontos": 72
+        },
+        {
+          "posicao": 2,
+          "academia": "Gracie Elite Team",
+          "pontos": 35
+        },
+        {
+          "posicao": 3,
+          "academia": "Alliance",
+          "pontos": 30
+        },
+        {
+          "posicao": 4,
+          "academia": "GF Team",
+          "pontos": 24
+        },
+        {
+          "posicao": 5,
+          "academia": "Gracie Humaita",
+          "pontos": 22
+        },
+        {
+          "posicao": 6,
+          "academia": "Bruno Bastos Association",
+          "pontos": 22
+        },
+        {
+          "posicao": 7,
+          "academia": "CheckMat",
+          "pontos": 14
+        },
+        {
+          "posicao": 8,
+          "academia": "Purebred Jiu Jitsu Guam",
+          "pontos": 12
+        },
+        {
+          "posicao": 9,
+          "academia": "Start Brazilian Jiu-Jitsu",
+          "pontos": 12
+        },
+        {
+          "posicao": 10,
+          "academia": "Campeões Esperança Jiu-Jitsu Team",
+          "pontos": 12
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 99
-    },
-    {
-      "posicao": 2,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 97
-    },
-    {
-      "posicao": 3,
-      "academia": "Gracie Barra",
-      "pontos": 57
-    },
-    {
-      "posicao": 4,
-      "academia": "Team Lloyd Irvin",
-      "pontos": 51
-    },
-    {
-      "posicao": 5,
-      "academia": "CheckMat",
-      "pontos": 50
-    },
-    {
-      "posicao": 6,
-      "academia": "GF Team",
-      "pontos": 49
-    },
-    {
-      "posicao": 7,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 16
-    },
-    {
-      "posicao": 8,
-      "academia": "Ribeiro Jiu-Jitsu",
-      "pontos": 15
-    },
-    {
-      "posicao": 9,
-      "academia": "Nova União",
-      "pontos": 13
-    },
-    {
-      "posicao": 10,
-      "academia": "Alliance International",
-      "pontos": 13
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 79
-    },
-    {
-      "posicao": 2,
-      "academia": "CheckMat",
-      "pontos": 52
-    },
-    {
-      "posicao": 3,
-      "academia": "Gracie Humaita",
-      "pontos": 46
-    },
-    {
-      "posicao": 4,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 42
-    },
-    {
-      "posicao": 5,
-      "academia": "Team Lloyd Irvin",
-      "pontos": 22
-    },
-    {
-      "posicao": 6,
-      "academia": "Brazilian Top Team",
-      "pontos": 19
-    },
-    {
-      "posicao": 7,
-      "academia": "Gracie Barra",
-      "pontos": 18
-    },
-    {
-      "posicao": 8,
-      "academia": "Gracie Elite Team",
-      "pontos": 16
-    },
-    {
-      "posicao": 9,
-      "academia": "Alliance International",
-      "pontos": 15
-    },
-    {
-      "posicao": 10,
-      "academia": "GF Team",
-      "pontos": 13
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Gracie Barra",
-      "pontos": 72
-    },
-    {
-      "posicao": 2,
-      "academia": "Gracie Elite Team",
-      "pontos": 35
-    },
-    {
-      "posicao": 3,
-      "academia": "Alliance",
-      "pontos": 30
-    },
-    {
-      "posicao": 4,
-      "academia": "GF Team",
-      "pontos": 24
-    },
-    {
-      "posicao": 5,
-      "academia": "Gracie Humaita",
-      "pontos": 22
-    },
-    {
-      "posicao": 6,
-      "academia": "Bruno Bastos Association",
-      "pontos": 22
-    },
-    {
-      "posicao": 7,
-      "academia": "CheckMat",
-      "pontos": 14
-    },
-    {
-      "posicao": 8,
-      "academia": "Purebred Jiu Jitsu Guam",
-      "pontos": 12
-    },
-    {
-      "posicao": 9,
-      "academia": "Start Brazilian Jiu-Jitsu",
-      "pontos": 12
-    },
-    {
-      "posicao": 10,
-      "academia": "Campeões Esperança Jiu-Jitsu Team",
-      "pontos": 12
-    }
-  ]
-}]

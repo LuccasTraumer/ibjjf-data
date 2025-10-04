@@ -7628,362 +7628,363 @@
         "academia": "Ryan Gracie Team B"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Pré-Mirim": [
+        {
+          "posicao": 1,
+          "academia": "Infight JJ",
+          "pontos": 12
+        },
+        {
+          "posicao": 2,
+          "academia": "Pantera Negra",
+          "pontos": 12
+        },
+        {
+          "posicao": 3,
+          "academia": "Barbosa JJ e MMA",
+          "pontos": 10
+        },
+        {
+          "posicao": 4,
+          "academia": "Calasans BJJ",
+          "pontos": 9
+        },
+        {
+          "posicao": 5,
+          "academia": "C.E. Irmão Felix JJ",
+          "pontos": 9
+        },
+        {
+          "posicao": 6,
+          "academia": "Cascão Jiu Jitsu BR",
+          "pontos": 3
+        },
+        {
+          "posicao": 7,
+          "academia": "CheckMat",
+          "pontos": 3
+        },
+        {
+          "posicao": 8,
+          "academia": "Ryan Gracie Team B",
+          "pontos": 1
+        }
+      ],
+      "Mirim": [
+        {
+          "posicao": 1,
+          "academia": "Projeto Drive-In",
+          "pontos": 42
+        },
+        {
+          "posicao": 2,
+          "academia": "Gracie Barra",
+          "pontos": 24
+        },
+        {
+          "posicao": 3,
+          "academia": "Barbosa JJ e MMA",
+          "pontos": 15
+        },
+        {
+          "posicao": 4,
+          "academia": "Bon Sai JJ",
+          "pontos": 10
+        },
+        {
+          "posicao": 5,
+          "academia": "Boca Team",
+          "pontos": 9
+        },
+        {
+          "posicao": 6,
+          "academia": "Familia Marcio Frank BJJ",
+          "pontos": 9
+        },
+        {
+          "posicao": 7,
+          "academia": "Cei Jiu-Jitsu International",
+          "pontos": 9
+        },
+        {
+          "posicao": 8,
+          "academia": "Alliance",
+          "pontos": 9
+        },
+        {
+          "posicao": 9,
+          "academia": "CheckMat Brasil",
+          "pontos": 9
+        },
+        {
+          "posicao": 10,
+          "academia": "Otávio de Almeida",
+          "pontos": 3
+        }
+      ],
+      "Infantil": [
+        {
+          "posicao": 1,
+          "academia": "Gracie Barra",
+          "pontos": 52
+        },
+        {
+          "posicao": 2,
+          "academia": "Projeto Drive-In",
+          "pontos": 46
+        },
+        {
+          "posicao": 3,
+          "academia": "CheckMat",
+          "pontos": 31
+        },
+        {
+          "posicao": 4,
+          "academia": "Game Fight BJJ/Manimal",
+          "pontos": 22
+        },
+        {
+          "posicao": 5,
+          "academia": "Barbosa JJ e MMA",
+          "pontos": 19
+        },
+        {
+          "posicao": 6,
+          "academia": "Cascão Jiu Jitsu BR",
+          "pontos": 19
+        },
+        {
+          "posicao": 7,
+          "academia": "Otávio de Almeida",
+          "pontos": 13
+        },
+        {
+          "posicao": 8,
+          "academia": "GF Team",
+          "pontos": 12
+        },
+        {
+          "posicao": 9,
+          "academia": "014RBJJ",
+          "pontos": 9
+        },
+        {
+          "posicao": 10,
+          "academia": "Norfight",
+          "pontos": 9
+        }
+      ],
+      "Infanto-Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Gracie Barra",
+          "pontos": 67
+        },
+        {
+          "posicao": 2,
+          "academia": "Gracie Humaita",
+          "pontos": 63
+        },
+        {
+          "posicao": 3,
+          "academia": "CheckMat",
+          "pontos": 49
+        },
+        {
+          "posicao": 4,
+          "academia": "Barbosa JJ e MMA",
+          "pontos": 40
+        },
+        {
+          "posicao": 5,
+          "academia": "Projeto Drive-In",
+          "pontos": 37
+        },
+        {
+          "posicao": 6,
+          "academia": "GF Team",
+          "pontos": 37
+        },
+        {
+          "posicao": 7,
+          "academia": "Nova União",
+          "pontos": 24
+        },
+        {
+          "posicao": 8,
+          "academia": "Brazil 021 School of Jiu-Jitsu BR",
+          "pontos": 23
+        },
+        {
+          "posicao": 9,
+          "academia": "Osvaldo Alves - AM",
+          "pontos": 23
+        },
+        {
+          "posicao": 10,
+          "academia": "Alliance",
+          "pontos": 16
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Gracie Barra",
+          "pontos": 34
+        },
+        {
+          "posicao": 2,
+          "academia": "Ryan Gracie Team B",
+          "pontos": 33
+        },
+        {
+          "posicao": 3,
+          "academia": "CheckMat",
+          "pontos": 31
+        },
+        {
+          "posicao": 4,
+          "academia": "Gracie Humaita",
+          "pontos": 25
+        },
+        {
+          "posicao": 5,
+          "academia": "Osvaldo Alves - AM",
+          "pontos": 23
+        },
+        {
+          "posicao": 6,
+          "academia": "GF Team",
+          "pontos": 22
+        },
+        {
+          "posicao": 7,
+          "academia": "TJJ School",
+          "pontos": 19
+        },
+        {
+          "posicao": 8,
+          "academia": "Sul Jiu-Jitsu",
+          "pontos": 16
+        },
+        {
+          "posicao": 9,
+          "academia": "Barbosa JJ e MMA",
+          "pontos": 15
+        },
+        {
+          "posicao": 10,
+          "academia": "Projeto Drive-In",
+          "pontos": 12
+        }
+      ],
+      "Master & Senior": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 156
+        },
+        {
+          "posicao": 2,
+          "academia": "Nova União",
+          "pontos": 155
+        },
+        {
+          "posicao": 3,
+          "academia": "Gracie Barra",
+          "pontos": 142
+        },
+        {
+          "posicao": 4,
+          "academia": "Barbosa JJ e MMA",
+          "pontos": 119
+        },
+        {
+          "posicao": 5,
+          "academia": "CheckMat",
+          "pontos": 76
+        },
+        {
+          "posicao": 6,
+          "academia": "G13 Jiu-Jitsu Club",
+          "pontos": 74
+        },
+        {
+          "posicao": 7,
+          "academia": "GF Team",
+          "pontos": 68
+        },
+        {
+          "posicao": 8,
+          "academia": "Ryan Gracie Team B",
+          "pontos": 56
+        },
+        {
+          "posicao": 9,
+          "academia": "Gracie Humaita",
+          "pontos": 52
+        },
+        {
+          "posicao": 10,
+          "academia": "MXT Academy BJJ",
+          "pontos": 48
+        }
+      ],
+      "Estreantes": [
+        {
+          "posicao": 1,
+          "academia": "Nova União",
+          "pontos": 40
+        },
+        {
+          "posicao": 2,
+          "academia": "Gracie Barra",
+          "pontos": 32
+        },
+        {
+          "posicao": 3,
+          "academia": "Otávio de Almeida",
+          "pontos": 29
+        },
+        {
+          "posicao": 4,
+          "academia": "Sul Jiu-Jitsu",
+          "pontos": 18
+        },
+        {
+          "posicao": 5,
+          "academia": "Ryan Gracie Team B",
+          "pontos": 17
+        },
+        {
+          "posicao": 6,
+          "academia": "Norfight",
+          "pontos": 16
+        },
+        {
+          "posicao": 7,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 16
+        },
+        {
+          "posicao": 8,
+          "academia": "Barbosa JJ e MMA",
+          "pontos": 14
+        },
+        {
+          "posicao": 9,
+          "academia": "Cascão Jiu Jitsu BR",
+          "pontos": 13
+        },
+        {
+          "posicao": 10,
+          "academia": "Tozi Jiu Jitsu",
+          "pontos": 13
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias": [{
-  "Pré-Mirim": [
-    {
-      "posicao": 1,
-      "academia": "Infight JJ",
-      "pontos": 12
-    },
-    {
-      "posicao": 2,
-      "academia": "Pantera Negra",
-      "pontos": 12
-    },
-    {
-      "posicao": 3,
-      "academia": "Barbosa JJ e MMA",
-      "pontos": 10
-    },
-    {
-      "posicao": 4,
-      "academia": "Calasans BJJ",
-      "pontos": 9
-    },
-    {
-      "posicao": 5,
-      "academia": "C.E. Irmão Felix JJ",
-      "pontos": 9
-    },
-    {
-      "posicao": 6,
-      "academia": "Cascão Jiu Jitsu BR",
-      "pontos": 3
-    },
-    {
-      "posicao": 7,
-      "academia": "CheckMat",
-      "pontos": 3
-    },
-    {
-      "posicao": 8,
-      "academia": "Ryan Gracie Team B",
-      "pontos": 1
-    }
-  ],
-  "Mirim": [
-    {
-      "posicao": 1,
-      "academia": "Projeto Drive-In",
-      "pontos": 42
-    },
-    {
-      "posicao": 2,
-      "academia": "Gracie Barra",
-      "pontos": 24
-    },
-    {
-      "posicao": 3,
-      "academia": "Barbosa JJ e MMA",
-      "pontos": 15
-    },
-    {
-      "posicao": 4,
-      "academia": "Bon Sai JJ",
-      "pontos": 10
-    },
-    {
-      "posicao": 5,
-      "academia": "Boca Team",
-      "pontos": 9
-    },
-    {
-      "posicao": 6,
-      "academia": "Familia Marcio Frank BJJ",
-      "pontos": 9
-    },
-    {
-      "posicao": 7,
-      "academia": "Cei Jiu-Jitsu International",
-      "pontos": 9
-    },
-    {
-      "posicao": 8,
-      "academia": "Alliance",
-      "pontos": 9
-    },
-    {
-      "posicao": 9,
-      "academia": "CheckMat Brasil",
-      "pontos": 9
-    },
-    {
-      "posicao": 10,
-      "academia": "Otávio de Almeida",
-      "pontos": 3
-    }
-  ],
-  "Infantil": [
-    {
-      "posicao": 1,
-      "academia": "Gracie Barra",
-      "pontos": 52
-    },
-    {
-      "posicao": 2,
-      "academia": "Projeto Drive-In",
-      "pontos": 46
-    },
-    {
-      "posicao": 3,
-      "academia": "CheckMat",
-      "pontos": 31
-    },
-    {
-      "posicao": 4,
-      "academia": "Game Fight BJJ/Manimal",
-      "pontos": 22
-    },
-    {
-      "posicao": 5,
-      "academia": "Barbosa JJ e MMA",
-      "pontos": 19
-    },
-    {
-      "posicao": 6,
-      "academia": "Cascão Jiu Jitsu BR",
-      "pontos": 19
-    },
-    {
-      "posicao": 7,
-      "academia": "Otávio de Almeida",
-      "pontos": 13
-    },
-    {
-      "posicao": 8,
-      "academia": "GF Team",
-      "pontos": 12
-    },
-    {
-      "posicao": 9,
-      "academia": "014RBJJ",
-      "pontos": 9
-    },
-    {
-      "posicao": 10,
-      "academia": "Norfight",
-      "pontos": 9
-    }
-  ],
-  "Infanto-Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Gracie Barra",
-      "pontos": 67
-    },
-    {
-      "posicao": 2,
-      "academia": "Gracie Humaita",
-      "pontos": 63
-    },
-    {
-      "posicao": 3,
-      "academia": "CheckMat",
-      "pontos": 49
-    },
-    {
-      "posicao": 4,
-      "academia": "Barbosa JJ e MMA",
-      "pontos": 40
-    },
-    {
-      "posicao": 5,
-      "academia": "Projeto Drive-In",
-      "pontos": 37
-    },
-    {
-      "posicao": 6,
-      "academia": "GF Team",
-      "pontos": 37
-    },
-    {
-      "posicao": 7,
-      "academia": "Nova União",
-      "pontos": 24
-    },
-    {
-      "posicao": 8,
-      "academia": "Brazil 021 School of Jiu-Jitsu BR",
-      "pontos": 23
-    },
-    {
-      "posicao": 9,
-      "academia": "Osvaldo Alves - AM",
-      "pontos": 23
-    },
-    {
-      "posicao": 10,
-      "academia": "Alliance",
-      "pontos": 16
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Gracie Barra",
-      "pontos": 34
-    },
-    {
-      "posicao": 2,
-      "academia": "Ryan Gracie Team B",
-      "pontos": 33
-    },
-    {
-      "posicao": 3,
-      "academia": "CheckMat",
-      "pontos": 31
-    },
-    {
-      "posicao": 4,
-      "academia": "Gracie Humaita",
-      "pontos": 25
-    },
-    {
-      "posicao": 5,
-      "academia": "Osvaldo Alves - AM",
-      "pontos": 23
-    },
-    {
-      "posicao": 6,
-      "academia": "GF Team",
-      "pontos": 22
-    },
-    {
-      "posicao": 7,
-      "academia": "TJJ School",
-      "pontos": 19
-    },
-    {
-      "posicao": 8,
-      "academia": "Sul Jiu-Jitsu",
-      "pontos": 16
-    },
-    {
-      "posicao": 9,
-      "academia": "Barbosa JJ e MMA",
-      "pontos": 15
-    },
-    {
-      "posicao": 10,
-      "academia": "Projeto Drive-In",
-      "pontos": 12
-    }
-  ],
-  "Master & Senior": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 156
-    },
-    {
-      "posicao": 2,
-      "academia": "Nova União",
-      "pontos": 155
-    },
-    {
-      "posicao": 3,
-      "academia": "Gracie Barra",
-      "pontos": 142
-    },
-    {
-      "posicao": 4,
-      "academia": "Barbosa JJ e MMA",
-      "pontos": 119
-    },
-    {
-      "posicao": 5,
-      "academia": "CheckMat",
-      "pontos": 76
-    },
-    {
-      "posicao": 6,
-      "academia": "G13 Jiu-Jitsu Club",
-      "pontos": 74
-    },
-    {
-      "posicao": 7,
-      "academia": "GF Team",
-      "pontos": 68
-    },
-    {
-      "posicao": 8,
-      "academia": "Ryan Gracie Team B",
-      "pontos": 56
-    },
-    {
-      "posicao": 9,
-      "academia": "Gracie Humaita",
-      "pontos": 52
-    },
-    {
-      "posicao": 10,
-      "academia": "MXT Academy BJJ",
-      "pontos": 48
-    }
-  ],
-  "Estreantes": [
-    {
-      "posicao": 1,
-      "academia": "Nova União",
-      "pontos": 40
-    },
-    {
-      "posicao": 2,
-      "academia": "Gracie Barra",
-      "pontos": 32
-    },
-    {
-      "posicao": 3,
-      "academia": "Otávio de Almeida",
-      "pontos": 29
-    },
-    {
-      "posicao": 4,
-      "academia": "Sul Jiu-Jitsu",
-      "pontos": 18
-    },
-    {
-      "posicao": 5,
-      "academia": "Ryan Gracie Team B",
-      "pontos": 17
-    },
-    {
-      "posicao": 6,
-      "academia": "Norfight",
-      "pontos": 16
-    },
-    {
-      "posicao": 7,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 16
-    },
-    {
-      "posicao": 8,
-      "academia": "Barbosa JJ e MMA",
-      "pontos": 14
-    },
-    {
-      "posicao": 9,
-      "academia": "Cascão Jiu Jitsu BR",
-      "pontos": 13
-    },
-    {
-      "posicao": 10,
-      "academia": "Tozi Jiu Jitsu",
-      "pontos": 13
-    }
-  ]
-}]

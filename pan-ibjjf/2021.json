@@ -11038,216 +11038,217 @@
         "academia": "R1NG BJJ"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 75
+        },
+        {
+          "posicao": 2,
+          "academia": "CheckMat",
+          "pontos": 59
+        },
+        {
+          "posicao": 3,
+          "academia": "GF Team",
+          "pontos": 38
+        },
+        {
+          "posicao": 4,
+          "academia": "Team Lloyd Irvin",
+          "pontos": 37
+        },
+        {
+          "posicao": 5,
+          "academia": "Renzo Gracie Academy",
+          "pontos": 32
+        },
+        {
+          "posicao": 6,
+          "academia": "Art of Jiu Jitsu",
+          "pontos": 31
+        },
+        {
+          "posicao": 7,
+          "academia": "Unity Jiu-jitsu",
+          "pontos": 27
+        },
+        {
+          "posicao": 8,
+          "academia": "Cicero Costha Internacional",
+          "pontos": 23
+        },
+        {
+          "posicao": 9,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 20
+        },
+        {
+          "posicao": 10,
+          "academia": "Gracie Barra",
+          "pontos": 20
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 46
+        },
+        {
+          "posicao": 2,
+          "academia": "Alliance",
+          "pontos": 44
+        },
+        {
+          "posicao": 3,
+          "academia": "Gracie Barra",
+          "pontos": 38
+        },
+        {
+          "posicao": 4,
+          "academia": "CheckMat",
+          "pontos": 33
+        },
+        {
+          "posicao": 5,
+          "academia": "TAC Team BJJ",
+          "pontos": 30
+        },
+        {
+          "posicao": 6,
+          "academia": "GF Team",
+          "pontos": 28
+        },
+        {
+          "posicao": 7,
+          "academia": "Art of Jiu Jitsu",
+          "pontos": 23
+        },
+        {
+          "posicao": 8,
+          "academia": "Unity Jiu-jitsu",
+          "pontos": 21
+        },
+        {
+          "posicao": 9,
+          "academia": "Abmar Barbosa Association",
+          "pontos": 13
+        },
+        {
+          "posicao": 10,
+          "academia": "Aviv Jiu-Jitsu",
+          "pontos": 12
+        }
+      ],
+      "Novice": [
+        {
+          "posicao": 1,
+          "academia": "Pedigo Submission Fighting",
+          "pontos": 72
+        },
+        {
+          "posicao": 2,
+          "academia": "Gracie Barra",
+          "pontos": 69
+        },
+        {
+          "posicao": 3,
+          "academia": "CheckMat",
+          "pontos": 50
+        },
+        {
+          "posicao": 4,
+          "academia": "Ares BJJ",
+          "pontos": 47
+        },
+        {
+          "posicao": 5,
+          "academia": "Fabin Rosa Brazilian Jiu-Jitsu",
+          "pontos": 39
+        },
+        {
+          "posicao": 6,
+          "academia": "R1NG BJJ",
+          "pontos": 33
+        },
+        {
+          "posicao": 7,
+          "academia": "Renzo Gracie Academy",
+          "pontos": 32
+        },
+        {
+          "posicao": 8,
+          "academia": "Carlson Gracie Team",
+          "pontos": 32
+        },
+        {
+          "posicao": 9,
+          "academia": "Alliance",
+          "pontos": 31
+        },
+        {
+          "posicao": 10,
+          "academia": "Renato Tavares Association",
+          "pontos": 26
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Gracie Barra",
+          "pontos": 58
+        },
+        {
+          "posicao": 2,
+          "academia": "Art of Jiu Jitsu",
+          "pontos": 43
+        },
+        {
+          "posicao": 3,
+          "academia": "Alliance",
+          "pontos": 40
+        },
+        {
+          "posicao": 4,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 21
+        },
+        {
+          "posicao": 5,
+          "academia": "Ares BJJ",
+          "pontos": 20
+        },
+        {
+          "posicao": 6,
+          "academia": "GF Team",
+          "pontos": 18
+        },
+        {
+          "posicao": 7,
+          "academia": "Team Lloyd Irvin",
+          "pontos": 18
+        },
+        {
+          "posicao": 8,
+          "academia": "Fight Sports",
+          "pontos": 15
+        },
+        {
+          "posicao": 9,
+          "academia": "Yamasaki Academy",
+          "pontos": 12
+        },
+        {
+          "posicao": 10,
+          "academia": "Gracie Humaita Las Vegas",
+          "pontos": 12
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 75
-    },
-    {
-      "posicao": 2,
-      "academia": "CheckMat",
-      "pontos": 59
-    },
-    {
-      "posicao": 3,
-      "academia": "GF Team",
-      "pontos": 38
-    },
-    {
-      "posicao": 4,
-      "academia": "Team Lloyd Irvin",
-      "pontos": 37
-    },
-    {
-      "posicao": 5,
-      "academia": "Renzo Gracie Academy",
-      "pontos": 32
-    },
-    {
-      "posicao": 6,
-      "academia": "Art of Jiu Jitsu",
-      "pontos": 31
-    },
-    {
-      "posicao": 7,
-      "academia": "Unity Jiu-jitsu",
-      "pontos": 27
-    },
-    {
-      "posicao": 8,
-      "academia": "Cicero Costha Internacional",
-      "pontos": 23
-    },
-    {
-      "posicao": 9,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 20
-    },
-    {
-      "posicao": 10,
-      "academia": "Gracie Barra",
-      "pontos": 20
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 46
-    },
-    {
-      "posicao": 2,
-      "academia": "Alliance",
-      "pontos": 44
-    },
-    {
-      "posicao": 3,
-      "academia": "Gracie Barra",
-      "pontos": 38
-    },
-    {
-      "posicao": 4,
-      "academia": "CheckMat",
-      "pontos": 33
-    },
-    {
-      "posicao": 5,
-      "academia": "TAC Team BJJ",
-      "pontos": 30
-    },
-    {
-      "posicao": 6,
-      "academia": "GF Team",
-      "pontos": 28
-    },
-    {
-      "posicao": 7,
-      "academia": "Art of Jiu Jitsu",
-      "pontos": 23
-    },
-    {
-      "posicao": 8,
-      "academia": "Unity Jiu-jitsu",
-      "pontos": 21
-    },
-    {
-      "posicao": 9,
-      "academia": "Abmar Barbosa Association",
-      "pontos": 13
-    },
-    {
-      "posicao": 10,
-      "academia": "Aviv Jiu-Jitsu",
-      "pontos": 12
-    }
-  ],
-  "Novice": [
-    {
-      "posicao": 1,
-      "academia": "Pedigo Submission Fighting",
-      "pontos": 72
-    },
-    {
-      "posicao": 2,
-      "academia": "Gracie Barra",
-      "pontos": 69
-    },
-    {
-      "posicao": 3,
-      "academia": "CheckMat",
-      "pontos": 50
-    },
-    {
-      "posicao": 4,
-      "academia": "Ares BJJ",
-      "pontos": 47
-    },
-    {
-      "posicao": 5,
-      "academia": "Fabin Rosa Brazilian Jiu-Jitsu",
-      "pontos": 39
-    },
-    {
-      "posicao": 6,
-      "academia": "R1NG BJJ",
-      "pontos": 33
-    },
-    {
-      "posicao": 7,
-      "academia": "Renzo Gracie Academy",
-      "pontos": 32
-    },
-    {
-      "posicao": 8,
-      "academia": "Carlson Gracie Team",
-      "pontos": 32
-    },
-    {
-      "posicao": 9,
-      "academia": "Alliance",
-      "pontos": 31
-    },
-    {
-      "posicao": 10,
-      "academia": "Renato Tavares Association",
-      "pontos": 26
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Gracie Barra",
-      "pontos": 58
-    },
-    {
-      "posicao": 2,
-      "academia": "Art of Jiu Jitsu",
-      "pontos": 43
-    },
-    {
-      "posicao": 3,
-      "academia": "Alliance",
-      "pontos": 40
-    },
-    {
-      "posicao": 4,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 21
-    },
-    {
-      "posicao": 5,
-      "academia": "Ares BJJ",
-      "pontos": 20
-    },
-    {
-      "posicao": 6,
-      "academia": "GF Team",
-      "pontos": 18
-    },
-    {
-      "posicao": 7,
-      "academia": "Team Lloyd Irvin",
-      "pontos": 18
-    },
-    {
-      "posicao": 8,
-      "academia": "Fight Sports",
-      "pontos": 15
-    },
-    {
-      "posicao": 9,
-      "academia": "Yamasaki Academy",
-      "pontos": 12
-    },
-    {
-      "posicao": 10,
-      "academia": "Gracie Humaita Las Vegas",
-      "pontos": 12
-    }
-  ]
-}]

@@ -2958,164 +2958,165 @@
         "academia": "DreamArt"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 86
+        },
+        {
+          "posicao": 2,
+          "academia": "AOJ",
+          "pontos": 74
+        },
+        {
+          "posicao": 3,
+          "academia": "DreamArt",
+          "pontos": 63
+        },
+        {
+          "posicao": 4,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 61
+        },
+        {
+          "posicao": 5,
+          "academia": "CheckMat",
+          "pontos": 54
+        },
+        {
+          "posicao": 6,
+          "academia": "Marcio Andre Jiu-Jitsu",
+          "pontos": 22
+        },
+        {
+          "posicao": 7,
+          "academia": "Cicero Costha Internacional",
+          "pontos": 22
+        },
+        {
+          "posicao": 8,
+          "academia": "Soldiers Jiu-Jitsu",
+          "pontos": 21
+        },
+        {
+          "posicao": 9,
+          "academia": "Vision",
+          "pontos": 19
+        },
+        {
+          "posicao": 10,
+          "academia": "Melqui Galvão Jiu-Jitsu",
+          "pontos": 18
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 70
+        },
+        {
+          "posicao": 2,
+          "academia": "Fratres Brazilian Jiu-Jitsu",
+          "pontos": 68
+        },
+        {
+          "posicao": 3,
+          "academia": "AOJ",
+          "pontos": 46
+        },
+        {
+          "posicao": 4,
+          "academia": "Alliance",
+          "pontos": 40
+        },
+        {
+          "posicao": 5,
+          "academia": "Marcio Andre Jiu-Jitsu",
+          "pontos": 32
+        },
+        {
+          "posicao": 6,
+          "academia": "CheckMat",
+          "pontos": 32
+        },
+        {
+          "posicao": 7,
+          "academia": "Infight JJ",
+          "pontos": 19
+        },
+        {
+          "posicao": 8,
+          "academia": "JFC Almeida JJ",
+          "pontos": 19
+        },
+        {
+          "posicao": 9,
+          "academia": "Team Lloyd Irvin",
+          "pontos": 19
+        },
+        {
+          "posicao": 10,
+          "academia": "GF Team",
+          "pontos": 19
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "AOJ",
+          "pontos": 54
+        },
+        {
+          "posicao": 2,
+          "academia": "Melqui Galvão Jiu-Jitsu",
+          "pontos": 42
+        },
+        {
+          "posicao": 3,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 42
+        },
+        {
+          "posicao": 4,
+          "academia": "Vision",
+          "pontos": 30
+        },
+        {
+          "posicao": 5,
+          "academia": "CheckMat",
+          "pontos": 28
+        },
+        {
+          "posicao": 6,
+          "academia": "Marcio Andre Jiu-Jitsu",
+          "pontos": 24
+        },
+        {
+          "posicao": 7,
+          "academia": "Gracie Barra",
+          "pontos": 22
+        },
+        {
+          "posicao": 8,
+          "academia": "Infight JJ",
+          "pontos": 20
+        },
+        {
+          "posicao": 9,
+          "academia": "Nova União",
+          "pontos": 20
+        },
+        {
+          "posicao": 10,
+          "academia": "GF Team",
+          "pontos": 19
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 86
-    },
-    {
-      "posicao": 2,
-      "academia": "AOJ",
-      "pontos": 74
-    },
-    {
-      "posicao": 3,
-      "academia": "DreamArt",
-      "pontos": 63
-    },
-    {
-      "posicao": 4,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 61
-    },
-    {
-      "posicao": 5,
-      "academia": "CheckMat",
-      "pontos": 54
-    },
-    {
-      "posicao": 6,
-      "academia": "Marcio Andre Jiu-Jitsu",
-      "pontos": 22
-    },
-    {
-      "posicao": 7,
-      "academia": "Cicero Costha Internacional",
-      "pontos": 22
-    },
-    {
-      "posicao": 8,
-      "academia": "Soldiers Jiu-Jitsu",
-      "pontos": 21
-    },
-    {
-      "posicao": 9,
-      "academia": "Vision",
-      "pontos": 19
-    },
-    {
-      "posicao": 10,
-      "academia": "Melqui Galvão Jiu-Jitsu",
-      "pontos": 18
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 70
-    },
-    {
-      "posicao": 2,
-      "academia": "Fratres Brazilian Jiu-Jitsu",
-      "pontos": 68
-    },
-    {
-      "posicao": 3,
-      "academia": "AOJ",
-      "pontos": 46
-    },
-    {
-      "posicao": 4,
-      "academia": "Alliance",
-      "pontos": 40
-    },
-    {
-      "posicao": 5,
-      "academia": "Marcio Andre Jiu-Jitsu",
-      "pontos": 32
-    },
-    {
-      "posicao": 6,
-      "academia": "CheckMat",
-      "pontos": 32
-    },
-    {
-      "posicao": 7,
-      "academia": "Infight JJ",
-      "pontos": 19
-    },
-    {
-      "posicao": 8,
-      "academia": "JFC Almeida JJ",
-      "pontos": 19
-    },
-    {
-      "posicao": 9,
-      "academia": "Team Lloyd Irvin",
-      "pontos": 19
-    },
-    {
-      "posicao": 10,
-      "academia": "GF Team",
-      "pontos": 19
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "AOJ",
-      "pontos": 54
-    },
-    {
-      "posicao": 2,
-      "academia": "Melqui Galvão Jiu-Jitsu",
-      "pontos": 42
-    },
-    {
-      "posicao": 3,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 42
-    },
-    {
-      "posicao": 4,
-      "academia": "Vision",
-      "pontos": 30
-    },
-    {
-      "posicao": 5,
-      "academia": "CheckMat",
-      "pontos": 28
-    },
-    {
-      "posicao": 6,
-      "academia": "Marcio Andre Jiu-Jitsu",
-      "pontos": 24
-    },
-    {
-      "posicao": 7,
-      "academia": "Gracie Barra",
-      "pontos": 22
-    },
-    {
-      "posicao": 8,
-      "academia": "Infight JJ",
-      "pontos": 20
-    },
-    {
-      "posicao": 9,
-      "academia": "Nova União",
-      "pontos": 20
-    },
-    {
-      "posicao": 10,
-      "academia": "GF Team",
-      "pontos": 19
-    }
-  ]
-}]

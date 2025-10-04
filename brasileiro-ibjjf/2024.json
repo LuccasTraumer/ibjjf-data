@@ -12598,164 +12598,165 @@
         "academia": "Raiz Jiu-Jitsu"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 119
+        },
+        {
+          "posicao": 2,
+          "academia": "DreamArt",
+          "pontos": 75
+        },
+        {
+          "posicao": 3,
+          "academia": "Fratres Brazilian Jiu-Jitsu",
+          "pontos": 49
+        },
+        {
+          "posicao": 4,
+          "academia": "Vision",
+          "pontos": 35
+        },
+        {
+          "posicao": 5,
+          "academia": "Nova União",
+          "pontos": 28
+        },
+        {
+          "posicao": 6,
+          "academia": "CheckMat",
+          "pontos": 23
+        },
+        {
+          "posicao": 7,
+          "academia": "Carlson Gracie Team",
+          "pontos": 21
+        },
+        {
+          "posicao": 8,
+          "academia": "GF Team",
+          "pontos": 18
+        },
+        {
+          "posicao": 9,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 16
+        },
+        {
+          "posicao": 10,
+          "academia": "JFC Almeida JJ",
+          "pontos": 15
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "Fratres Brazilian Jiu-Jitsu",
+          "pontos": 84
+        },
+        {
+          "posicao": 2,
+          "academia": "GF Team",
+          "pontos": 58
+        },
+        {
+          "posicao": 3,
+          "academia": "DreamArt",
+          "pontos": 45
+        },
+        {
+          "posicao": 4,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 43
+        },
+        {
+          "posicao": 5,
+          "academia": "Alliance",
+          "pontos": 37
+        },
+        {
+          "posicao": 6,
+          "academia": "Vision",
+          "pontos": 29
+        },
+        {
+          "posicao": 7,
+          "academia": "Infight JJ",
+          "pontos": 21
+        },
+        {
+          "posicao": 8,
+          "academia": "JFC Almeida JJ",
+          "pontos": 21
+        },
+        {
+          "posicao": 9,
+          "academia": "AOJ",
+          "pontos": 19
+        },
+        {
+          "posicao": 10,
+          "academia": "Castro Team",
+          "pontos": 18
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Melqui Galvão Jiu-jitsu",
+          "pontos": 78
+        },
+        {
+          "posicao": 2,
+          "academia": "Vision",
+          "pontos": 45
+        },
+        {
+          "posicao": 3,
+          "academia": "Alliance",
+          "pontos": 38
+        },
+        {
+          "posicao": 4,
+          "academia": "Gracie Barra",
+          "pontos": 38
+        },
+        {
+          "posicao": 5,
+          "academia": "JFC Almeida JJ",
+          "pontos": 36
+        },
+        {
+          "posicao": 6,
+          "academia": "GF Team",
+          "pontos": 31
+        },
+        {
+          "posicao": 7,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 26
+        },
+        {
+          "posicao": 8,
+          "academia": "Infight JJ",
+          "pontos": 26
+        },
+        {
+          "posicao": 9,
+          "academia": "DreamArt",
+          "pontos": 22
+        },
+        {
+          "posicao": 10,
+          "academia": "ZR Team Association",
+          "pontos": 20
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 119
-    },
-    {
-      "posicao": 2,
-      "academia": "DreamArt",
-      "pontos": 75
-    },
-    {
-      "posicao": 3,
-      "academia": "Fratres Brazilian Jiu-Jitsu",
-      "pontos": 49
-    },
-    {
-      "posicao": 4,
-      "academia": "Vision",
-      "pontos": 35
-    },
-    {
-      "posicao": 5,
-      "academia": "Nova União",
-      "pontos": 28
-    },
-    {
-      "posicao": 6,
-      "academia": "CheckMat",
-      "pontos": 23
-    },
-    {
-      "posicao": 7,
-      "academia": "Carlson Gracie Team",
-      "pontos": 21
-    },
-    {
-      "posicao": 8,
-      "academia": "GF Team",
-      "pontos": 18
-    },
-    {
-      "posicao": 9,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 16
-    },
-    {
-      "posicao": 10,
-      "academia": "JFC Almeida JJ",
-      "pontos": 15
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "Fratres Brazilian Jiu-Jitsu",
-      "pontos": 84
-    },
-    {
-      "posicao": 2,
-      "academia": "GF Team",
-      "pontos": 58
-    },
-    {
-      "posicao": 3,
-      "academia": "DreamArt",
-      "pontos": 45
-    },
-    {
-      "posicao": 4,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 43
-    },
-    {
-      "posicao": 5,
-      "academia": "Alliance",
-      "pontos": 37
-    },
-    {
-      "posicao": 6,
-      "academia": "Vision",
-      "pontos": 29
-    },
-    {
-      "posicao": 7,
-      "academia": "Infight JJ",
-      "pontos": 21
-    },
-    {
-      "posicao": 8,
-      "academia": "JFC Almeida JJ",
-      "pontos": 21
-    },
-    {
-      "posicao": 9,
-      "academia": "AOJ",
-      "pontos": 19
-    },
-    {
-      "posicao": 10,
-      "academia": "Castro Team",
-      "pontos": 18
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Melqui Galvão Jiu-jitsu",
-      "pontos": 78
-    },
-    {
-      "posicao": 2,
-      "academia": "Vision",
-      "pontos": 45
-    },
-    {
-      "posicao": 3,
-      "academia": "Alliance",
-      "pontos": 38
-    },
-    {
-      "posicao": 4,
-      "academia": "Gracie Barra",
-      "pontos": 38
-    },
-    {
-      "posicao": 5,
-      "academia": "JFC Almeida JJ",
-      "pontos": 36
-    },
-    {
-      "posicao": 6,
-      "academia": "GF Team",
-      "pontos": 31
-    },
-    {
-      "posicao": 7,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 26
-    },
-    {
-      "posicao": 8,
-      "academia": "Infight JJ",
-      "pontos": 26
-    },
-    {
-      "posicao": 9,
-      "academia": "DreamArt",
-      "pontos": 22
-    },
-    {
-      "posicao": 10,
-      "academia": "ZR Team Association",
-      "pontos": 20
-    }
-  ]
-}]

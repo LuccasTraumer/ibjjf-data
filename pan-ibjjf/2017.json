@@ -8698,216 +8698,217 @@
         "academia": "Gracie Humaita"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 107
+        },
+        {
+          "posicao": 2,
+          "academia": "Alliance",
+          "pontos": 81
+        },
+        {
+          "posicao": 3,
+          "academia": "Nova União",
+          "pontos": 42
+        },
+        {
+          "posicao": 4,
+          "academia": "Ribeiro Jiu-Jitsu",
+          "pontos": 34
+        },
+        {
+          "posicao": 5,
+          "academia": "GF Team",
+          "pontos": 28
+        },
+        {
+          "posicao": 6,
+          "academia": "Ns Brotherhood",
+          "pontos": 27
+        },
+        {
+          "posicao": 7,
+          "academia": "Brasa CTA",
+          "pontos": 25
+        },
+        {
+          "posicao": 8,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 24
+        },
+        {
+          "posicao": 9,
+          "academia": "Gracie Barra",
+          "pontos": 23
+        },
+        {
+          "posicao": 10,
+          "academia": "Soul Fighters BJJ",
+          "pontos": 21
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 43
+        },
+        {
+          "posicao": 2,
+          "academia": "Brasa CTA",
+          "pontos": 38
+        },
+        {
+          "posicao": 3,
+          "academia": "Soul Fighters BJJ",
+          "pontos": 37
+        },
+        {
+          "posicao": 4,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 32
+        },
+        {
+          "posicao": 5,
+          "academia": "Gracie Humaita South Bay",
+          "pontos": 22
+        },
+        {
+          "posicao": 6,
+          "academia": "Gracie Humaita",
+          "pontos": 17
+        },
+        {
+          "posicao": 7,
+          "academia": "Gracie Barra",
+          "pontos": 17
+        },
+        {
+          "posicao": 8,
+          "academia": "Team Lloyd Irvin",
+          "pontos": 16
+        },
+        {
+          "posicao": 9,
+          "academia": "Zenith BJJ",
+          "pontos": 15
+        },
+        {
+          "posicao": 10,
+          "academia": "Ns Brotherhood",
+          "pontos": 13
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 94
+        },
+        {
+          "posicao": 2,
+          "academia": "Alliance",
+          "pontos": 53
+        },
+        {
+          "posicao": 3,
+          "academia": "Team Lloyd Irvin",
+          "pontos": 35
+        },
+        {
+          "posicao": 4,
+          "academia": "Over Limit BJJ",
+          "pontos": 30
+        },
+        {
+          "posicao": 5,
+          "academia": "LEAD BJJ",
+          "pontos": 22
+        },
+        {
+          "posicao": 6,
+          "academia": "Brasa CTA",
+          "pontos": 15
+        },
+        {
+          "posicao": 7,
+          "academia": "GF Team",
+          "pontos": 13
+        },
+        {
+          "posicao": 8,
+          "academia": "Ares BJJ",
+          "pontos": 13
+        },
+        {
+          "posicao": 9,
+          "academia": "Relson Gracie",
+          "pontos": 12
+        },
+        {
+          "posicao": 10,
+          "academia": "CheckMat",
+          "pontos": 11
+        }
+      ],
+      "Novice": [
+        {
+          "posicao": 1,
+          "academia": "Pedigo Submission Fighting",
+          "pontos": 46
+        },
+        {
+          "posicao": 2,
+          "academia": "Gracie Barra",
+          "pontos": 45
+        },
+        {
+          "posicao": 3,
+          "academia": "CheckMat",
+          "pontos": 42
+        },
+        {
+          "posicao": 4,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 33
+        },
+        {
+          "posicao": 5,
+          "academia": "Alliance",
+          "pontos": 27
+        },
+        {
+          "posicao": 6,
+          "academia": "One Jiu-Jitsu USA",
+          "pontos": 23
+        },
+        {
+          "posicao": 7,
+          "academia": "Carlson Gracie Team",
+          "pontos": 22
+        },
+        {
+          "posicao": 8,
+          "academia": "Teixeira Garcia Brazilian Jiu Jitsu",
+          "pontos": 22
+        },
+        {
+          "posicao": 9,
+          "academia": "Kimura BJJ USA",
+          "pontos": 18
+        },
+        {
+          "posicao": 10,
+          "academia": "Paragon BJJ Academy",
+          "pontos": 12
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 107
-    },
-    {
-      "posicao": 2,
-      "academia": "Alliance",
-      "pontos": 81
-    },
-    {
-      "posicao": 3,
-      "academia": "Nova União",
-      "pontos": 42
-    },
-    {
-      "posicao": 4,
-      "academia": "Ribeiro Jiu-Jitsu",
-      "pontos": 34
-    },
-    {
-      "posicao": 5,
-      "academia": "GF Team",
-      "pontos": 28
-    },
-    {
-      "posicao": 6,
-      "academia": "Ns Brotherhood",
-      "pontos": 27
-    },
-    {
-      "posicao": 7,
-      "academia": "Brasa CTA",
-      "pontos": 25
-    },
-    {
-      "posicao": 8,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 24
-    },
-    {
-      "posicao": 9,
-      "academia": "Gracie Barra",
-      "pontos": 23
-    },
-    {
-      "posicao": 10,
-      "academia": "Soul Fighters BJJ",
-      "pontos": 21
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 43
-    },
-    {
-      "posicao": 2,
-      "academia": "Brasa CTA",
-      "pontos": 38
-    },
-    {
-      "posicao": 3,
-      "academia": "Soul Fighters BJJ",
-      "pontos": 37
-    },
-    {
-      "posicao": 4,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 32
-    },
-    {
-      "posicao": 5,
-      "academia": "Gracie Humaita South Bay",
-      "pontos": 22
-    },
-    {
-      "posicao": 6,
-      "academia": "Gracie Humaita",
-      "pontos": 17
-    },
-    {
-      "posicao": 7,
-      "academia": "Gracie Barra",
-      "pontos": 17
-    },
-    {
-      "posicao": 8,
-      "academia": "Team Lloyd Irvin",
-      "pontos": 16
-    },
-    {
-      "posicao": 9,
-      "academia": "Zenith BJJ",
-      "pontos": 15
-    },
-    {
-      "posicao": 10,
-      "academia": "Ns Brotherhood",
-      "pontos": 13
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 94
-    },
-    {
-      "posicao": 2,
-      "academia": "Alliance",
-      "pontos": 53
-    },
-    {
-      "posicao": 3,
-      "academia": "Team Lloyd Irvin",
-      "pontos": 35
-    },
-    {
-      "posicao": 4,
-      "academia": "Over Limit BJJ",
-      "pontos": 30
-    },
-    {
-      "posicao": 5,
-      "academia": "LEAD BJJ",
-      "pontos": 22
-    },
-    {
-      "posicao": 6,
-      "academia": "Brasa CTA",
-      "pontos": 15
-    },
-    {
-      "posicao": 7,
-      "academia": "GF Team",
-      "pontos": 13
-    },
-    {
-      "posicao": 8,
-      "academia": "Ares BJJ",
-      "pontos": 13
-    },
-    {
-      "posicao": 9,
-      "academia": "Relson Gracie",
-      "pontos": 12
-    },
-    {
-      "posicao": 10,
-      "academia": "CheckMat",
-      "pontos": 11
-    }
-  ],
-  "Novice": [
-    {
-      "posicao": 1,
-      "academia": "Pedigo Submission Fighting",
-      "pontos": 46
-    },
-    {
-      "posicao": 2,
-      "academia": "Gracie Barra",
-      "pontos": 45
-    },
-    {
-      "posicao": 3,
-      "academia": "CheckMat",
-      "pontos": 42
-    },
-    {
-      "posicao": 4,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 33
-    },
-    {
-      "posicao": 5,
-      "academia": "Alliance",
-      "pontos": 27
-    },
-    {
-      "posicao": 6,
-      "academia": "One Jiu-Jitsu USA",
-      "pontos": 23
-    },
-    {
-      "posicao": 7,
-      "academia": "Carlson Gracie Team",
-      "pontos": 22
-    },
-    {
-      "posicao": 8,
-      "academia": "Teixeira Garcia Brazilian Jiu Jitsu",
-      "pontos": 22
-    },
-    {
-      "posicao": 9,
-      "academia": "Kimura BJJ USA",
-      "pontos": 18
-    },
-    {
-      "posicao": 10,
-      "academia": "Paragon BJJ Academy",
-      "pontos": 12
-    }
-  ]
-}]

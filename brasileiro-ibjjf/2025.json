@@ -13183,164 +13183,165 @@
         "academia": "B.R Jiu-Jitsu"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 128
+        },
+        {
+          "posicao": 2,
+          "academia": "DreamArt",
+          "pontos": 67
+        },
+        {
+          "posicao": 3,
+          "academia": "CheckMat",
+          "pontos": 59
+        },
+        {
+          "posicao": 4,
+          "academia": "Vision",
+          "pontos": 35
+        },
+        {
+          "posicao": 5,
+          "academia": "Fratres Brazilian Jiu-Jitsu",
+          "pontos": 32
+        },
+        {
+          "posicao": 6,
+          "academia": "Soldiers Jiu-Jitsu",
+          "pontos": 30
+        },
+        {
+          "posicao": 7,
+          "academia": "AOJ",
+          "pontos": 28
+        },
+        {
+          "posicao": 8,
+          "academia": "Nova União",
+          "pontos": 23
+        },
+        {
+          "posicao": 9,
+          "academia": "GF Team",
+          "pontos": 18
+        },
+        {
+          "posicao": 10,
+          "academia": "Cicero Costha Internacional",
+          "pontos": 14
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 60
+        },
+        {
+          "posicao": 2,
+          "academia": "Fratres Brazilian Jiu-Jitsu",
+          "pontos": 53
+        },
+        {
+          "posicao": 3,
+          "academia": "DreamArt",
+          "pontos": 51
+        },
+        {
+          "posicao": 4,
+          "academia": "AOJ",
+          "pontos": 40
+        },
+        {
+          "posicao": 5,
+          "academia": "Alliance",
+          "pontos": 35
+        },
+        {
+          "posicao": 6,
+          "academia": "Ares BJJ",
+          "pontos": 18
+        },
+        {
+          "posicao": 7,
+          "academia": "Sigma Jiu-Jitsu",
+          "pontos": 18
+        },
+        {
+          "posicao": 8,
+          "academia": "GF Team",
+          "pontos": 18
+        },
+        {
+          "posicao": 9,
+          "academia": "JFC Almeida JJ",
+          "pontos": 17
+        },
+        {
+          "posicao": 10,
+          "academia": "Double Five",
+          "pontos": 16
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Melqui Galvão Jiu-Jitsu",
+          "pontos": 82
+        },
+        {
+          "posicao": 2,
+          "academia": "Nova União",
+          "pontos": 53
+        },
+        {
+          "posicao": 3,
+          "academia": "Alliance",
+          "pontos": 37
+        },
+        {
+          "posicao": 4,
+          "academia": "GF Team",
+          "pontos": 37
+        },
+        {
+          "posicao": 5,
+          "academia": "Vision",
+          "pontos": 35
+        },
+        {
+          "posicao": 6,
+          "academia": "Guigo JJ",
+          "pontos": 31
+        },
+        {
+          "posicao": 7,
+          "academia": "Gracie Barra",
+          "pontos": 30
+        },
+        {
+          "posicao": 8,
+          "academia": "South Zone Team - SZT",
+          "pontos": 22
+        },
+        {
+          "posicao": 9,
+          "academia": "Cicero Costha Internacional",
+          "pontos": 21
+        },
+        {
+          "posicao": 10,
+          "academia": "Infight JJ",
+          "pontos": 20
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 128
-    },
-    {
-      "posicao": 2,
-      "academia": "DreamArt",
-      "pontos": 67
-    },
-    {
-      "posicao": 3,
-      "academia": "CheckMat",
-      "pontos": 59
-    },
-    {
-      "posicao": 4,
-      "academia": "Vision",
-      "pontos": 35
-    },
-    {
-      "posicao": 5,
-      "academia": "Fratres Brazilian Jiu-Jitsu",
-      "pontos": 32
-    },
-    {
-      "posicao": 6,
-      "academia": "Soldiers Jiu-Jitsu",
-      "pontos": 30
-    },
-    {
-      "posicao": 7,
-      "academia": "AOJ",
-      "pontos": 28
-    },
-    {
-      "posicao": 8,
-      "academia": "Nova União",
-      "pontos": 23
-    },
-    {
-      "posicao": 9,
-      "academia": "GF Team",
-      "pontos": 18
-    },
-    {
-      "posicao": 10,
-      "academia": "Cicero Costha Internacional",
-      "pontos": 14
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 60
-    },
-    {
-      "posicao": 2,
-      "academia": "Fratres Brazilian Jiu-Jitsu",
-      "pontos": 53
-    },
-    {
-      "posicao": 3,
-      "academia": "DreamArt",
-      "pontos": 51
-    },
-    {
-      "posicao": 4,
-      "academia": "AOJ",
-      "pontos": 40
-    },
-    {
-      "posicao": 5,
-      "academia": "Alliance",
-      "pontos": 35
-    },
-    {
-      "posicao": 6,
-      "academia": "Ares BJJ",
-      "pontos": 18
-    },
-    {
-      "posicao": 7,
-      "academia": "Sigma Jiu-Jitsu",
-      "pontos": 18
-    },
-    {
-      "posicao": 8,
-      "academia": "GF Team",
-      "pontos": 18
-    },
-    {
-      "posicao": 9,
-      "academia": "JFC Almeida JJ",
-      "pontos": 17
-    },
-    {
-      "posicao": 10,
-      "academia": "Double Five",
-      "pontos": 16
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Melqui Galvão Jiu-Jitsu",
-      "pontos": 82
-    },
-    {
-      "posicao": 2,
-      "academia": "Nova União",
-      "pontos": 53
-    },
-    {
-      "posicao": 3,
-      "academia": "Alliance",
-      "pontos": 37
-    },
-    {
-      "posicao": 4,
-      "academia": "GF Team",
-      "pontos": 37
-    },
-    {
-      "posicao": 5,
-      "academia": "Vision",
-      "pontos": 35
-    },
-    {
-      "posicao": 6,
-      "academia": "Guigo JJ",
-      "pontos": 31
-    },
-    {
-      "posicao": 7,
-      "academia": "Gracie Barra",
-      "pontos": 30
-    },
-    {
-      "posicao": 8,
-      "academia": "South Zone Team - SZT",
-      "pontos": 22
-    },
-    {
-      "posicao": 9,
-      "academia": "Cicero Costha Internacional",
-      "pontos": 21
-    },
-    {
-      "posicao": 10,
-      "academia": "Infight JJ",
-      "pontos": 20
-    }
-  ]
-}]

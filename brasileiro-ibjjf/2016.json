@@ -12358,268 +12358,269 @@
         "academia": "GF Team"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Mirim": [
+        {
+          "posicao": 1,
+          "academia": "Gracie Barra",
+          "pontos": 54
+        },
+        {
+          "posicao": 2,
+          "academia": "Geração UPP",
+          "pontos": 52
+        },
+        {
+          "posicao": 3,
+          "academia": "GF Team",
+          "pontos": 46
+        },
+        {
+          "posicao": 4,
+          "academia": "Nova União",
+          "pontos": 44
+        },
+        {
+          "posicao": 5,
+          "academia": "Gracie Humaita",
+          "pontos": 28
+        },
+        {
+          "posicao": 6,
+          "academia": "Barbosa Jiu-Jitsu",
+          "pontos": 18
+        },
+        {
+          "posicao": 7,
+          "academia": "Bruno Bastos Association",
+          "pontos": 18
+        },
+        {
+          "posicao": 8,
+          "academia": "Alliance",
+          "pontos": 15
+        },
+        {
+          "posicao": 9,
+          "academia": "Gordo Jiu-Jitsu",
+          "pontos": 13
+        },
+        {
+          "posicao": 10,
+          "academia": "Cei Jiu-Jitsu International",
+          "pontos": 13
+        }
+      ],
+      "Infantil": [
+        {
+          "posicao": 1,
+          "academia": "Nova União",
+          "pontos": 118
+        },
+        {
+          "posicao": 2,
+          "academia": "Geração UPP",
+          "pontos": 66
+        },
+        {
+          "posicao": 3,
+          "academia": "Gracie Barra",
+          "pontos": 58
+        },
+        {
+          "posicao": 4,
+          "academia": "CheckMat",
+          "pontos": 51
+        },
+        {
+          "posicao": 5,
+          "academia": "GF Team",
+          "pontos": 47
+        },
+        {
+          "posicao": 6,
+          "academia": "Guetho Jiu-Jitsu",
+          "pontos": 39
+        },
+        {
+          "posicao": 7,
+          "academia": "Cicero Costha Internacional",
+          "pontos": 28
+        },
+        {
+          "posicao": 8,
+          "academia": "Alliance",
+          "pontos": 27
+        },
+        {
+          "posicao": 9,
+          "academia": "Brazilian Fight",
+          "pontos": 23
+        },
+        {
+          "posicao": 10,
+          "academia": "Pantera Negra",
+          "pontos": 20
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Nova União",
+          "pontos": 71
+        },
+        {
+          "posicao": 2,
+          "academia": "Cicero Costha Internacional",
+          "pontos": 66
+        },
+        {
+          "posicao": 3,
+          "academia": "GF Team",
+          "pontos": 49
+        },
+        {
+          "posicao": 4,
+          "academia": "Barbosa Jiu-Jitsu",
+          "pontos": 41
+        },
+        {
+          "posicao": 5,
+          "academia": "Zenith BJJ",
+          "pontos": 35
+        },
+        {
+          "posicao": 6,
+          "academia": "Guigo BJJ",
+          "pontos": 27
+        },
+        {
+          "posicao": 7,
+          "academia": "Infight Jiu-Jitsu",
+          "pontos": 26
+        },
+        {
+          "posicao": 8,
+          "academia": "Gracie Barra",
+          "pontos": 22
+        },
+        {
+          "posicao": 9,
+          "academia": "Gordo Jiu-Jitsu",
+          "pontos": 21
+        },
+        {
+          "posicao": 10,
+          "academia": "Game Fight BJJ/Manimal",
+          "pontos": 20
+        }
+      ],
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 116
+        },
+        {
+          "posicao": 2,
+          "academia": "Nova União",
+          "pontos": 66
+        },
+        {
+          "posicao": 3,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 46
+        },
+        {
+          "posicao": 4,
+          "academia": "GF Team",
+          "pontos": 45
+        },
+        {
+          "posicao": 5,
+          "academia": "Zenith BJJ",
+          "pontos": 35
+        },
+        {
+          "posicao": 6,
+          "academia": "PSLPB Cicero Costha B",
+          "pontos": 30
+        },
+        {
+          "posicao": 7,
+          "academia": "Ns Brotherhood",
+          "pontos": 30
+        },
+        {
+          "posicao": 8,
+          "academia": "Barbosa Jiu-Jitsu",
+          "pontos": 23
+        },
+        {
+          "posicao": 9,
+          "academia": "Ryan Gracie Team",
+          "pontos": 14
+        },
+        {
+          "posicao": 10,
+          "academia": "Gracie Barra",
+          "pontos": 11
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "GF Team",
+          "pontos": 66
+        },
+        {
+          "posicao": 2,
+          "academia": "Alliance",
+          "pontos": 54
+        },
+        {
+          "posicao": 3,
+          "academia": "Ryan Gracie Team",
+          "pontos": 50
+        },
+        {
+          "posicao": 4,
+          "academia": "Gracie Barra",
+          "pontos": 37
+        },
+        {
+          "posicao": 5,
+          "academia": "Barbosa Jiu-Jitsu",
+          "pontos": 29
+        },
+        {
+          "posicao": 6,
+          "academia": "Ns Brotherhood",
+          "pontos": 27
+        },
+        {
+          "posicao": 7,
+          "academia": "CheckMat",
+          "pontos": 26
+        },
+        {
+          "posicao": 8,
+          "academia": "Ribeiro Jiu-Jitsu",
+          "pontos": 19
+        },
+        {
+          "posicao": 9,
+          "academia": "Nova União",
+          "pontos": 19
+        },
+        {
+          "posicao": 10,
+          "academia": "Gracie Humaita",
+          "pontos": 15
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Mirim": [
-    {
-      "posicao": 1,
-      "academia": "Gracie Barra",
-      "pontos": 54
-    },
-    {
-      "posicao": 2,
-      "academia": "Geração UPP",
-      "pontos": 52
-    },
-    {
-      "posicao": 3,
-      "academia": "GF Team",
-      "pontos": 46
-    },
-    {
-      "posicao": 4,
-      "academia": "Nova União",
-      "pontos": 44
-    },
-    {
-      "posicao": 5,
-      "academia": "Gracie Humaita",
-      "pontos": 28
-    },
-    {
-      "posicao": 6,
-      "academia": "Barbosa Jiu-Jitsu",
-      "pontos": 18
-    },
-    {
-      "posicao": 7,
-      "academia": "Bruno Bastos Association",
-      "pontos": 18
-    },
-    {
-      "posicao": 8,
-      "academia": "Alliance",
-      "pontos": 15
-    },
-    {
-      "posicao": 9,
-      "academia": "Gordo Jiu-Jitsu",
-      "pontos": 13
-    },
-    {
-      "posicao": 10,
-      "academia": "Cei Jiu-Jitsu International",
-      "pontos": 13
-    }
-  ],
-  "Infantil": [
-    {
-      "posicao": 1,
-      "academia": "Nova União",
-      "pontos": 118
-    },
-    {
-      "posicao": 2,
-      "academia": "Geração UPP",
-      "pontos": 66
-    },
-    {
-      "posicao": 3,
-      "academia": "Gracie Barra",
-      "pontos": 58
-    },
-    {
-      "posicao": 4,
-      "academia": "CheckMat",
-      "pontos": 51
-    },
-    {
-      "posicao": 5,
-      "academia": "GF Team",
-      "pontos": 47
-    },
-    {
-      "posicao": 6,
-      "academia": "Guetho Jiu-Jitsu",
-      "pontos": 39
-    },
-    {
-      "posicao": 7,
-      "academia": "Cicero Costha Internacional",
-      "pontos": 28
-    },
-    {
-      "posicao": 8,
-      "academia": "Alliance",
-      "pontos": 27
-    },
-    {
-      "posicao": 9,
-      "academia": "Brazilian Fight",
-      "pontos": 23
-    },
-    {
-      "posicao": 10,
-      "academia": "Pantera Negra",
-      "pontos": 20
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Nova União",
-      "pontos": 71
-    },
-    {
-      "posicao": 2,
-      "academia": "Cicero Costha Internacional",
-      "pontos": 66
-    },
-    {
-      "posicao": 3,
-      "academia": "GF Team",
-      "pontos": 49
-    },
-    {
-      "posicao": 4,
-      "academia": "Barbosa Jiu-Jitsu",
-      "pontos": 41
-    },
-    {
-      "posicao": 5,
-      "academia": "Zenith BJJ",
-      "pontos": 35
-    },
-    {
-      "posicao": 6,
-      "academia": "Guigo BJJ",
-      "pontos": 27
-    },
-    {
-      "posicao": 7,
-      "academia": "Infight Jiu-Jitsu",
-      "pontos": 26
-    },
-    {
-      "posicao": 8,
-      "academia": "Gracie Barra",
-      "pontos": 22
-    },
-    {
-      "posicao": 9,
-      "academia": "Gordo Jiu-Jitsu",
-      "pontos": 21
-    },
-    {
-      "posicao": 10,
-      "academia": "Game Fight BJJ/Manimal",
-      "pontos": 20
-    }
-  ],
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 116
-    },
-    {
-      "posicao": 2,
-      "academia": "Nova União",
-      "pontos": 66
-    },
-    {
-      "posicao": 3,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 46
-    },
-    {
-      "posicao": 4,
-      "academia": "GF Team",
-      "pontos": 45
-    },
-    {
-      "posicao": 5,
-      "academia": "Zenith BJJ",
-      "pontos": 35
-    },
-    {
-      "posicao": 6,
-      "academia": "PSLPB Cicero Costha B",
-      "pontos": 30
-    },
-    {
-      "posicao": 7,
-      "academia": "Ns Brotherhood",
-      "pontos": 30
-    },
-    {
-      "posicao": 8,
-      "academia": "Barbosa Jiu-Jitsu",
-      "pontos": 23
-    },
-    {
-      "posicao": 9,
-      "academia": "Ryan Gracie Team",
-      "pontos": 14
-    },
-    {
-      "posicao": 10,
-      "academia": "Gracie Barra",
-      "pontos": 11
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "GF Team",
-      "pontos": 66
-    },
-    {
-      "posicao": 2,
-      "academia": "Alliance",
-      "pontos": 54
-    },
-    {
-      "posicao": 3,
-      "academia": "Ryan Gracie Team",
-      "pontos": 50
-    },
-    {
-      "posicao": 4,
-      "academia": "Gracie Barra",
-      "pontos": 37
-    },
-    {
-      "posicao": 5,
-      "academia": "Barbosa Jiu-Jitsu",
-      "pontos": 29
-    },
-    {
-      "posicao": 6,
-      "academia": "Ns Brotherhood",
-      "pontos": 27
-    },
-    {
-      "posicao": 7,
-      "academia": "CheckMat",
-      "pontos": 26
-    },
-    {
-      "posicao": 8,
-      "academia": "Ribeiro Jiu-Jitsu",
-      "pontos": 19
-    },
-    {
-      "posicao": 9,
-      "academia": "Nova União",
-      "pontos": 19
-    },
-    {
-      "posicao": 10,
-      "academia": "Gracie Humaita",
-      "pontos": 15
-    }
-  ]
-}]

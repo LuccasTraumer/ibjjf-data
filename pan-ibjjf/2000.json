@@ -1,2598 +1,2599 @@
 [
   {
-    "category": "Juvenile / Blue / Male / Rooster",
+    "categoria": "Juvenile / Blue / Male / Rooster",
     "ranking": [
       {
-        "place": "1",
-        "name": "Leonardo Arruda",
-        "academy": "Alliance"
+        "posicao": 1,
+        "nome": "Leonardo Arruda",
+        "academia": "Alliance"
       },
       {
-        "place": "2",
-        "name": "Lessandro Encarnacao",
-        "academy": "Machado J-J"
+        "posicao": 2,
+        "nome": "Lessandro Encarnacao",
+        "academia": "Machado J-J"
       },
       {
-        "place": "3",
-        "name": "Francisco Rebol",
-        "academy": "Luis Paulo J-J"
+        "posicao": 3,
+        "nome": "Francisco Rebol",
+        "academia": "Luis Paulo J-J"
       }
     ]
   },
   {
-    "category": "Juvenile / Blue / Male / Light Feather",
+    "categoria": "Juvenile / Blue / Male / Light Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Rany Yahio",
-        "academy": "Clube do Congresso"
+        "posicao": 1,
+        "nome": "Rany Yahio",
+        "academia": "Clube do Congresso"
       },
       {
-        "place": "2",
-        "name": "Tiago de Mello",
-        "academy": "Ataque Duplo"
+        "posicao": 2,
+        "nome": "Tiago de Mello",
+        "academia": "Ataque Duplo"
       }
     ]
   },
   {
-    "category": "Juvenile / Blue / Male / Feather",
+    "categoria": "Juvenile / Blue / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Bruno Medeiros",
-        "academy": "Gracie Fortaleza"
+        "posicao": 1,
+        "nome": "Bruno Medeiros",
+        "academia": "Gracie Fortaleza"
       },
       {
-        "place": "2",
-        "name": "Carlos Correa",
-        "academy": "Nova Uniao"
+        "posicao": 2,
+        "nome": "Carlos Correa",
+        "academia": "Nova Uniao"
       },
       {
-        "place": "3",
-        "name": "Renan Perreira",
-        "academy": "De La Riva"
+        "posicao": 3,
+        "nome": "Renan Perreira",
+        "academia": "De La Riva"
       }
     ]
   },
   {
-    "category": "Juvenile / Blue / Male / Light",
+    "categoria": "Juvenile / Blue / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Eduardo Pessoa",
-        "academy": "Nova Uniao"
+        "posicao": 1,
+        "nome": "Eduardo Pessoa",
+        "academia": "Nova Uniao"
       },
       {
-        "place": "2",
-        "name": "Diego Medina",
-        "academy": "Nova Uniao"
+        "posicao": 2,
+        "nome": "Diego Medina",
+        "academia": "Nova Uniao"
       },
       {
-        "place": "3",
-        "name": "Gustavo Azevedo",
-        "academy": "Alxey Cruz"
+        "posicao": 3,
+        "nome": "Gustavo Azevedo",
+        "academia": "Alxey Cruz"
       },
       {
-        "place": "3",
-        "name": "Andre Lopes",
-        "academy": "Gracie Miami"
+        "posicao": 3,
+        "nome": "Andre Lopes",
+        "academia": "Gracie Miami"
       }
     ]
   },
   {
-    "category": "Juvenile / Blue / Male / Middle",
+    "categoria": "Juvenile / Blue / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Eric Zeemann",
-        "academy": "Nova Uniao"
+        "posicao": 1,
+        "nome": "Eric Zeemann",
+        "academia": "Nova Uniao"
       },
       {
-        "place": "2",
-        "name": "Frand Nieves",
-        "academy": "Gracie Miami"
+        "posicao": 2,
+        "nome": "Frand Nieves",
+        "academia": "Gracie Miami"
       },
       {
-        "place": "3",
-        "name": "Mauro Maluf",
-        "academy": "Carlson Gracie A"
+        "posicao": 3,
+        "nome": "Mauro Maluf",
+        "academia": "Carlson Gracie A"
       },
       {
-        "place": "3",
-        "name": "Marcus Paulo de Freitas",
-        "academy": "Carlos Henrique"
+        "posicao": 3,
+        "nome": "Marcus Paulo de Freitas",
+        "academia": "Carlos Henrique"
       }
     ]
   },
   {
-    "category": "Juvenile / Blue / Male / Medium Heavy",
+    "categoria": "Juvenile / Blue / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Leonardo Gosling",
-        "academy": "Marcio Simas /Paulo Castro"
+        "posicao": 1,
+        "nome": "Leonardo Gosling",
+        "academia": "Marcio Simas /Paulo Castro"
       },
       {
-        "place": "2",
-        "name": "Eduardo Soares",
-        "academy": "Carlson Gracie"
+        "posicao": 2,
+        "nome": "Eduardo Soares",
+        "academia": "Carlson Gracie"
       },
       {
-        "place": "3",
-        "name": "Emanuel Alves",
-        "academy": "Pagels J-J"
+        "posicao": 3,
+        "nome": "Emanuel Alves",
+        "academia": "Pagels J-J"
       }
     ]
   },
   {
-    "category": "Juvenile / Blue / Male / Heavy",
+    "categoria": "Juvenile / Blue / Male / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Jason Ebarbi",
-        "academy": "Gracie Training Association"
+        "posicao": 1,
+        "nome": "Jason Ebarbi",
+        "academia": "Gracie Training Association"
       },
       {
-        "place": "2",
-        "name": "Gabriel Paulino",
-        "academy": "Otavio de Almeida"
+        "posicao": 2,
+        "nome": "Gabriel Paulino",
+        "academia": "Otavio de Almeida"
       }
     ]
   },
   {
-    "category": "Juvenile / Blue / Male / Super Heavy",
+    "categoria": "Juvenile / Blue / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Fabricio Monteiro",
-        "academy": "Pitbull"
+        "posicao": 1,
+        "nome": "Fabricio Monteiro",
+        "academia": "Pitbull"
       },
       {
-        "place": "2",
-        "name": "Thiago Domingues",
-        "academy": "De La Riva Copacabana"
+        "posicao": 2,
+        "nome": "Thiago Domingues",
+        "academia": "De La Riva Copacabana"
       }
     ]
   },
   {
-    "category": "Juvenile / Blue / Male / Ultra Heavy",
+    "categoria": "Juvenile / Blue / Male / Ultra Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Rafael Lovato",
-        "academy": "Machado J-J"
+        "posicao": 1,
+        "nome": "Rafael Lovato",
+        "academia": "Machado J-J"
       },
       {
-        "place": "2",
-        "name": "Ramom Rosa",
-        "academy": "Leo D'Iha"
+        "posicao": 2,
+        "nome": "Ramom Rosa",
+        "academia": "Leo D'Iha"
       },
       {
-        "place": "3",
-        "name": "Felipe Ribeiro",
-        "academy": "Leo D'Iha"
+        "posicao": 3,
+        "nome": "Felipe Ribeiro",
+        "academia": "Leo D'Iha"
       },
       {
-        "place": "3",
-        "name": "Jose Henrique Nascimento",
-        "academy": "Maromba"
+        "posicao": 3,
+        "nome": "Jose Henrique Nascimento",
+        "academia": "Maromba"
       }
     ]
   },
   {
-    "category": "Adult / Blue / Male / Rooster",
+    "categoria": "Adult / Blue / Male / Rooster",
     "ranking": [
       {
-        "place": "1",
-        "name": "Marcio Bonfin",
-        "academy": "Alliance"
+        "posicao": 1,
+        "nome": "Marcio Bonfin",
+        "academia": "Alliance"
       },
       {
-        "place": "2",
-        "name": "Johannes Gamelin",
-        "academy": "Cia / Paulista"
+        "posicao": 2,
+        "nome": "Johannes Gamelin",
+        "academia": "Cia / Paulista"
       },
       {
-        "place": "3",
-        "name": "Jasin Lugtu",
-        "academy": "Brazilian J-J"
+        "posicao": 3,
+        "nome": "Jasin Lugtu",
+        "academia": "Brazilian J-J"
       },
       {
-        "place": "3",
-        "name": "Mauricio Silveira",
-        "academy": "Otavio de Almeida"
+        "posicao": 3,
+        "nome": "Mauricio Silveira",
+        "academia": "Otavio de Almeida"
       }
     ]
   },
   {
-    "category": "Adult / Blue / Male / Light Feather",
+    "categoria": "Adult / Blue / Male / Light Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Luciano Aires",
-        "academy": "Gracie Barra B"
+        "posicao": 1,
+        "nome": "Luciano Aires",
+        "academia": "Gracie Barra B"
       },
       {
-        "place": "2",
-        "name": "Thiago Barbosa",
-        "academy": "Sport Trainer"
+        "posicao": 2,
+        "nome": "Thiago Barbosa",
+        "academia": "Sport Trainer"
       },
       {
-        "place": "3",
-        "name": "Tiago Gondim",
-        "academy": "Gracie Barra B"
+        "posicao": 3,
+        "nome": "Tiago Gondim",
+        "academia": "Gracie Barra B"
       },
       {
-        "place": "3",
-        "name": "Shaine Rice",
-        "academy": "Rickson Gracie"
+        "posicao": 3,
+        "nome": "Shaine Rice",
+        "academia": "Rickson Gracie"
       }
     ]
   },
   {
-    "category": "Adult / Blue / Male / Feather",
+    "categoria": "Adult / Blue / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Reinaldo Boa Morte",
-        "academy": "Nova uniao"
+        "posicao": 1,
+        "nome": "Reinaldo Boa Morte",
+        "academia": "Nova uniao"
       },
       {
-        "place": "2",
-        "name": "Ricardo Junqueira",
-        "academy": "Gracie Barra B"
+        "posicao": 2,
+        "nome": "Ricardo Junqueira",
+        "academia": "Gracie Barra B"
       },
       {
-        "place": "3",
-        "name": "Rodrigo Onishi",
-        "academy": "Gracie Barra"
+        "posicao": 3,
+        "nome": "Rodrigo Onishi",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Koji Assakura",
-        "academy": "Paraestra"
+        "posicao": 3,
+        "nome": "Koji Assakura",
+        "academia": "Paraestra"
       }
     ]
   },
   {
-    "category": "Adult / Blue / Male / Light",
+    "categoria": "Adult / Blue / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Sergio Liurenço",
-        "academy": "Gracie Humaita"
+        "posicao": 1,
+        "nome": "Sergio Liurenço",
+        "academia": "Gracie Humaita"
       },
       {
-        "place": "2",
-        "name": "Igor Gracie",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Igor Gracie",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Panayotis Letsos",
-        "academy": "Carlson Gracie"
+        "posicao": 3,
+        "nome": "Panayotis Letsos",
+        "academia": "Carlson Gracie"
       },
       {
-        "place": "3",
-        "name": "Shawn Willians",
-        "academy": "Renzo Gracie"
+        "posicao": 3,
+        "nome": "Shawn Willians",
+        "academia": "Renzo Gracie"
       }
     ]
   },
   {
-    "category": "Adult / Blue / Male / Middle",
+    "categoria": "Adult / Blue / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Joe D'Arce",
-        "academy": "Renzo Gracie"
+        "posicao": 1,
+        "nome": "Joe D'Arce",
+        "academia": "Renzo Gracie"
       },
       {
-        "place": "2",
-        "name": "Brian Guindry",
-        "academy": "Rodrigo Vaghui"
+        "posicao": 2,
+        "nome": "Brian Guindry",
+        "academia": "Rodrigo Vaghui"
       },
       {
-        "place": "3",
-        "name": "Mark Bosek",
-        "academy": "Nova Uniao Campos"
+        "posicao": 3,
+        "nome": "Mark Bosek",
+        "academia": "Nova Uniao Campos"
       },
       {
-        "place": "3",
-        "name": "Edy Clay",
-        "academy": "Zanshin Dojo"
+        "posicao": 3,
+        "nome": "Edy Clay",
+        "academia": "Zanshin Dojo"
       }
     ]
   },
   {
-    "category": "Adult / Blue / Male / Medium Heavy",
+    "categoria": "Adult / Blue / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Roger Gracie",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Roger Gracie",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Jorge Santiago",
-        "academy": "Carlson Gracie"
+        "posicao": 2,
+        "nome": "Jorge Santiago",
+        "academia": "Carlson Gracie"
       },
       {
-        "place": "3",
-        "name": "Rodrigo Araújo",
-        "academy": "Alliance"
+        "posicao": 3,
+        "nome": "Rodrigo Araújo",
+        "academia": "Alliance"
       },
       {
-        "place": "3",
-        "name": "Alan Shebabo",
-        "academy": "Machado J-J"
+        "posicao": 3,
+        "nome": "Alan Shebabo",
+        "academia": "Machado J-J"
       }
     ]
   },
   {
-    "category": "Adult / Blue / Male / Heavy",
+    "categoria": "Adult / Blue / Male / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Wilson Tavares",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Wilson Tavares",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Tharin Alves",
-        "academy": "Montenegro J-J"
+        "posicao": 2,
+        "nome": "Tharin Alves",
+        "academia": "Montenegro J-J"
       },
       {
-        "place": "3",
-        "name": "Mike Pat",
-        "academy": "Carlson J-J"
+        "posicao": 3,
+        "nome": "Mike Pat",
+        "academia": "Carlson J-J"
       },
       {
-        "place": "3",
-        "name": "Tino de Franco",
-        "academy": "Machado Dallas"
+        "posicao": 3,
+        "nome": "Tino de Franco",
+        "academia": "Machado Dallas"
       }
     ]
   },
   {
-    "category": "Adult / Blue / Male / Super Heavy",
+    "categoria": "Adult / Blue / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Fabricio Verdan",
-        "academy": "Silvio Bering / Winner"
+        "posicao": 1,
+        "nome": "Fabricio Verdan",
+        "academia": "Silvio Bering / Winner"
       },
       {
-        "place": "2",
-        "name": "Elijah Gardner",
-        "academy": "Alliance"
+        "posicao": 2,
+        "nome": "Elijah Gardner",
+        "academia": "Alliance"
       },
       {
-        "place": "3",
-        "name": "Jason Joves",
-        "academy": "Machado J-J"
+        "posicao": 3,
+        "nome": "Jason Joves",
+        "academia": "Machado J-J"
       },
       {
-        "place": "3",
-        "name": "Uatila Ferreira",
-        "academy": "Te Bar Praia Clube"
+        "posicao": 3,
+        "nome": "Uatila Ferreira",
+        "academia": "Te Bar Praia Clube"
       }
     ]
   },
   {
-    "category": "Adult / Blue / Male / Ultra Heavy",
+    "categoria": "Adult / Blue / Male / Ultra Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Robert Shaw",
-        "academy": "Alliance"
+        "posicao": 1,
+        "nome": "Robert Shaw",
+        "academia": "Alliance"
       },
       {
-        "place": "2",
-        "name": "Daniel Adans",
-        "academy": "Vandry BJJ"
+        "posicao": 2,
+        "nome": "Daniel Adans",
+        "academia": "Vandry BJJ"
       },
       {
-        "place": "3",
-        "name": "Marlon Wind Buch",
-        "academy": "Renzo Gracie"
+        "posicao": 3,
+        "nome": "Marlon Wind Buch",
+        "academia": "Renzo Gracie"
       },
       {
-        "place": "3",
-        "name": "Tim Carpenter",
-        "academy": "Relson Gracie"
+        "posicao": 3,
+        "nome": "Tim Carpenter",
+        "academia": "Relson Gracie"
       }
     ]
   },
   {
-    "category": "Master 1 / Blue / Male / Light Feather",
+    "categoria": "Master 1 / Blue / Male / Light Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Willian Mc",
-        "academy": "De La Riva"
+        "posicao": 1,
+        "nome": "Willian Mc",
+        "academia": "De La Riva"
       },
       {
-        "place": "2",
-        "name": "Fabio Miranda",
-        "academy": "Godoi / Macaco"
+        "posicao": 2,
+        "nome": "Fabio Miranda",
+        "academia": "Godoi / Macaco"
       },
       {
-        "place": "3",
-        "name": "Don Buzzerd",
-        "academy": "Carlson Gracie JR"
+        "posicao": 3,
+        "nome": "Don Buzzerd",
+        "academia": "Carlson Gracie JR"
       },
       {
-        "place": "3",
-        "name": "Donald Lee",
-        "academy": "Marcio Simas / Paulo Castro"
+        "posicao": 3,
+        "nome": "Donald Lee",
+        "academia": "Marcio Simas / Paulo Castro"
       }
     ]
   },
   {
-    "category": "Master 1 / Blue / Male / Feather",
+    "categoria": "Master 1 / Blue / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Silvio Fiorentine",
-        "academy": "Godoi/ Macaco"
+        "posicao": 1,
+        "nome": "Silvio Fiorentine",
+        "academia": "Godoi/ Macaco"
       },
       {
-        "place": "2",
-        "name": "Jay Denis",
-        "academy": "Relson Gracie"
+        "posicao": 2,
+        "nome": "Jay Denis",
+        "academia": "Relson Gracie"
       },
       {
-        "place": "3",
-        "name": "Mark Ashton",
-        "academy": "Carlson Gracie JR"
+        "posicao": 3,
+        "nome": "Mark Ashton",
+        "academia": "Carlson Gracie JR"
       },
       {
-        "place": "3",
-        "name": "Max Tavares",
-        "academy": "Alliance"
+        "posicao": 3,
+        "nome": "Max Tavares",
+        "academia": "Alliance"
       }
     ]
   },
   {
-    "category": "Master 1 / Blue / Male / Light",
+    "categoria": "Master 1 / Blue / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Fred Trillo",
-        "academy": "Gracie Miami"
+        "posicao": 1,
+        "nome": "Fred Trillo",
+        "academia": "Gracie Miami"
       },
       {
-        "place": "2",
-        "name": "David Jacobs",
-        "academy": "Yamasaki Team USA"
+        "posicao": 2,
+        "nome": "David Jacobs",
+        "academia": "Yamasaki Team USA"
       },
       {
-        "place": "3",
-        "name": "David Gunsberg",
-        "academy": "Boston B J-J"
+        "posicao": 3,
+        "nome": "David Gunsberg",
+        "academia": "Boston B J-J"
       },
       {
-        "place": "3",
-        "name": "Samuel Joseph",
-        "academy": "Yamasaki França"
+        "posicao": 3,
+        "nome": "Samuel Joseph",
+        "academia": "Yamasaki França"
       }
     ]
   },
   {
-    "category": "Master 1 / Blue / Male / Middle",
+    "categoria": "Master 1 / Blue / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "John Hasset",
-        "academy": "Relson Gracie Philadelphia"
+        "posicao": 1,
+        "nome": "John Hasset",
+        "academia": "Relson Gracie Philadelphia"
       },
       {
-        "place": "2",
-        "name": "Jett Heard",
-        "academy": "Alliance"
+        "posicao": 2,
+        "nome": "Jett Heard",
+        "academia": "Alliance"
       },
       {
-        "place": "3",
-        "name": "Jason Culbrem",
-        "academy": "Mixed Martial Arts"
+        "posicao": 3,
+        "nome": "Jason Culbrem",
+        "academia": "Mixed Martial Arts"
       },
       {
-        "place": "3",
-        "name": "Karl Garcia",
-        "academy": "Alliance"
+        "posicao": 3,
+        "nome": "Karl Garcia",
+        "academia": "Alliance"
       }
     ]
   },
   {
-    "category": "Master 1 / Blue / Male / Medium Heavy",
+    "categoria": "Master 1 / Blue / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Steve Headen",
-        "academy": "Alliance"
+        "posicao": 1,
+        "nome": "Steve Headen",
+        "academia": "Alliance"
       },
       {
-        "place": "2",
-        "name": "Brad Adams",
-        "academy": "Alliance"
+        "posicao": 2,
+        "nome": "Brad Adams",
+        "academia": "Alliance"
       },
       {
-        "place": "3",
-        "name": "John Montaldo",
-        "academy": "Marcio Simas/Paulo Castro"
+        "posicao": 3,
+        "nome": "John Montaldo",
+        "academia": "Marcio Simas/Paulo Castro"
       },
       {
-        "place": "3",
-        "name": "Mike Frangides",
-        "academy": "Relson Gracie"
+        "posicao": 3,
+        "nome": "Mike Frangides",
+        "academia": "Relson Gracie"
       }
     ]
   },
   {
-    "category": "Master 1 / Blue / Male / Heavy",
+    "categoria": "Master 1 / Blue / Male / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Ed Shole",
-        "academy": "Rodrigo Vaghi"
+        "posicao": 1,
+        "nome": "Ed Shole",
+        "academia": "Rodrigo Vaghi"
       },
       {
-        "place": "2",
-        "name": "Greg Thompson",
-        "academy": "Gracie Miami"
+        "posicao": 2,
+        "nome": "Greg Thompson",
+        "academia": "Gracie Miami"
       },
       {
-        "place": "3",
-        "name": "Peter Martel",
-        "academy": "Titans B J-J"
+        "posicao": 3,
+        "nome": "Peter Martel",
+        "academia": "Titans B J-J"
       },
       {
-        "place": "3",
-        "name": "Daniel Lambert",
-        "academy": "Boca Blacis Belt"
+        "posicao": 3,
+        "nome": "Daniel Lambert",
+        "academia": "Boca Blacis Belt"
       }
     ]
   },
   {
-    "category": "Master 1 / Blue / Male / Super Heavy",
+    "categoria": "Master 1 / Blue / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Eugênio Lopes",
-        "academy": "Marcio Simas /Paulo Castro"
+        "posicao": 1,
+        "nome": "Eugênio Lopes",
+        "academia": "Marcio Simas /Paulo Castro"
       },
       {
-        "place": "2",
-        "name": "Kerry Sepulveda",
-        "academy": "Marcio Simas /Paulo Castro"
+        "posicao": 2,
+        "nome": "Kerry Sepulveda",
+        "academia": "Marcio Simas /Paulo Castro"
       },
       {
-        "place": "3",
-        "name": "Vasilios Maniate",
-        "academy": "Carlson Gracie JR"
+        "posicao": 3,
+        "nome": "Vasilios Maniate",
+        "academia": "Carlson Gracie JR"
       },
       {
-        "place": "3",
-        "name": "Carlos Augusto Martins",
-        "academy": "Godoi/Macaco"
+        "posicao": 3,
+        "nome": "Carlos Augusto Martins",
+        "academia": "Godoi/Macaco"
       }
     ]
   },
   {
-    "category": "Master 1 / Blue / Male / Ultra Heavy",
+    "categoria": "Master 1 / Blue / Male / Ultra Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Patrick Stano",
-        "academy": "Relson Gracie"
+        "posicao": 1,
+        "nome": "Patrick Stano",
+        "academia": "Relson Gracie"
       },
       {
-        "place": "2",
-        "name": "Daniel Russel",
-        "academy": "Carlson Gracie JR"
+        "posicao": 2,
+        "nome": "Daniel Russel",
+        "academia": "Carlson Gracie JR"
       },
       {
-        "place": "3",
-        "name": "Fred Smith",
-        "academy": "Gracie Miami"
+        "posicao": 3,
+        "nome": "Fred Smith",
+        "academia": "Gracie Miami"
       },
       {
-        "place": "3",
-        "name": "Garry Tillman",
-        "academy": "Marcio Simas /Paulo Castro"
+        "posicao": 3,
+        "nome": "Garry Tillman",
+        "academia": "Marcio Simas /Paulo Castro"
       }
     ]
   },
   {
-    "category": "Master 2 / Blue / Male / Light Feather",
+    "categoria": "Master 2 / Blue / Male / Light Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Stand Ford kaga",
-        "academy": "Relson Gracie"
+        "posicao": 1,
+        "nome": "Stand Ford kaga",
+        "academia": "Relson Gracie"
       }
     ]
   },
   {
-    "category": "Master 2 / Blue / Male / Feather",
+    "categoria": "Master 2 / Blue / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Joseph Bollone",
-        "academy": "Boston Brazilian"
+        "posicao": 1,
+        "nome": "Joseph Bollone",
+        "academia": "Boston Brazilian"
       }
     ]
   },
   {
-    "category": "Master 2 / Blue / Male / Light",
+    "categoria": "Master 2 / Blue / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Jonh Truzillo",
-        "academy": "Renzo Gracie"
+        "posicao": 1,
+        "nome": "Jonh Truzillo",
+        "academia": "Renzo Gracie"
       },
       {
-        "place": "2",
-        "name": "Nick Odorisio",
-        "academy": "Relson Gracie"
+        "posicao": 2,
+        "nome": "Nick Odorisio",
+        "academia": "Relson Gracie"
       },
       {
-        "place": "3",
-        "name": "Anthony Tizzano",
-        "academy": "Marcio Simas/Paulo Castro"
+        "posicao": 3,
+        "nome": "Anthony Tizzano",
+        "academia": "Marcio Simas/Paulo Castro"
       }
     ]
   },
   {
-    "category": "Master 2 / Blue / Male / Middle",
+    "categoria": "Master 2 / Blue / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "John Connor",
-        "academy": "Boston B J-J"
+        "posicao": 1,
+        "nome": "John Connor",
+        "academia": "Boston B J-J"
       },
       {
-        "place": "2",
-        "name": "Hector Gomes",
-        "academy": "Gracie Miami"
+        "posicao": 2,
+        "nome": "Hector Gomes",
+        "academia": "Gracie Miami"
       },
       {
-        "place": "3",
-        "name": "William Powell",
-        "academy": "Carlson Jr."
+        "posicao": 3,
+        "nome": "William Powell",
+        "academia": "Carlson Jr."
       },
       {
-        "place": "3",
-        "name": "John Rozzi",
-        "academy": "Relson Gracie"
+        "posicao": 3,
+        "nome": "John Rozzi",
+        "academia": "Relson Gracie"
       }
     ]
   },
   {
-    "category": "Master 2 / Blue / Male / Heavy",
+    "categoria": "Master 2 / Blue / Male / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Alexander Davids",
-        "academy": "Minotauro J-J"
+        "posicao": 1,
+        "nome": "Alexander Davids",
+        "academia": "Minotauro J-J"
       },
       {
-        "place": "2",
-        "name": "Paul Berman",
-        "academy": "Marcio Simas/Paulo Castro"
+        "posicao": 2,
+        "nome": "Paul Berman",
+        "academia": "Marcio Simas/Paulo Castro"
       },
       {
-        "place": "3",
-        "name": "Andrew Crane",
-        "academy": "Yamasaki Team USA"
+        "posicao": 3,
+        "nome": "Andrew Crane",
+        "academia": "Yamasaki Team USA"
       }
     ]
   },
   {
-    "category": "Master 2 / Blue / Male / Super Heavy",
+    "categoria": "Master 2 / Blue / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Jonh Hinds",
-        "academy": "Rickson Gracie"
+        "posicao": 1,
+        "nome": "Jonh Hinds",
+        "academia": "Rickson Gracie"
       },
       {
-        "place": "2",
-        "name": "Salvatore Gaspari",
-        "academy": "Godoi/Macaco"
+        "posicao": 2,
+        "nome": "Salvatore Gaspari",
+        "academia": "Godoi/Macaco"
       },
       {
-        "place": "3",
-        "name": "Allen Sachetti",
-        "academy": "Aplied Combar Scince"
+        "posicao": 3,
+        "nome": "Allen Sachetti",
+        "academia": "Aplied Combar Scince"
       }
     ]
   },
   {
-    "category": "Master 2 / Blue / Male / Ultra Heavy",
+    "categoria": "Master 2 / Blue / Male / Ultra Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Dana Koiter",
-        "academy": "Marcelo Ferreira"
+        "posicao": 1,
+        "nome": "Dana Koiter",
+        "academia": "Marcelo Ferreira"
       },
       {
-        "place": "2",
-        "name": "Jonh Coper",
-        "academy": "Relson Gracie"
+        "posicao": 2,
+        "nome": "Jonh Coper",
+        "academia": "Relson Gracie"
       },
       {
-        "place": "3",
-        "name": "Paulo Ramom",
-        "academy": "Carlson A"
+        "posicao": 3,
+        "nome": "Paulo Ramom",
+        "academia": "Carlson A"
       },
       {
-        "place": "3",
-        "name": "Mike Shuhteswnih",
-        "academy": "Alliance"
+        "posicao": 3,
+        "nome": "Mike Shuhteswnih",
+        "academia": "Alliance"
       }
     ]
   },
   {
-    "category": "Master 2 / Blue / Male / Open Class",
+    "categoria": "Master 2 / Blue / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Alexander Danids",
-        "academy": "Minotauro"
+        "posicao": 1,
+        "nome": "Alexander Danids",
+        "academia": "Minotauro"
       },
       {
-        "place": "2",
-        "name": "Paulo Ramon",
-        "academy": "Carlson A"
+        "posicao": 2,
+        "nome": "Paulo Ramon",
+        "academia": "Carlson A"
       },
       {
-        "place": "3",
-        "name": "Allen Sachetti",
-        "academy": "Aplied Combar Scince"
+        "posicao": 3,
+        "nome": "Allen Sachetti",
+        "academia": "Aplied Combar Scince"
       }
     ]
   },
   {
-    "category": "Master 3 / Blue / Male / Light",
+    "categoria": "Master 3 / Blue / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Cornilius Drane",
-        "academy": "Gracie Miami"
+        "posicao": 1,
+        "nome": "Cornilius Drane",
+        "academia": "Gracie Miami"
       }
     ]
   },
   {
-    "category": "Master 3 / Blue / Male / Middle",
+    "categoria": "Master 3 / Blue / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Jim Campbell",
-        "academy": "Gracie Miami"
+        "posicao": 1,
+        "nome": "Jim Campbell",
+        "academia": "Gracie Miami"
       },
       {
-        "place": "1",
-        "name": "Dale Vauglin",
-        "academy": "Marcio Simas/Paulo Castro"
+        "posicao": 1,
+        "nome": "Dale Vauglin",
+        "academia": "Marcio Simas/Paulo Castro"
       }
     ]
   },
   {
-    "category": "Master 3 / Blue / Male / Medium Heavy",
+    "categoria": "Master 3 / Blue / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Daniel Spares",
-        "academy": "Relson Gracie"
+        "posicao": 1,
+        "nome": "Daniel Spares",
+        "academia": "Relson Gracie"
       },
       {
-        "place": "2",
-        "name": "Mario Vilela",
-        "academy": "David Giorsetti"
+        "posicao": 2,
+        "nome": "Mario Vilela",
+        "academia": "David Giorsetti"
       }
     ]
   },
   {
-    "category": "Master 3 / Blue / Male / Heavy",
+    "categoria": "Master 3 / Blue / Male / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Nicolas Fedron",
-        "academy": "Gracie Miami"
+        "posicao": 1,
+        "nome": "Nicolas Fedron",
+        "academia": "Gracie Miami"
       }
     ]
   },
   {
-    "category": "Master 3 / Blue / Male / Super Heavy",
+    "categoria": "Master 3 / Blue / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Briam Butkeraiti",
-        "academy": "Marcio Simas/Paulo Castro"
+        "posicao": 1,
+        "nome": "Briam Butkeraiti",
+        "academia": "Marcio Simas/Paulo Castro"
       },
       {
-        "place": "2",
-        "name": "Ric Jorge",
-        "academy": "Boca Black Belt"
+        "posicao": 2,
+        "nome": "Ric Jorge",
+        "academia": "Boca Black Belt"
       }
     ]
   },
   {
-    "category": "Master 3 / Blue / Male / Ultra Heavy",
+    "categoria": "Master 3 / Blue / Male / Ultra Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Luiz Segato",
-        "academy": "Conan Silveira"
+        "posicao": 1,
+        "nome": "Luiz Segato",
+        "academia": "Conan Silveira"
       }
     ]
   },
   {
-    "category": "Master 3 / Blue / Male / Open Class",
+    "categoria": "Master 3 / Blue / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Briam Butkeraiti",
-        "academy": "Marcio Simas/Paulo Castro"
+        "posicao": 1,
+        "nome": "Briam Butkeraiti",
+        "academia": "Marcio Simas/Paulo Castro"
       },
       {
-        "place": "2",
-        "name": "Cornilius Drane",
-        "academy": "Gracie Miami"
+        "posicao": 2,
+        "nome": "Cornilius Drane",
+        "academia": "Gracie Miami"
       },
       {
-        "place": "3",
-        "name": "Daniel Spares",
-        "academy": "Relson Gracie"
+        "posicao": 3,
+        "nome": "Daniel Spares",
+        "academia": "Relson Gracie"
       },
       {
-        "place": "3",
-        "name": "Luiz Segato",
-        "academy": "Conan Silveira"
+        "posicao": 3,
+        "nome": "Luiz Segato",
+        "academia": "Conan Silveira"
       }
     ]
   },
   {
-    "category": "Master 4 / Blue / Male / Light",
+    "categoria": "Master 4 / Blue / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Peter Lee",
-        "academy": "Marcio Simas / Paulo Castro"
+        "posicao": 1,
+        "nome": "Peter Lee",
+        "academia": "Marcio Simas / Paulo Castro"
       }
     ]
   },
   {
-    "category": "Master 4 / Blue / Male / Middle",
+    "categoria": "Master 4 / Blue / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Rex Aperauch",
-        "academy": "Dragon Arts AC"
+        "posicao": 1,
+        "nome": "Rex Aperauch",
+        "academia": "Dragon Arts AC"
       }
     ]
   },
   {
-    "category": "Master 4 / Blue / Male / Medium Heavy",
+    "categoria": "Master 4 / Blue / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Osmar Trigo",
-        "academy": "Joe Moreira USA"
+        "posicao": 1,
+        "nome": "Osmar Trigo",
+        "academia": "Joe Moreira USA"
       },
       {
-        "place": "2",
-        "name": "Bill Mason",
-        "academy": "Renzo Gracie"
+        "posicao": 2,
+        "nome": "Bill Mason",
+        "academia": "Renzo Gracie"
       }
     ]
   },
   {
-    "category": "Master 4 / Blue / Male / Heavy",
+    "categoria": "Master 4 / Blue / Male / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Gary Baggett",
-        "academy": "Nova Uniao USA"
+        "posicao": 1,
+        "nome": "Gary Baggett",
+        "academia": "Nova Uniao USA"
       }
     ]
   },
   {
-    "category": "Master 4 / Blue / Male / Super Heavy",
+    "categoria": "Master 4 / Blue / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Steve Boyd",
-        "academy": "Rickon Gracie"
+        "posicao": 1,
+        "nome": "Steve Boyd",
+        "academia": "Rickon Gracie"
       },
       {
-        "place": "2",
-        "name": "Pat Hardy",
-        "academy": "Gracie J-J AC"
+        "posicao": 2,
+        "nome": "Pat Hardy",
+        "academia": "Gracie J-J AC"
       }
     ]
   },
   {
-    "category": "Master 4 / Blue / Male / Ultra Heavy",
+    "categoria": "Master 4 / Blue / Male / Ultra Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Brad Ford Rehor",
-        "academy": "Machado J-J"
+        "posicao": 1,
+        "nome": "Brad Ford Rehor",
+        "academia": "Machado J-J"
       },
       {
-        "place": "2",
-        "name": "Robert Crowtort",
-        "academy": "Nova Uniao USA"
+        "posicao": 2,
+        "nome": "Robert Crowtort",
+        "academia": "Nova Uniao USA"
       },
       {
-        "place": "3",
-        "name": "Paul Speillei",
-        "academy": "Boca Black Belt"
+        "posicao": 3,
+        "nome": "Paul Speillei",
+        "academia": "Boca Black Belt"
       }
     ]
   },
   {
-    "category": "Master 4 / Blue / Male / Open Class",
+    "categoria": "Master 4 / Blue / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Brad Ford Rehor",
-        "academy": "Machado"
+        "posicao": 1,
+        "nome": "Brad Ford Rehor",
+        "academia": "Machado"
       },
       {
-        "place": "2",
-        "name": "Rex Aperauch",
-        "academy": "Dragon Arts AC"
+        "posicao": 2,
+        "nome": "Rex Aperauch",
+        "academia": "Dragon Arts AC"
       },
       {
-        "place": "3",
-        "name": "Peter Lee",
-        "academy": "Marcio Simas/Paulo Castro"
+        "posicao": 3,
+        "nome": "Peter Lee",
+        "academia": "Marcio Simas/Paulo Castro"
       }
     ]
   },
   {
-    "category": "Adult / Blue / Female / Light",
+    "categoria": "Adult / Blue / Female / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Ghalaleh Parman",
-        "academy": "Joe Moreira"
+        "posicao": 1,
+        "nome": "Ghalaleh Parman",
+        "academia": "Joe Moreira"
       },
       {
-        "place": "2",
-        "name": "Anita Ayres",
-        "academy": "Otavio de Almeida"
+        "posicao": 2,
+        "nome": "Anita Ayres",
+        "academia": "Otavio de Almeida"
       },
       {
-        "place": "3",
-        "name": "D.C. Maxwell",
-        "academy": "Relson Gracie"
+        "posicao": 3,
+        "nome": "D.C. Maxwell",
+        "academia": "Relson Gracie"
       },
       {
-        "place": "3",
-        "name": "Barbara Kubilus",
-        "academy": "Gracie Miami"
+        "posicao": 3,
+        "nome": "Barbara Kubilus",
+        "academia": "Gracie Miami"
       }
     ]
   },
   {
-    "category": "Adult / Blue / Female / Middle",
+    "categoria": "Adult / Blue / Female / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Juliana Vieira",
-        "academy": "Gracie Barra GYM"
+        "posicao": 1,
+        "nome": "Juliana Vieira",
+        "academia": "Gracie Barra GYM"
       },
       {
-        "place": "2",
-        "name": "Janet Donahue",
-        "academy": "Vandri BJJ"
+        "posicao": 2,
+        "nome": "Janet Donahue",
+        "academia": "Vandri BJJ"
       },
       {
-        "place": "3",
-        "name": "Ann Laurino",
-        "academy": "Relson Gracie Philadelphia"
+        "posicao": 3,
+        "nome": "Ann Laurino",
+        "academia": "Relson Gracie Philadelphia"
       },
       {
-        "place": "3",
-        "name": "Carine Barbosa",
-        "academy": "Maromba J-J"
+        "posicao": 3,
+        "nome": "Carine Barbosa",
+        "academia": "Maromba J-J"
       }
     ]
   },
   {
-    "category": "Adult / Blue / Female / Heavy",
+    "categoria": "Adult / Blue / Female / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Mirella Cortes",
-        "academy": "Carlson A"
+        "posicao": 1,
+        "nome": "Mirella Cortes",
+        "academia": "Carlson A"
       },
       {
-        "place": "2",
-        "name": "Marcela Henriques",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Marcela Henriques",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Jessica Mat",
-        "academy": "Ralph Gracie"
+        "posicao": 3,
+        "nome": "Jessica Mat",
+        "academia": "Ralph Gracie"
       }
     ]
   },
   {
-    "category": "Adult / Purple Brown Black / Female / Light",
+    "categoria": "Adult / Purple Brown Black / Female / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Renata Ninomiya",
-        "academy": "Cia Paulista"
+        "posicao": 1,
+        "nome": "Renata Ninomiya",
+        "academia": "Cia Paulista"
       },
       {
-        "place": "2",
-        "name": "Carolina Goes",
-        "academy": "Yamazaki Team USA"
+        "posicao": 2,
+        "nome": "Carolina Goes",
+        "academia": "Yamazaki Team USA"
       },
       {
-        "place": "3",
-        "name": "Katia Silva",
-        "academy": "Joao Amaral Team"
+        "posicao": 3,
+        "nome": "Katia Silva",
+        "academia": "Joao Amaral Team"
       },
       {
-        "place": "3",
-        "name": "Ana Drumond",
-        "academy": "Conan Silveira"
+        "posicao": 3,
+        "nome": "Ana Drumond",
+        "academia": "Conan Silveira"
       }
     ]
   },
   {
-    "category": "Adult / Purple Brown Black / Female / Middle",
+    "categoria": "Adult / Purple Brown Black / Female / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Tatina Chaves",
-        "academy": "Alliance"
+        "posicao": 1,
+        "nome": "Tatina Chaves",
+        "academia": "Alliance"
       },
       {
-        "place": "2",
-        "name": "Luciana Tavares",
-        "academy": "Gracie Humaita / Relson"
+        "posicao": 2,
+        "nome": "Luciana Tavares",
+        "academia": "Gracie Humaita / Relson"
       },
       {
-        "place": "3",
-        "name": "Tania Rodrigues",
-        "academy": "Equilibrio"
+        "posicao": 3,
+        "nome": "Tania Rodrigues",
+        "academia": "Equilibrio"
       },
       {
-        "place": "3",
-        "name": "Tatiana Toguinini",
-        "academy": "Alliance"
+        "posicao": 3,
+        "nome": "Tatiana Toguinini",
+        "academia": "Alliance"
       }
     ]
   },
   {
-    "category": "Adult / Purple Brown Black / Female / Heavy",
+    "categoria": "Adult / Purple Brown Black / Female / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Mariana Coelho",
-        "academy": "Osvaldo Alves"
+        "posicao": 1,
+        "nome": "Mariana Coelho",
+        "academia": "Osvaldo Alves"
       },
       {
-        "place": "2",
-        "name": "Fatima Camargo",
-        "academy": "Otavio de Almeida"
+        "posicao": 2,
+        "nome": "Fatima Camargo",
+        "academia": "Otavio de Almeida"
       },
       {
-        "place": "3",
-        "name": "Anita Godinho",
-        "academy": "Ferocius Fist"
+        "posicao": 3,
+        "nome": "Anita Godinho",
+        "academia": "Ferocius Fist"
       }
     ]
   },
   {
-    "category": "Adult / Purple / Male / Rooster",
+    "categoria": "Adult / Purple / Male / Rooster",
     "ranking": [
       {
-        "place": "1",
-        "name": "Adriano Damiani",
-        "academy": "Tani Japan"
+        "posicao": 1,
+        "nome": "Adriano Damiani",
+        "academia": "Tani Japan"
       }
     ]
   },
   {
-    "category": "Adult / Purple / Male / Light Feather",
+    "categoria": "Adult / Purple / Male / Light Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Rockson Gracie",
-        "academy": "G.Humaita/Rickson/Royler"
+        "posicao": 1,
+        "nome": "Rockson Gracie",
+        "academia": "G.Humaita/Rickson/Royler"
       },
       {
-        "place": "2",
-        "name": "Evandro Figueiredo",
-        "academy": "Carlson A"
+        "posicao": 2,
+        "nome": "Evandro Figueiredo",
+        "academia": "Carlson A"
       },
       {
-        "place": "3",
-        "name": "Shi Chen JR",
-        "academy": "Equilibrio"
+        "posicao": 3,
+        "nome": "Shi Chen JR",
+        "academia": "Equilibrio"
       },
       {
-        "place": "3",
-        "name": "Rafael Rebello",
-        "academy": "Carlson A"
+        "posicao": 3,
+        "nome": "Rafael Rebello",
+        "academia": "Carlson A"
       }
     ]
   },
   {
-    "category": "Adult / Purple / Male / Feather",
+    "categoria": "Adult / Purple / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Joao Rangel",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Joao Rangel",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Fabricio Marlos",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Fabricio Marlos",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Bernardo Otero",
-        "academy": "Alliance"
+        "posicao": 3,
+        "nome": "Bernardo Otero",
+        "academia": "Alliance"
       },
       {
-        "place": "3",
-        "name": "Gustavo Falcioli",
-        "academy": "Maromba"
+        "posicao": 3,
+        "nome": "Gustavo Falcioli",
+        "academia": "Maromba"
       }
     ]
   },
   {
-    "category": "Adult / Purple / Male / Light",
+    "categoria": "Adult / Purple / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Daniel Correa",
-        "academy": "Gracie Humaita"
+        "posicao": 1,
+        "nome": "Daniel Correa",
+        "academia": "Gracie Humaita"
       },
       {
-        "place": "2",
-        "name": "Rafael Ramos",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Rafael Ramos",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Felipe Sirio",
-        "academy": "Uniao Goias"
+        "posicao": 3,
+        "nome": "Felipe Sirio",
+        "academia": "Uniao Goias"
       },
       {
-        "place": "3",
-        "name": "Mitsuyoshi Hauakawa",
-        "academy": "Seido Kaisan"
+        "posicao": 3,
+        "nome": "Mitsuyoshi Hauakawa",
+        "academia": "Seido Kaisan"
       }
     ]
   },
   {
-    "category": "Adult / Purple / Male / Middle",
+    "categoria": "Adult / Purple / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Marcelo Louzada",
-        "academy": "Godoi/Macaco"
+        "posicao": 1,
+        "nome": "Marcelo Louzada",
+        "academia": "Godoi/Macaco"
       },
       {
-        "place": "2",
-        "name": "Alexandre Maia",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Alexandre Maia",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Joao Felipe Silva",
-        "academy": "Gracie Barra"
+        "posicao": 3,
+        "nome": "Joao Felipe Silva",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Alexandre Costa",
-        "academy": "Joao Amaral Taem"
+        "posicao": 3,
+        "nome": "Alexandre Costa",
+        "academia": "Joao Amaral Taem"
       }
     ]
   },
   {
-    "category": "Adult / Purple / Male / Medium Heavy",
+    "categoria": "Adult / Purple / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Luiz Arruda",
-        "academy": "Yamasaki Team USA"
+        "posicao": 1,
+        "nome": "Luiz Arruda",
+        "academia": "Yamasaki Team USA"
       },
       {
-        "place": "2",
-        "name": "Marc Kompaynets",
-        "academy": "Bervely Hills J-J"
+        "posicao": 2,
+        "nome": "Marc Kompaynets",
+        "academia": "Bervely Hills J-J"
       },
       {
-        "place": "3",
-        "name": "Braulio Estima",
-        "academy": "Gracie Barra"
+        "posicao": 3,
+        "nome": "Braulio Estima",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Gustavo Gussem",
-        "academy": "Gracie Barra"
+        "posicao": 3,
+        "nome": "Gustavo Gussem",
+        "academia": "Gracie Barra"
       }
     ]
   },
   {
-    "category": "Adult / Purple / Male / Heavy",
+    "categoria": "Adult / Purple / Male / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Rodrigo Asmus",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Rodrigo Asmus",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Marcelo Azevedo",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Marcelo Azevedo",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Klay Piltman",
-        "academy": "Machado J-J"
+        "posicao": 3,
+        "nome": "Klay Piltman",
+        "academia": "Machado J-J"
       },
       {
-        "place": "3",
-        "name": "Trasis Lutter",
-        "academy": "Machado J-J"
+        "posicao": 3,
+        "nome": "Trasis Lutter",
+        "academia": "Machado J-J"
       }
     ]
   },
   {
-    "category": "Adult / Purple / Male / Super Heavy",
+    "categoria": "Adult / Purple / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Fabiano Capoani",
-        "academy": "Carlson A"
+        "posicao": 1,
+        "nome": "Fabiano Capoani",
+        "academia": "Carlson A"
       },
       {
-        "place": "2",
-        "name": "Antony Perosh",
-        "academy": "Machado J-J"
+        "posicao": 2,
+        "nome": "Antony Perosh",
+        "academia": "Machado J-J"
       },
       {
-        "place": "3",
-        "name": "Guilherme Gazzineli",
-        "academy": "Gracie Barra"
+        "posicao": 3,
+        "nome": "Guilherme Gazzineli",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Luis Claudio de Carvalho",
-        "academy": "UGF"
+        "posicao": 3,
+        "nome": "Luis Claudio de Carvalho",
+        "academia": "UGF"
       }
     ]
   },
   {
-    "category": "Adult / Purple / Male / Ultra Heavy",
+    "categoria": "Adult / Purple / Male / Ultra Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Roberto Agnese",
-        "academy": "Cia Paulista"
+        "posicao": 1,
+        "nome": "Roberto Agnese",
+        "academia": "Cia Paulista"
       },
       {
-        "place": "2",
-        "name": "Alexandre Machado",
-        "academy": "Luis Paulo J-J"
+        "posicao": 2,
+        "nome": "Alexandre Machado",
+        "academia": "Luis Paulo J-J"
       },
       {
-        "place": "3",
-        "name": "Todd Brodway",
-        "academy": "Marcio Simas /Paulo Castro"
+        "posicao": 3,
+        "nome": "Todd Brodway",
+        "academia": "Marcio Simas /Paulo Castro"
       },
       {
-        "place": "3",
-        "name": "Fabiano Capoani",
-        "academy": "Carlson A"
+        "posicao": 3,
+        "nome": "Fabiano Capoani",
+        "academia": "Carlson A"
       }
     ]
   },
   {
-    "category": "Master 1 / Purple / Male / Feather",
+    "categoria": "Master 1 / Purple / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Mike M",
-        "academy": "Yamazaki Team USA"
+        "posicao": 1,
+        "nome": "Mike M",
+        "academia": "Yamazaki Team USA"
       },
       {
-        "place": "2",
-        "name": "Greg Nelson",
-        "academy": "Minisota Thartial Arts"
+        "posicao": 2,
+        "nome": "Greg Nelson",
+        "academia": "Minisota Thartial Arts"
       },
       {
-        "place": "3",
-        "name": "Alexandre Nunes",
-        "academy": "Gracie Barra"
+        "posicao": 3,
+        "nome": "Alexandre Nunes",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "David Roberts",
-        "academy": "Carlson Jr."
+        "posicao": 3,
+        "nome": "David Roberts",
+        "academia": "Carlson Jr."
       }
     ]
   },
   {
-    "category": "Master 1 / Purple / Male / Light",
+    "categoria": "Master 1 / Purple / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Richard Guerreiro",
-        "academy": "Conan Silveira"
+        "posicao": 1,
+        "nome": "Richard Guerreiro",
+        "academia": "Conan Silveira"
       },
       {
-        "place": "2",
-        "name": "Francisco Araujo",
-        "academy": "Carlson Queiros"
+        "posicao": 2,
+        "nome": "Francisco Araujo",
+        "academia": "Carlson Queiros"
       },
       {
-        "place": "3",
-        "name": "Hank Vaughn",
-        "academy": "Marcio Simas /Paulo Castro"
+        "posicao": 3,
+        "nome": "Hank Vaughn",
+        "academia": "Marcio Simas /Paulo Castro"
       },
       {
-        "place": "3",
-        "name": "Andre Medeiros",
-        "academy": "Marcio Simas /Paulo Castro"
+        "posicao": 3,
+        "nome": "Andre Medeiros",
+        "academia": "Marcio Simas /Paulo Castro"
       }
     ]
   },
   {
-    "category": "Master 1 / Purple / Male / Middle",
+    "categoria": "Master 1 / Purple / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Claudio Miraglia",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Claudio Miraglia",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Derek Taaca",
-        "academy": "Marcio Simas/Paulo Castro"
+        "posicao": 2,
+        "nome": "Derek Taaca",
+        "academia": "Marcio Simas/Paulo Castro"
       },
       {
-        "place": "3",
-        "name": "Ulisses Moreira",
-        "academy": "Luis Paulo J-J"
+        "posicao": 3,
+        "nome": "Ulisses Moreira",
+        "academia": "Luis Paulo J-J"
       },
       {
-        "place": "3",
-        "name": "Paulo Henrique Soares",
-        "academy": "Godoi/Macaco"
+        "posicao": 3,
+        "nome": "Paulo Henrique Soares",
+        "academia": "Godoi/Macaco"
       }
     ]
   },
   {
-    "category": "Master 1 / Purple / Male / Medium Heavy",
+    "categoria": "Master 1 / Purple / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Francisco Souza Jr.",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Francisco Souza Jr.",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Marco Aurelio Ress",
-        "academy": "Cia Paulista"
+        "posicao": 2,
+        "nome": "Marco Aurelio Ress",
+        "academia": "Cia Paulista"
       },
       {
-        "place": "3",
-        "name": "Serry Aielo",
-        "academy": "Aveline J-J"
+        "posicao": 3,
+        "nome": "Serry Aielo",
+        "academia": "Aveline J-J"
       },
       {
-        "place": "3",
-        "name": "Stephan Bunecky",
-        "academy": "Marcio Simas/Paulo Castro"
+        "posicao": 3,
+        "nome": "Stephan Bunecky",
+        "academia": "Marcio Simas/Paulo Castro"
       }
     ]
   },
   {
-    "category": "Master 1 / Purple / Male / Heavy",
+    "categoria": "Master 1 / Purple / Male / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Fabio Sette",
-        "academy": "Godoi/Macaco"
+        "posicao": 1,
+        "nome": "Fabio Sette",
+        "academia": "Godoi/Macaco"
       },
       {
-        "place": "2",
-        "name": "Edward Benevile",
-        "academy": "Joe Moreira"
+        "posicao": 2,
+        "nome": "Edward Benevile",
+        "academia": "Joe Moreira"
       }
     ]
   },
   {
-    "category": "Master 1 / Purple / Male / Super Heavy",
+    "categoria": "Master 1 / Purple / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Joe Dirrona",
-        "academy": "Rickson Gracie"
+        "posicao": 1,
+        "nome": "Joe Dirrona",
+        "academia": "Rickson Gracie"
       },
       {
-        "place": "2",
-        "name": "Jett Neal",
-        "academy": "Carlson Jr."
+        "posicao": 2,
+        "nome": "Jett Neal",
+        "academia": "Carlson Jr."
       },
       {
-        "place": "3",
-        "name": "Joe Prinle",
-        "academy": "Relson Gracie"
+        "posicao": 3,
+        "nome": "Joe Prinle",
+        "academia": "Relson Gracie"
       },
       {
-        "place": "3",
-        "name": "Lee Murphy",
-        "academy": "Marcio Simas/Paulo Castro"
+        "posicao": 3,
+        "nome": "Lee Murphy",
+        "academia": "Marcio Simas/Paulo Castro"
       }
     ]
   },
   {
-    "category": "Master 1 / Purple / Male / Ultra Heavy",
+    "categoria": "Master 1 / Purple / Male / Ultra Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Fabiano dos Santos",
-        "academy": "Carlson Gracie"
+        "posicao": 1,
+        "nome": "Fabiano dos Santos",
+        "academia": "Carlson Gracie"
       },
       {
-        "place": "2",
-        "name": "Marcos Rangoni",
-        "academy": "Luis Paulo J-J"
+        "posicao": 2,
+        "nome": "Marcos Rangoni",
+        "academia": "Luis Paulo J-J"
       }
     ]
   },
   {
-    "category": "Master 1 / Purple / Male / Open Class",
+    "categoria": "Master 1 / Purple / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Fabio Sette",
-        "academy": "Godoi/Macaco"
+        "posicao": 1,
+        "nome": "Fabio Sette",
+        "academia": "Godoi/Macaco"
       },
       {
-        "place": "2",
-        "name": "Ed Beneville",
-        "academy": "Joe Moreira"
+        "posicao": 2,
+        "nome": "Ed Beneville",
+        "academia": "Joe Moreira"
       },
       {
-        "place": "3",
-        "name": "Paulo Henrique",
-        "academy": "Godoi/Macaco"
+        "posicao": 3,
+        "nome": "Paulo Henrique",
+        "academia": "Godoi/Macaco"
       },
       {
-        "place": "3",
-        "name": "Jamie Levine",
-        "academy": "Team Rival HPMA"
+        "posicao": 3,
+        "nome": "Jamie Levine",
+        "academia": "Team Rival HPMA"
       }
     ]
   },
   {
-    "category": "Master 2 / Purple / Male / Feather",
+    "categoria": "Master 2 / Purple / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Jose Olimpio",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Jose Olimpio",
+        "academia": "Gracie Barra"
       }
     ]
   },
   {
-    "category": "Master 2 / Purple / Male / Middle",
+    "categoria": "Master 2 / Purple / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Chris Blanks",
-        "academy": "Relson Gracie"
+        "posicao": 1,
+        "nome": "Chris Blanks",
+        "academia": "Relson Gracie"
       },
       {
-        "place": "2",
-        "name": "Laercio Franco",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Laercio Franco",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Pay Tray",
-        "academy": "Machado J-J"
+        "posicao": 3,
+        "nome": "Pay Tray",
+        "academia": "Machado J-J"
       },
       {
-        "place": "3",
-        "name": "Andre Luis",
-        "academy": "Paulo"
+        "posicao": 3,
+        "nome": "Andre Luis",
+        "academia": "Paulo"
       }
     ]
   },
   {
-    "category": "Master 2 / Purple / Male / Medium Heavy",
+    "categoria": "Master 2 / Purple / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Robert Ceciliano",
-        "academy": "Marcio Simas / Paulo Castro"
+        "posicao": 1,
+        "nome": "Robert Ceciliano",
+        "academia": "Marcio Simas / Paulo Castro"
       }
     ]
   },
   {
-    "category": "Master 2 / Purple / Male / Super Heavy",
+    "categoria": "Master 2 / Purple / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Jose Roberto da Silva",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Jose Roberto da Silva",
+        "academia": "Gracie Barra"
       }
     ]
   },
   {
-    "category": "Master 2 / Purple / Male / Ultra Heavy",
+    "categoria": "Master 2 / Purple / Male / Ultra Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Marcio Shaur",
-        "academy": "Mario Sucata"
+        "posicao": 1,
+        "nome": "Marcio Shaur",
+        "academia": "Mario Sucata"
       }
     ]
   },
   {
-    "category": "Master 2 / Purple / Male / Open Class",
+    "categoria": "Master 2 / Purple / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Jose Olimpio",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Jose Olimpio",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Marcio Shaur",
-        "academy": "Mario Sucata"
+        "posicao": 2,
+        "nome": "Marcio Shaur",
+        "academia": "Mario Sucata"
       }
     ]
   },
   {
-    "category": "Master 4 / Purple / Male / Medium Heavy",
+    "categoria": "Master 4 / Purple / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Gaetano Ganozzi",
-        "academy": "Cia Paulista"
+        "posicao": 1,
+        "nome": "Gaetano Ganozzi",
+        "academia": "Cia Paulista"
       }
     ]
   },
   {
-    "category": "Master 4 / Purple / Male / Super Heavy",
+    "categoria": "Master 4 / Purple / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Ciro Antao",
-        "academy": "Andrade J-J"
+        "posicao": 1,
+        "nome": "Ciro Antao",
+        "academia": "Andrade J-J"
       }
     ]
   },
   {
-    "category": "Master 4 / Purple / Male / Open Class",
+    "categoria": "Master 4 / Purple / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Gaetano Ganozzi",
-        "academy": "Cia Paulista"
+        "posicao": 1,
+        "nome": "Gaetano Ganozzi",
+        "academia": "Cia Paulista"
       }
     ]
   },
   {
-    "category": "Adult / Brown / Male / Rooster",
+    "categoria": "Adult / Brown / Male / Rooster",
     "ranking": [
       {
-        "place": "1",
-        "name": "Takeo Tani",
-        "academy": "Tani Japan"
+        "posicao": 1,
+        "nome": "Takeo Tani",
+        "academia": "Tani Japan"
       }
     ]
   },
   {
-    "category": "Adult / Brown / Male / Light Feather",
+    "categoria": "Adult / Brown / Male / Light Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Jorge Coelho",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Jorge Coelho",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Carlos Lemos",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Carlos Lemos",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Daniel Cruz",
-        "academy": "Liberi / Gracie Barra"
+        "posicao": 3,
+        "nome": "Daniel Cruz",
+        "academia": "Liberi / Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Rodolfo Teixeira",
-        "academy": "Godoi/ Macaco"
+        "posicao": 3,
+        "nome": "Rodolfo Teixeira",
+        "academia": "Godoi/ Macaco"
       }
     ]
   },
   {
-    "category": "Adult / Brown / Male / Feather",
+    "categoria": "Adult / Brown / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Claudenei Menegueti",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Claudenei Menegueti",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Ruben Patrick",
-        "academy": "Equilibrio"
+        "posicao": 2,
+        "nome": "Ruben Patrick",
+        "academia": "Equilibrio"
       },
       {
-        "place": "3",
-        "name": "Napoleao Garua",
-        "academy": "Ataide Júnior"
+        "posicao": 3,
+        "nome": "Napoleao Garua",
+        "academia": "Ataide Júnior"
       },
       {
-        "place": "3",
-        "name": "Jose Henrique",
-        "academy": "Ataque Duplo"
+        "posicao": 3,
+        "nome": "Jose Henrique",
+        "academia": "Ataque Duplo"
       }
     ]
   },
   {
-    "category": "Adult / Brown / Male / Light",
+    "categoria": "Adult / Brown / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Eduardo Cadena",
-        "academy": "Infight"
+        "posicao": 1,
+        "nome": "Eduardo Cadena",
+        "academia": "Infight"
       },
       {
-        "place": "2",
-        "name": "----------",
-        "academy": "--------"
+        "posicao": 2,
+        "nome": "----------",
+        "academia": "--------"
       },
       {
-        "place": "3",
-        "name": "----------",
-        "academy": "--------"
+        "posicao": 3,
+        "nome": "----------",
+        "academia": "--------"
       },
       {
-        "place": "3",
-        "name": "Pedro Viana",
-        "academy": "Carlson"
+        "posicao": 3,
+        "nome": "Pedro Viana",
+        "academia": "Carlson"
       }
     ]
   },
   {
-    "category": "Adult / Brown / Male / Middle",
+    "categoria": "Adult / Brown / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Eduardo Santoro",
-        "academy": "Cia Paulista"
+        "posicao": 1,
+        "nome": "Eduardo Santoro",
+        "academia": "Cia Paulista"
       },
       {
-        "place": "2",
-        "name": "Albert Crane",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Albert Crane",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Eduardo Baiao",
-        "academy": "Luiz Paulo J-J"
+        "posicao": 3,
+        "nome": "Eduardo Baiao",
+        "academia": "Luiz Paulo J-J"
       },
       {
-        "place": "3",
-        "name": "Roan Carneiro",
-        "academy": "Fight Club Miami"
+        "posicao": 3,
+        "nome": "Roan Carneiro",
+        "academia": "Fight Club Miami"
       }
     ]
   },
   {
-    "category": "Adult / Brown / Male / Medium Heavy",
+    "categoria": "Adult / Brown / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Gabriel Vella",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Gabriel Vella",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Vinicius Antunes",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Vinicius Antunes",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Marco Antonio Ferreira",
-        "academy": "Carlson"
+        "posicao": 3,
+        "nome": "Marco Antonio Ferreira",
+        "academia": "Carlson"
       },
       {
-        "place": "3",
-        "name": "Paulo Sergio",
-        "academy": "Joe Moreira"
+        "posicao": 3,
+        "nome": "Paulo Sergio",
+        "academia": "Joe Moreira"
       }
     ]
   },
   {
-    "category": "Adult / Brown / Male / Heavy",
+    "categoria": "Adult / Brown / Male / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Fabio Leopoldo",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Fabio Leopoldo",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Erick Wanderley",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Erick Wanderley",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Dustin Denes",
-        "academy": "Conan Silveira"
+        "posicao": 3,
+        "nome": "Dustin Denes",
+        "academia": "Conan Silveira"
       },
       {
-        "place": "3",
-        "name": "Marc Laimon",
-        "academy": "Nova Uniao USA"
+        "posicao": 3,
+        "nome": "Marc Laimon",
+        "academia": "Nova Uniao USA"
       }
     ]
   },
   {
-    "category": "Adult / Brown / Male / Super Heavy",
+    "categoria": "Adult / Brown / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Rolles Gracie Filho",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Rolles Gracie Filho",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Cristiano Lazarine",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Cristiano Lazarine",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Ricardio Arrivabene",
-        "academy": "Godoi/ Macaco"
+        "posicao": 3,
+        "nome": "Ricardio Arrivabene",
+        "academia": "Godoi/ Macaco"
       },
       {
-        "place": "3",
-        "name": "Paul Pierre",
-        "academy": "Nova Uniao"
+        "posicao": 3,
+        "nome": "Paul Pierre",
+        "academia": "Nova Uniao"
       }
     ]
   },
   {
-    "category": "Adult / Brown / Male / Ultra Heavy",
+    "categoria": "Adult / Brown / Male / Ultra Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Carlos Santos",
-        "academy": "Carlson"
+        "posicao": 1,
+        "nome": "Carlos Santos",
+        "academia": "Carlson"
       },
       {
-        "place": "2",
-        "name": "Marcelo Santos",
-        "academy": "AOA"
+        "posicao": 2,
+        "nome": "Marcelo Santos",
+        "academia": "AOA"
       }
     ]
   },
   {
-    "category": "Adult / Brown / Male / Open Class",
+    "categoria": "Adult / Brown / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Erick Wanderly",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Erick Wanderly",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Fabio Leopoldo",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Fabio Leopoldo",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Ricardo Arrivabene",
-        "academy": "Godoi/Macaco"
+        "posicao": 3,
+        "nome": "Ricardo Arrivabene",
+        "academia": "Godoi/Macaco"
       },
       {
-        "place": "3",
-        "name": "Eduardo Cadena",
-        "academy": "Infight"
+        "posicao": 3,
+        "nome": "Eduardo Cadena",
+        "academia": "Infight"
       }
     ]
   },
   {
-    "category": "Master 1 / Brown / Male / Feather",
+    "categoria": "Master 1 / Brown / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Amauri Vicente",
-        "academy": "Carlson A"
+        "posicao": 1,
+        "nome": "Amauri Vicente",
+        "academia": "Carlson A"
       }
     ]
   },
   {
-    "category": "Master 1 / Brown / Male / Middle",
+    "categoria": "Master 1 / Brown / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Mauricio Mandes",
-        "academy": "Godoi/Macaco"
+        "posicao": 1,
+        "nome": "Mauricio Mandes",
+        "academia": "Godoi/Macaco"
       }
     ]
   },
   {
-    "category": "Master 1 / Brown / Male / Medium Heavy",
+    "categoria": "Master 1 / Brown / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Eliezer Dutra",
-        "academy": "The Brites Family"
+        "posicao": 1,
+        "nome": "Eliezer Dutra",
+        "academia": "The Brites Family"
       }
     ]
   },
   {
-    "category": "Master 1 / Brown / Male / Heavy",
+    "categoria": "Master 1 / Brown / Male / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Luciano Bandeira",
-        "academy": "Cia Paulista"
+        "posicao": 1,
+        "nome": "Luciano Bandeira",
+        "academia": "Cia Paulista"
       },
       {
-        "place": "2",
-        "name": "Enris Smith",
-        "academy": "Charles Garcie"
+        "posicao": 2,
+        "nome": "Enris Smith",
+        "academia": "Charles Garcie"
       }
     ]
   },
   {
-    "category": "Master 1 / Brown / Male / Ultra Heavy",
+    "categoria": "Master 1 / Brown / Male / Ultra Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Marcos Shefer",
-        "academy": "Godoi/Macaco"
+        "posicao": 1,
+        "nome": "Marcos Shefer",
+        "academia": "Godoi/Macaco"
       },
       {
-        "place": "2",
-        "name": "Miguel Repanas",
-        "academy": "Otavio de Almeida"
+        "posicao": 2,
+        "nome": "Miguel Repanas",
+        "academia": "Otavio de Almeida"
       }
     ]
   },
   {
-    "category": "Master 1 / Brown / Male / Open Class",
+    "categoria": "Master 1 / Brown / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Marcos Shefer",
-        "academy": "Godoi / Macaco"
+        "posicao": 1,
+        "nome": "Marcos Shefer",
+        "academia": "Godoi / Macaco"
       },
       {
-        "place": "2",
-        "name": "Eliezer Dutra",
-        "academy": "The Brites Family"
+        "posicao": 2,
+        "nome": "Eliezer Dutra",
+        "academia": "The Brites Family"
       },
       {
-        "place": "3",
-        "name": "Amaury Vicente",
-        "academy": "Carlson Gracie"
+        "posicao": 3,
+        "nome": "Amaury Vicente",
+        "academia": "Carlson Gracie"
       },
       {
-        "place": "3",
-        "name": "Mauricio Mendes",
-        "academy": "Cia Paulista"
+        "posicao": 3,
+        "nome": "Mauricio Mendes",
+        "academia": "Cia Paulista"
       }
     ]
   },
   {
-    "category": "Master 2 / Brown / Male / Middle",
+    "categoria": "Master 2 / Brown / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Arcelio Moreira",
-        "academy": "Luis Paulo J-J"
+        "posicao": 1,
+        "nome": "Arcelio Moreira",
+        "academia": "Luis Paulo J-J"
       }
     ]
   },
   {
-    "category": "Master 2 / Brown / Male / Open Class",
+    "categoria": "Master 2 / Brown / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Arcelio Moreira",
-        "academy": "Luis Paulo J-J"
+        "posicao": 1,
+        "nome": "Arcelio Moreira",
+        "academia": "Luis Paulo J-J"
       }
     ]
   },
   {
-    "category": "Master 4 / Brown / Male / Feather",
+    "categoria": "Master 4 / Brown / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Jose Nacino",
-        "academy": "Andrade J-J"
+        "posicao": 1,
+        "nome": "Jose Nacino",
+        "academia": "Andrade J-J"
       }
     ]
   },
   {
-    "category": "Master 4 / Brown / Male / Light",
+    "categoria": "Master 4 / Brown / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Venancio",
-        "academy": "Detonando"
+        "posicao": 1,
+        "nome": "Venancio",
+        "academia": "Detonando"
       }
     ]
   },
   {
-    "category": "Master 4 / Brown / Male / Middle",
+    "categoria": "Master 4 / Brown / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Stephen Maxwell",
-        "academy": "Relson Gracie"
+        "posicao": 1,
+        "nome": "Stephen Maxwell",
+        "academia": "Relson Gracie"
       }
     ]
   },
   {
-    "category": "Master 4 / Brown / Male / Open Class",
+    "categoria": "Master 4 / Brown / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Stephen Maxwell",
-        "academy": "Relson Gracie"
+        "posicao": 1,
+        "nome": "Stephen Maxwell",
+        "academia": "Relson Gracie"
       },
       {
-        "place": "2",
-        "name": "Venancio",
-        "academy": "Detonando"
+        "posicao": 2,
+        "nome": "Venancio",
+        "academia": "Detonando"
       },
       {
-        "place": "3",
-        "name": "Jose Nacino",
-        "academy": "Andrade J-J"
+        "posicao": 3,
+        "nome": "Jose Nacino",
+        "academia": "Andrade J-J"
       }
     ]
   },
   {
-    "category": "Adult / Black / Male / Rooster",
+    "categoria": "Adult / Black / Male / Rooster",
     "ranking": [
       {
-        "place": "1",
-        "name": "Ralph Pires",
-        "academy": "Wall Street"
+        "posicao": 1,
+        "nome": "Ralph Pires",
+        "academia": "Wall Street"
       }
     ]
   },
   {
-    "category": "Adult / Black / Male / Light Feather",
+    "categoria": "Adult / Black / Male / Light Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Wellington Dias",
-        "academy": "G. Humaita/ Rickson/Royler"
+        "posicao": 1,
+        "nome": "Wellington Dias",
+        "academia": "G. Humaita/ Rickson/Royler"
       }
     ]
   },
   {
-    "category": "Adult / Black / Male / Feather",
+    "categoria": "Adult / Black / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Alexandre Carneiro",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Alexandre Carneiro",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Edson Diniz",
-        "academy": "Infight"
+        "posicao": 2,
+        "nome": "Edson Diniz",
+        "academia": "Infight"
       },
       {
-        "place": "3",
-        "name": "Vinicius Magalhaes",
-        "academy": "Gracie Barra"
+        "posicao": 3,
+        "nome": "Vinicius Magalhaes",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Fernando Lopes",
-        "academy": "Godoi / Macaco"
+        "posicao": 3,
+        "nome": "Fernando Lopes",
+        "academia": "Godoi / Macaco"
       }
     ]
   },
   {
-    "category": "Adult / Black / Male / Light",
+    "categoria": "Adult / Black / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Leonardo Santos",
-        "academy": "Nova Uniao"
+        "posicao": 1,
+        "nome": "Leonardo Santos",
+        "academia": "Nova Uniao"
       },
       {
-        "place": "2",
-        "name": "Roberto Atalla",
-        "academy": "Carlson A"
+        "posicao": 2,
+        "nome": "Roberto Atalla",
+        "academia": "Carlson A"
       },
       {
-        "place": "3",
-        "name": "Takao Tani",
-        "academy": "Tani Japan"
+        "posicao": 3,
+        "nome": "Takao Tani",
+        "academia": "Tani Japan"
       },
       {
-        "place": "3",
-        "name": "Cleber Luciano",
-        "academy": "Godoi/Macaco"
+        "posicao": 3,
+        "nome": "Cleber Luciano",
+        "academia": "Godoi/Macaco"
       }
     ]
   },
   {
-    "category": "Adult / Black / Male / Middle",
+    "categoria": "Adult / Black / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Marco Aurelio de Carvalho",
-        "academy": "Carlson A"
+        "posicao": 1,
+        "nome": "Marco Aurelio de Carvalho",
+        "academia": "Carlson A"
       },
       {
-        "place": "2",
-        "name": "Bruno Severiano",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Bruno Severiano",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Luis Eduardo Fraga",
-        "academy": "Alliance"
+        "posicao": 3,
+        "nome": "Luis Eduardo Fraga",
+        "academia": "Alliance"
       },
       {
-        "place": "3",
-        "name": "Muzio de Angelis",
-        "academy": "Alliance"
+        "posicao": 3,
+        "nome": "Muzio de Angelis",
+        "academia": "Alliance"
       }
     ]
   },
   {
-    "category": "Adult / Black / Male / Medium Heavy",
+    "categoria": "Adult / Black / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Fernando Pontes",
-        "academy": "Godoi/Macaco"
+        "posicao": 1,
+        "nome": "Fernando Pontes",
+        "academia": "Godoi/Macaco"
       },
       {
-        "place": "2",
-        "name": "Rafael Correa",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Rafael Correa",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Cassio Werneck",
-        "academy": "Fit 21"
+        "posicao": 3,
+        "nome": "Cassio Werneck",
+        "academia": "Fit 21"
       },
       {
-        "place": "3",
-        "name": "Rodrigo de Bonni",
-        "academy": "Gracie Barra"
+        "posicao": 3,
+        "nome": "Rodrigo de Bonni",
+        "academia": "Gracie Barra"
       }
     ]
   },
   {
-    "category": "Adult / Black / Male / Heavy",
+    "categoria": "Adult / Black / Male / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Roberto Godoi",
-        "academy": "Godoi/Macaco"
+        "posicao": 1,
+        "nome": "Roberto Godoi",
+        "academia": "Godoi/Macaco"
       },
       {
-        "place": "2",
-        "name": "Jorge Patino",
-        "academy": "Godoi/Macaco"
+        "posicao": 2,
+        "nome": "Jorge Patino",
+        "academia": "Godoi/Macaco"
       },
       {
-        "place": "3",
-        "name": "Nilson Liboni",
-        "academy": "Gracie Humaita"
+        "posicao": 3,
+        "nome": "Nilson Liboni",
+        "academia": "Gracie Humaita"
       },
       {
-        "place": "3",
-        "name": "Marcelo Grosso",
-        "academy": "De La Riva"
+        "posicao": 3,
+        "nome": "Marcelo Grosso",
+        "academia": "De La Riva"
       }
     ]
   },
   {
-    "category": "Adult / Black / Male / Super Heavy",
+    "categoria": "Adult / Black / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Roberto Tozi",
-        "academy": "Godoi/Macaco"
+        "posicao": 1,
+        "nome": "Roberto Tozi",
+        "academia": "Godoi/Macaco"
       },
       {
-        "place": "2",
-        "name": "Roberto Ferreira",
-        "academy": "Wall Street"
+        "posicao": 2,
+        "nome": "Roberto Ferreira",
+        "academia": "Wall Street"
       },
       {
-        "place": "3",
-        "name": "Vito Doria",
-        "academy": "Carlson A"
+        "posicao": 3,
+        "nome": "Vito Doria",
+        "academia": "Carlson A"
       }
     ]
   },
   {
-    "category": "Adult / Black / Male / Ultra Heavy",
+    "categoria": "Adult / Black / Male / Ultra Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Otavio Duarte",
-        "academy": "Jorge Pereira"
+        "posicao": 1,
+        "nome": "Otavio Duarte",
+        "academia": "Jorge Pereira"
       },
       {
-        "place": "2",
-        "name": "Andre Almeida",
-        "academy": "Carlson A"
+        "posicao": 2,
+        "nome": "Andre Almeida",
+        "academia": "Carlson A"
       },
       {
-        "place": "3",
-        "name": "Marco Corleta",
-        "academy": "Barreto/Behing"
+        "posicao": 3,
+        "nome": "Marco Corleta",
+        "academia": "Barreto/Behing"
       }
     ]
   },
   {
-    "category": "Adult / Black / Male / Open Class",
+    "categoria": "Adult / Black / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Fernando Pontes",
-        "academy": "Godoi/Macaco"
+        "posicao": 1,
+        "nome": "Fernando Pontes",
+        "academia": "Godoi/Macaco"
       },
       {
-        "place": "2",
-        "name": "Vitor Doria",
-        "academy": "Carlson A"
+        "posicao": 2,
+        "nome": "Vitor Doria",
+        "academia": "Carlson A"
       },
       {
-        "place": "3",
-        "name": "Cassio Werneck",
-        "academy": "Fit 21"
+        "posicao": 3,
+        "nome": "Cassio Werneck",
+        "academia": "Fit 21"
       },
       {
-        "place": "3",
-        "name": "Edson Diniz",
-        "academy": "Infight"
+        "posicao": 3,
+        "nome": "Edson Diniz",
+        "academia": "Infight"
       }
     ]
   },
   {
-    "category": "Master 1 / Black / Male / Light Feather",
+    "categoria": "Master 1 / Black / Male / Light Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Armando Conde",
-        "academy": "Equilibrio"
+        "posicao": 1,
+        "nome": "Armando Conde",
+        "academia": "Equilibrio"
       },
       {
-        "place": "2",
-        "name": "Gerson Sanguinito",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Gerson Sanguinito",
+        "academia": "Gracie Barra"
       }
     ]
   },
   {
-    "category": "Master 1 / Black / Male / Feather",
+    "categoria": "Master 1 / Black / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Eduardo Leitao",
-        "academy": "Cia Paulista"
+        "posicao": 1,
+        "nome": "Eduardo Leitao",
+        "academia": "Cia Paulista"
       },
       {
-        "place": "2",
-        "name": "Ernesto Bueno",
-        "academy": "Cia Paulista"
+        "posicao": 2,
+        "nome": "Ernesto Bueno",
+        "academia": "Cia Paulista"
       },
       {
-        "place": "3",
-        "name": "Andre Marques",
-        "academy": "Manimal Brothers"
+        "posicao": 3,
+        "nome": "Andre Marques",
+        "academia": "Manimal Brothers"
       }
     ]
   },
   {
-    "category": "Master 1 / Black / Male / Light",
+    "categoria": "Master 1 / Black / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Carlos Liberi",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Carlos Liberi",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Moises Muradi",
-        "academy": "Equilibrio"
+        "posicao": 2,
+        "nome": "Moises Muradi",
+        "academia": "Equilibrio"
       }
     ]
   },
   {
-    "category": "Master 1 / Black / Male / Middle",
+    "categoria": "Master 1 / Black / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Rogerio Miranda",
-        "academy": "Carlson A"
+        "posicao": 1,
+        "nome": "Rogerio Miranda",
+        "academia": "Carlson A"
       },
       {
-        "place": "2",
-        "name": "Marco Nascimento",
-        "academy": "Joe Moreira USA"
+        "posicao": 2,
+        "nome": "Marco Nascimento",
+        "academia": "Joe Moreira USA"
       },
       {
-        "place": "3",
-        "name": "Valecio Senna",
-        "academy": "Paulo Caruso"
+        "posicao": 3,
+        "nome": "Valecio Senna",
+        "academia": "Paulo Caruso"
       },
       {
-        "place": "3",
-        "name": "Carlos Augusto",
-        "academy": "Gracie Humaita"
+        "posicao": 3,
+        "nome": "Carlos Augusto",
+        "academia": "Gracie Humaita"
       }
     ]
   },
   {
-    "category": "Master 1 / Black / Male / Medium Heavy",
+    "categoria": "Master 1 / Black / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Eduardo Rocha",
-        "academy": "Gracie Humaita"
+        "posicao": 1,
+        "nome": "Eduardo Rocha",
+        "academia": "Gracie Humaita"
       },
       {
-        "place": "2",
-        "name": "Alex Ricardo",
-        "academy": "UGF"
+        "posicao": 2,
+        "nome": "Alex Ricardo",
+        "academia": "UGF"
       },
       {
-        "place": "3",
-        "name": "Waldomiro Perez",
-        "academy": "Cia Paulista"
+        "posicao": 3,
+        "nome": "Waldomiro Perez",
+        "academia": "Cia Paulista"
       },
       {
-        "place": "3",
-        "name": "Rick Kowarick",
-        "academy": "Cia Paulista"
+        "posicao": 3,
+        "nome": "Rick Kowarick",
+        "academia": "Cia Paulista"
       }
     ]
   },
   {
-    "category": "Master 1 / Black / Male / Heavy",
+    "categoria": "Master 1 / Black / Male / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Renato Magno",
-        "academy": "Gracie Barra"
+        "posicao": 1,
+        "nome": "Renato Magno",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "2",
-        "name": "Jose Luis Tog",
-        "academy": "Anaconda J-J"
+        "posicao": 2,
+        "nome": "Jose Luis Tog",
+        "academia": "Anaconda J-J"
       }
     ]
   },
   {
-    "category": "Master 1 / Black / Male / Super Heavy",
+    "categoria": "Master 1 / Black / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Ronald Bauer",
-        "academy": "Bauer Sport Center"
+        "posicao": 1,
+        "nome": "Ronald Bauer",
+        "academia": "Bauer Sport Center"
       }
     ]
   },
   {
-    "category": "Master 1 / Black / Male / Open Class",
+    "categoria": "Master 1 / Black / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Eduardo Rocha",
-        "academy": "Gracie Humaita"
+        "posicao": 1,
+        "nome": "Eduardo Rocha",
+        "academia": "Gracie Humaita"
       },
       {
-        "place": "2",
-        "name": "Renato Magno",
-        "academy": "Gracie Barra"
+        "posicao": 2,
+        "nome": "Renato Magno",
+        "academia": "Gracie Barra"
       },
       {
-        "place": "3",
-        "name": "Rogerio Miranda",
-        "academy": "Carlson A"
+        "posicao": 3,
+        "nome": "Rogerio Miranda",
+        "academia": "Carlson A"
       },
       {
-        "place": "3",
-        "name": "Alex Ricardo",
-        "academy": "UGF"
+        "posicao": 3,
+        "nome": "Alex Ricardo",
+        "academia": "UGF"
       }
     ]
   },
   {
-    "category": "Master 2 / Black / Male / Light",
+    "categoria": "Master 2 / Black / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Henry Queiroz",
-        "academy": "Luis Paulo J-J"
+        "posicao": 1,
+        "nome": "Henry Queiroz",
+        "academia": "Luis Paulo J-J"
       },
       {
-        "place": "2",
-        "name": "Antonio Marcos Ruivo",
-        "academy": "Spot Tatame J-J"
+        "posicao": 2,
+        "nome": "Antonio Marcos Ruivo",
+        "academia": "Spot Tatame J-J"
       }
     ]
   },
   {
-    "category": "Master 2 / Black / Male / Middle",
+    "categoria": "Master 2 / Black / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Leonardo Specterow",
-        "academy": "Carlson Gracie J-J"
+        "posicao": 1,
+        "nome": "Leonardo Specterow",
+        "academia": "Carlson Gracie J-J"
       },
       {
-        "place": "2",
-        "name": "Roberto Maia",
-        "academy": "Boston Brazilian J-J"
+        "posicao": 2,
+        "nome": "Roberto Maia",
+        "academia": "Boston Brazilian J-J"
       }
     ]
   },
   {
-    "category": "Master 2 / Black / Male / Medium Heavy",
+    "categoria": "Master 2 / Black / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Luis Paulo Oliveira",
-        "academy": "Luis Paulo J-J"
+        "posicao": 1,
+        "nome": "Luis Paulo Oliveira",
+        "academia": "Luis Paulo J-J"
       },
       {
-        "place": "2",
-        "name": "Joao Andrade Batista",
-        "academy": "Andrade J-J"
+        "posicao": 2,
+        "nome": "Joao Andrade Batista",
+        "academia": "Andrade J-J"
       }
     ]
   },
   {
-    "category": "Master 2 / Black / Male / Super Heavy",
+    "categoria": "Master 2 / Black / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Guilherme Dornelles",
-        "academy": "Guilherme Dornelles"
+        "posicao": 1,
+        "nome": "Guilherme Dornelles",
+        "academia": "Guilherme Dornelles"
       }
     ]
   },
   {
-    "category": "Master 2 / Black / Male / Open Class",
+    "categoria": "Master 2 / Black / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Guilherme Dornelles",
-        "academy": "Guilherme Dornelles"
+        "posicao": 1,
+        "nome": "Guilherme Dornelles",
+        "academia": "Guilherme Dornelles"
       },
       {
-        "place": "2",
-        "name": "Leonardo Specterow",
-        "academy": "Carlson Gracie"
+        "posicao": 2,
+        "nome": "Leonardo Specterow",
+        "academia": "Carlson Gracie"
       },
       {
-        "place": "3",
-        "name": "Henry Quieroz",
-        "academy": "Luis Paulo J-J"
+        "posicao": 3,
+        "nome": "Henry Quieroz",
+        "academia": "Luis Paulo J-J"
       }
     ]
   },
   {
-    "category": "Master 3 / Black / Male / Feather",
+    "categoria": "Master 3 / Black / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Cosme Pinto Pierrot",
-        "academy": "Breda / Monir"
+        "posicao": 1,
+        "nome": "Cosme Pinto Pierrot",
+        "academia": "Breda / Monir"
       }
     ]
   },
   {
-    "category": "Master 3 / Black / Male / Middle",
+    "categoria": "Master 3 / Black / Male / Middle",
     "ranking": [
       {
-        "place": "1",
-        "name": "Savio Lellis",
-        "academy": "Bauer J-J"
+        "posicao": 1,
+        "nome": "Savio Lellis",
+        "academia": "Bauer J-J"
       },
       {
-        "place": "2",
-        "name": "Igor Andrade",
-        "academy": "De La Riva"
+        "posicao": 2,
+        "nome": "Igor Andrade",
+        "academia": "De La Riva"
       }
     ]
   },
   {
-    "category": "Master 3 / Black / Male / Medium Heavy",
+    "categoria": "Master 3 / Black / Male / Medium Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Carlos Godinho",
-        "academy": "Ferocius Fist Nikatso Ryu"
+        "posicao": 1,
+        "nome": "Carlos Godinho",
+        "academia": "Ferocius Fist Nikatso Ryu"
       }
     ]
   },
   {
-    "category": "Master 3 / Black / Male / Heavy",
+    "categoria": "Master 3 / Black / Male / Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Joao Alberto Lage",
-        "academy": "Araido"
+        "posicao": 1,
+        "nome": "Joao Alberto Lage",
+        "academia": "Araido"
       }
     ]
   },
   {
-    "category": "Master 3 / Black / Male / Super Heavy",
+    "categoria": "Master 3 / Black / Male / Super Heavy",
     "ranking": [
       {
-        "place": "1",
-        "name": "Luiz Palhares",
-        "academy": "Rickson Gracie"
+        "posicao": 1,
+        "nome": "Luiz Palhares",
+        "academia": "Rickson Gracie"
       }
     ]
   },
   {
-    "category": "Master 3 / Black / Male / Open Class",
+    "categoria": "Master 3 / Black / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Luiz Palhares",
-        "academy": "Rickson Gracie"
+        "posicao": 1,
+        "nome": "Luiz Palhares",
+        "academia": "Rickson Gracie"
       },
       {
-        "place": "2",
-        "name": "Cosme Pierrot",
-        "academy": "Breda / Monir"
+        "posicao": 2,
+        "nome": "Cosme Pierrot",
+        "academia": "Breda / Monir"
       },
       {
-        "place": "3",
-        "name": "Carlos Godinho",
-        "academy": "Ferocius Fist Nikatso Ryu"
+        "posicao": 3,
+        "nome": "Carlos Godinho",
+        "academia": "Ferocius Fist Nikatso Ryu"
       }
     ]
   },
   {
-    "category": "Master 4 / Black / Male / Feather",
+    "categoria": "Master 4 / Black / Male / Feather",
     "ranking": [
       {
-        "place": "1",
-        "name": "Joao Americo",
-        "academy": "Alliance"
+        "posicao": 1,
+        "nome": "Joao Americo",
+        "academia": "Alliance"
       }
     ]
   },
   {
-    "category": "Master 4 / Black / Male / Light",
+    "categoria": "Master 4 / Black / Male / Light",
     "ranking": [
       {
-        "place": "1",
-        "name": "Jorge Medeiros",
-        "academy": "Otavio de Almeida"
+        "posicao": 1,
+        "nome": "Jorge Medeiros",
+        "academia": "Otavio de Almeida"
       }
     ]
   },
   {
-    "category": "Master 4 / Black / Male / Open Class",
+    "categoria": "Master 4 / Black / Male / Open Class",
     "ranking": [
       {
-        "place": "1",
-        "name": "Otavio de Almeida",
-        "academy": "Otavio de Almeida"
+        "posicao": 1,
+        "nome": "Otavio de Almeida",
+        "academia": "Otavio de Almeida"
       },
       {
-        "place": "2",
-        "name": "Jorge Medeiros",
-        "academy": "Otavio de Almeida"
+        "posicao": 2,
+        "nome": "Jorge Medeiros",
+        "academia": "Otavio de Almeida"
       },
       {
-        "place": "3",
-        "name": "Joao Americo",
-        "academy": "Alliance"
+        "posicao": 3,
+        "nome": "Joao Americo",
+        "academia": "Alliance"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Adult Male": [
+        {
+          "posicao": 1,
+          "academia": "Gracie Barra",
+          "pontos": 0
+        },
+        {
+          "posicao": 2,
+          "academia": "Godoi/Macaco",
+          "pontos": 0
+        },
+        {
+          "posicao": 3,
+          "academia": "Carlson A",
+          "pontos": 0
+        }
+      ],
+      "Adult Female": [
+        {
+          "posicao": 1,
+          "academia": "Gracie Barra",
+          "pontos": 0
+        },
+        {
+          "posicao": 2,
+          "academia": "Alliance",
+          "pontos": 0
+        },
+        {
+          "posicao": 3,
+          "academia": "Osvaldo Alves",
+          "pontos": 0
+        }
+      ],
+      "Masters": [
+        {
+          "posicao": 1,
+          "academia": "Gracie Barra",
+          "pontos": 0
+        },
+        {
+          "posicao": 2,
+          "academia": "Godoi/Macaco",
+          "pontos": 0
+        },
+        {
+          "posicao": 3,
+          "academia": "Relson Gracie",
+          "pontos": 0
+        }
+      ],
+      "Juvenile": [
+        {
+          "posicao": 1,
+          "academia": "Nova Uniao",
+          "pontos": 0
+        },
+        {
+          "posicao": 2,
+          "academia": "Machado J-J",
+          "pontos": 0
+        },
+        {
+          "posicao": 3,
+          "academia": "Pitbull",
+          "pontos": 0
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Adult Male": [
-    {
-      "place": "1",
-      "name": "Gracie Barra",
-      "points": ""
-    },
-    {
-      "place": "2",
-      "name": "Godoi/Macaco",
-      "points": ""
-    },
-    {
-      "place": "3",
-      "name": "Carlson A",
-      "points": ""
-    }
-  ],
-  "Adult Female": [
-    {
-      "place": "1",
-      "name": "Gracie Barra",
-      "points": ""
-    },
-    {
-      "place": "2",
-      "name": "Alliance",
-      "points": ""
-    },
-    {
-      "place": "3",
-      "name": "Osvaldo Alves",
-      "points": ""
-    }
-  ],
-  "Masters": [
-    {
-      "place": "1",
-      "name": "Gracie Barra",
-      "points": ""
-    },
-    {
-      "place": "2",
-      "name": "Godoi/Macaco",
-      "points": ""
-    },
-    {
-      "place": "3",
-      "name": "Relson Gracie",
-      "points": ""
-    }
-  ],
-  "Juvenile": [
-    {
-      "place": "1",
-      "name": "Nova Uniao",
-      "points": ""
-    },
-    {
-      "place": "2",
-      "name": "Machado J-J",
-      "points": ""
-    },
-    {
-      "place": "3",
-      "name": "Pitbull",
-      "points": ""
-    }
-  ]
-}]

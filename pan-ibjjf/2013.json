@@ -7333,216 +7333,217 @@
         "academia": "Competition"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Novice": [
+        {
+          "posicao": 1,
+          "academia": "Gracie Barra",
+          "pontos": 46
+        },
+        {
+          "posicao": 2,
+          "academia": "Lotus Club Jiu-Jitsu",
+          "pontos": 34
+        },
+        {
+          "posicao": 3,
+          "academia": "Gracie Elite Team",
+          "pontos": 31
+        },
+        {
+          "posicao": 4,
+          "academia": "Nova União",
+          "pontos": 27
+        },
+        {
+          "posicao": 5,
+          "academia": "TAC Team BJJ",
+          "pontos": 24
+        },
+        {
+          "posicao": 6,
+          "academia": "Alliance",
+          "pontos": 23
+        },
+        {
+          "posicao": 7,
+          "academia": "Carlson Gracie Team",
+          "pontos": 20
+        },
+        {
+          "posicao": 8,
+          "academia": "Ribeiro Jiu-Jitsu",
+          "pontos": 19
+        },
+        {
+          "posicao": 9,
+          "academia": "Evolve MMA",
+          "pontos": 19
+        },
+        {
+          "posicao": 10,
+          "academia": "G13 Campo Belo",
+          "pontos": 18
+        }
+      ],
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 85
+        },
+        {
+          "posicao": 2,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 83
+        },
+        {
+          "posicao": 3,
+          "academia": "Gracie Elite Team",
+          "pontos": 36
+        },
+        {
+          "posicao": 4,
+          "academia": "Gracie Barra",
+          "pontos": 36
+        },
+        {
+          "posicao": 5,
+          "academia": "Crazy 88",
+          "pontos": 31
+        },
+        {
+          "posicao": 6,
+          "academia": "CheckMat",
+          "pontos": 29
+        },
+        {
+          "posicao": 7,
+          "academia": "Ribeiro Jiu-Jitsu",
+          "pontos": 26
+        },
+        {
+          "posicao": 8,
+          "academia": "GF Team",
+          "pontos": 26
+        },
+        {
+          "posicao": 9,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 24
+        },
+        {
+          "posicao": 10,
+          "academia": "Nova União",
+          "pontos": 14
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 43
+        },
+        {
+          "posicao": 2,
+          "academia": "Gracie Humaita",
+          "pontos": 31
+        },
+        {
+          "posicao": 3,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 30
+        },
+        {
+          "posicao": 4,
+          "academia": "Team Lloyd Irvin",
+          "pontos": 21
+        },
+        {
+          "posicao": 5,
+          "academia": "Nova União",
+          "pontos": 21
+        },
+        {
+          "posicao": 6,
+          "academia": "American Top Team",
+          "pontos": 20
+        },
+        {
+          "posicao": 7,
+          "academia": "Gracie Elite Team",
+          "pontos": 15
+        },
+        {
+          "posicao": 8,
+          "academia": "Ribeiro Jiu-Jitsu",
+          "pontos": 14
+        },
+        {
+          "posicao": 9,
+          "academia": "Gracie Barra",
+          "pontos": 14
+        },
+        {
+          "posicao": 10,
+          "academia": "CheckMat",
+          "pontos": 13
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Gracie Elite Team",
+          "pontos": 39
+        },
+        {
+          "posicao": 2,
+          "academia": "Alliance",
+          "pontos": 36
+        },
+        {
+          "posicao": 3,
+          "academia": "Gracie Barra",
+          "pontos": 19
+        },
+        {
+          "posicao": 4,
+          "academia": "Cascao Jiu-Jitsu",
+          "pontos": 15
+        },
+        {
+          "posicao": 5,
+          "academia": "CheckMat",
+          "pontos": 14
+        },
+        {
+          "posicao": 6,
+          "academia": "Nova União",
+          "pontos": 10
+        },
+        {
+          "posicao": 7,
+          "academia": "Abi-Rihan Family BJJ",
+          "pontos": 9
+        },
+        {
+          "posicao": 8,
+          "academia": "Roberto Traven BJJ",
+          "pontos": 9
+        },
+        {
+          "posicao": 9,
+          "academia": "Lotus Club Jiu-Jitsu",
+          "pontos": 9
+        },
+        {
+          "posicao": 10,
+          "academia": "Maracaba BJJ",
+          "pontos": 9
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Novice": [
-    {
-      "posicao": 1,
-      "academia": "Gracie Barra",
-      "pontos": 46
-    },
-    {
-      "posicao": 2,
-      "academia": "Lotus Club Jiu-Jitsu",
-      "pontos": 34
-    },
-    {
-      "posicao": 3,
-      "academia": "Gracie Elite Team",
-      "pontos": 31
-    },
-    {
-      "posicao": 4,
-      "academia": "Nova União",
-      "pontos": 27
-    },
-    {
-      "posicao": 5,
-      "academia": "TAC Team BJJ",
-      "pontos": 24
-    },
-    {
-      "posicao": 6,
-      "academia": "Alliance",
-      "pontos": 23
-    },
-    {
-      "posicao": 7,
-      "academia": "Carlson Gracie Team",
-      "pontos": 20
-    },
-    {
-      "posicao": 8,
-      "academia": "Ribeiro Jiu-Jitsu",
-      "pontos": 19
-    },
-    {
-      "posicao": 9,
-      "academia": "Evolve MMA",
-      "pontos": 19
-    },
-    {
-      "posicao": 10,
-      "academia": "G13 Campo Belo",
-      "pontos": 18
-    }
-  ],
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 85
-    },
-    {
-      "posicao": 2,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 83
-    },
-    {
-      "posicao": 3,
-      "academia": "Gracie Elite Team",
-      "pontos": 36
-    },
-    {
-      "posicao": 4,
-      "academia": "Gracie Barra",
-      "pontos": 36
-    },
-    {
-      "posicao": 5,
-      "academia": "Crazy 88",
-      "pontos": 31
-    },
-    {
-      "posicao": 6,
-      "academia": "CheckMat",
-      "pontos": 29
-    },
-    {
-      "posicao": 7,
-      "academia": "Ribeiro Jiu-Jitsu",
-      "pontos": 26
-    },
-    {
-      "posicao": 8,
-      "academia": "GF Team",
-      "pontos": 26
-    },
-    {
-      "posicao": 9,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 24
-    },
-    {
-      "posicao": 10,
-      "academia": "Nova União",
-      "pontos": 14
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 43
-    },
-    {
-      "posicao": 2,
-      "academia": "Gracie Humaita",
-      "pontos": 31
-    },
-    {
-      "posicao": 3,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 30
-    },
-    {
-      "posicao": 4,
-      "academia": "Team Lloyd Irvin",
-      "pontos": 21
-    },
-    {
-      "posicao": 5,
-      "academia": "Nova União",
-      "pontos": 21
-    },
-    {
-      "posicao": 6,
-      "academia": "American Top Team",
-      "pontos": 20
-    },
-    {
-      "posicao": 7,
-      "academia": "Gracie Elite Team",
-      "pontos": 15
-    },
-    {
-      "posicao": 8,
-      "academia": "Ribeiro Jiu-Jitsu",
-      "pontos": 14
-    },
-    {
-      "posicao": 9,
-      "academia": "Gracie Barra",
-      "pontos": 14
-    },
-    {
-      "posicao": 10,
-      "academia": "CheckMat",
-      "pontos": 13
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Gracie Elite Team",
-      "pontos": 39
-    },
-    {
-      "posicao": 2,
-      "academia": "Alliance",
-      "pontos": 36
-    },
-    {
-      "posicao": 3,
-      "academia": "Gracie Barra",
-      "pontos": 19
-    },
-    {
-      "posicao": 4,
-      "academia": "Cascao Jiu-Jitsu",
-      "pontos": 15
-    },
-    {
-      "posicao": 5,
-      "academia": "CheckMat",
-      "pontos": 14
-    },
-    {
-      "posicao": 6,
-      "academia": "Nova União",
-      "pontos": 10
-    },
-    {
-      "posicao": 7,
-      "academia": "Abi-Rihan Family BJJ",
-      "pontos": 9
-    },
-    {
-      "posicao": 8,
-      "academia": "Roberto Traven BJJ",
-      "pontos": 9
-    },
-    {
-      "posicao": 9,
-      "academia": "Lotus Club Jiu-Jitsu",
-      "pontos": 9
-    },
-    {
-      "posicao": 10,
-      "academia": "Maracaba BJJ",
-      "pontos": 9
-    }
-  ]
-}]

@@ -2908,164 +2908,165 @@
         "academia": "Alliance"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "DreamArt",
+          "pontos": 105
+        },
+        {
+          "posicao": 2,
+          "academia": "Alliance",
+          "pontos": 89
+        },
+        {
+          "posicao": 3,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 87
+        },
+        {
+          "posicao": 4,
+          "academia": "AOJ",
+          "pontos": 46
+        },
+        {
+          "posicao": 5,
+          "academia": "CheckMat",
+          "pontos": 43
+        },
+        {
+          "posicao": 6,
+          "academia": "Fratres Brazilian Jiu-Jitsu",
+          "pontos": 26
+        },
+        {
+          "posicao": 7,
+          "academia": "Qatar BJJ / Vision Brasil",
+          "pontos": 22
+        },
+        {
+          "posicao": 8,
+          "academia": "Six Blades Jiu-Jitsu",
+          "pontos": 21
+        },
+        {
+          "posicao": 9,
+          "academia": "GF Team",
+          "pontos": 16
+        },
+        {
+          "posicao": 10,
+          "academia": "Nova União",
+          "pontos": 13
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "DreamArt",
+          "pontos": 67
+        },
+        {
+          "posicao": 2,
+          "academia": "GF Team",
+          "pontos": 64
+        },
+        {
+          "posicao": 3,
+          "academia": "CheckMat",
+          "pontos": 38
+        },
+        {
+          "posicao": 4,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 36
+        },
+        {
+          "posicao": 5,
+          "academia": "Alliance",
+          "pontos": 29
+        },
+        {
+          "posicao": 6,
+          "academia": "AOJ",
+          "pontos": 28
+        },
+        {
+          "posicao": 7,
+          "academia": "Gracie Barra",
+          "pontos": 28
+        },
+        {
+          "posicao": 8,
+          "academia": "LEAD BJJ",
+          "pontos": 22
+        },
+        {
+          "posicao": 9,
+          "academia": "Nova União",
+          "pontos": 22
+        },
+        {
+          "posicao": 10,
+          "academia": "Infight JJ",
+          "pontos": 18
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 93
+        },
+        {
+          "posicao": 2,
+          "academia": "AOJ",
+          "pontos": 75
+        },
+        {
+          "posicao": 3,
+          "academia": "Nova União",
+          "pontos": 43
+        },
+        {
+          "posicao": 4,
+          "academia": "Alliance",
+          "pontos": 33
+        },
+        {
+          "posicao": 5,
+          "academia": "Team Lloyd Irvin",
+          "pontos": 21
+        },
+        {
+          "posicao": 6,
+          "academia": "High Rollers",
+          "pontos": 19
+        },
+        {
+          "posicao": 7,
+          "academia": "Watkins Wrecking Crew",
+          "pontos": 18
+        },
+        {
+          "posicao": 8,
+          "academia": "Melqui Galvão Jiu-Jitsu",
+          "pontos": 18
+        },
+        {
+          "posicao": 9,
+          "academia": "CheckMat",
+          "pontos": 18
+        },
+        {
+          "posicao": 10,
+          "academia": "Gracie Barra",
+          "pontos": 16
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "DreamArt",
-      "pontos": 105
-    },
-    {
-      "posicao": 2,
-      "academia": "Alliance",
-      "pontos": 89
-    },
-    {
-      "posicao": 3,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 87
-    },
-    {
-      "posicao": 4,
-      "academia": "AOJ",
-      "pontos": 46
-    },
-    {
-      "posicao": 5,
-      "academia": "CheckMat",
-      "pontos": 43
-    },
-    {
-      "posicao": 6,
-      "academia": "Fratres Brazilian Jiu-Jitsu",
-      "pontos": 26
-    },
-    {
-      "posicao": 7,
-      "academia": "Qatar BJJ / Vision Brasil",
-      "pontos": 22
-    },
-    {
-      "posicao": 8,
-      "academia": "Six Blades Jiu-Jitsu",
-      "pontos": 21
-    },
-    {
-      "posicao": 9,
-      "academia": "GF Team",
-      "pontos": 16
-    },
-    {
-      "posicao": 10,
-      "academia": "Nova União",
-      "pontos": 13
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "DreamArt",
-      "pontos": 67
-    },
-    {
-      "posicao": 2,
-      "academia": "GF Team",
-      "pontos": 64
-    },
-    {
-      "posicao": 3,
-      "academia": "CheckMat",
-      "pontos": 38
-    },
-    {
-      "posicao": 4,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 36
-    },
-    {
-      "posicao": 5,
-      "academia": "Alliance",
-      "pontos": 29
-    },
-    {
-      "posicao": 6,
-      "academia": "AOJ",
-      "pontos": 28
-    },
-    {
-      "posicao": 7,
-      "academia": "Gracie Barra",
-      "pontos": 28
-    },
-    {
-      "posicao": 8,
-      "academia": "LEAD BJJ",
-      "pontos": 22
-    },
-    {
-      "posicao": 9,
-      "academia": "Nova União",
-      "pontos": 22
-    },
-    {
-      "posicao": 10,
-      "academia": "Infight JJ",
-      "pontos": 18
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 93
-    },
-    {
-      "posicao": 2,
-      "academia": "AOJ",
-      "pontos": 75
-    },
-    {
-      "posicao": 3,
-      "academia": "Nova União",
-      "pontos": 43
-    },
-    {
-      "posicao": 4,
-      "academia": "Alliance",
-      "pontos": 33
-    },
-    {
-      "posicao": 5,
-      "academia": "Team Lloyd Irvin",
-      "pontos": 21
-    },
-    {
-      "posicao": 6,
-      "academia": "High Rollers",
-      "pontos": 19
-    },
-    {
-      "posicao": 7,
-      "academia": "Watkins Wrecking Crew",
-      "pontos": 18
-    },
-    {
-      "posicao": 8,
-      "academia": "Melqui Galvão Jiu-Jitsu",
-      "pontos": 18
-    },
-    {
-      "posicao": 9,
-      "academia": "CheckMat",
-      "pontos": 18
-    },
-    {
-      "posicao": 10,
-      "academia": "Gracie Barra",
-      "pontos": 16
-    }
-  ]
-}]

@@ -8243,216 +8243,217 @@
         "academia": "Ribeiro Jiu-Jitsu"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 85
+        },
+        {
+          "posicao": 2,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 53
+        },
+        {
+          "posicao": 3,
+          "academia": "GF Team",
+          "pontos": 51
+        },
+        {
+          "posicao": 4,
+          "academia": "Gracie Barra",
+          "pontos": 48
+        },
+        {
+          "posicao": 5,
+          "academia": "CheckMat",
+          "pontos": 37
+        },
+        {
+          "posicao": 6,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 35
+        },
+        {
+          "posicao": 7,
+          "academia": "Ns Brotherhood",
+          "pontos": 27
+        },
+        {
+          "posicao": 8,
+          "academia": "Brasa CTA",
+          "pontos": 27
+        },
+        {
+          "posicao": 9,
+          "academia": "Barbosa Jiu-Jitsu",
+          "pontos": 18
+        },
+        {
+          "posicao": 10,
+          "academia": "Alliance International",
+          "pontos": 15
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 66
+        },
+        {
+          "posicao": 2,
+          "academia": "Gracie Humaita",
+          "pontos": 43
+        },
+        {
+          "posicao": 3,
+          "academia": "Gracie Barra",
+          "pontos": 29
+        },
+        {
+          "posicao": 4,
+          "academia": "Ryan Gracie Team",
+          "pontos": 27
+        },
+        {
+          "posicao": 5,
+          "academia": "GF Team",
+          "pontos": 24
+        },
+        {
+          "posicao": 6,
+          "academia": "Ns Brotherhood",
+          "pontos": 18
+        },
+        {
+          "posicao": 7,
+          "academia": "Soul Fighters BJJ",
+          "pontos": 17
+        },
+        {
+          "posicao": 8,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 12
+        },
+        {
+          "posicao": 9,
+          "academia": "Brazil 021 International",
+          "pontos": 11
+        },
+        {
+          "posicao": 10,
+          "academia": "CheckMat",
+          "pontos": 11
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 98
+        },
+        {
+          "posicao": 2,
+          "academia": "Alliance",
+          "pontos": 59
+        },
+        {
+          "posicao": 3,
+          "academia": "Anchorage Brazilian Jiu Jitsu",
+          "pontos": 18
+        },
+        {
+          "posicao": 4,
+          "academia": "GF Team",
+          "pontos": 18
+        },
+        {
+          "posicao": 5,
+          "academia": "David Jacobs Jiu-Jitsu Team",
+          "pontos": 18
+        },
+        {
+          "posicao": 6,
+          "academia": "Way of Jiu-Jitsu Academy / Rigan Machado",
+          "pontos": 18
+        },
+        {
+          "posicao": 7,
+          "academia": "Over Limit BJJ",
+          "pontos": 17
+        },
+        {
+          "posicao": 8,
+          "academia": "Soul Fighters BJJ",
+          "pontos": 15
+        },
+        {
+          "posicao": 9,
+          "academia": "Team Lloyd Irvin",
+          "pontos": 15
+        },
+        {
+          "posicao": 10,
+          "academia": "Brasa CTA",
+          "pontos": 12
+        }
+      ],
+      "Novice": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 30
+        },
+        {
+          "posicao": 2,
+          "academia": "Carlson Gracie Team",
+          "pontos": 24
+        },
+        {
+          "posicao": 3,
+          "academia": "Cleber Jiu Jitsu",
+          "pontos": 22
+        },
+        {
+          "posicao": 4,
+          "academia": "Coalition 95",
+          "pontos": 18
+        },
+        {
+          "posicao": 5,
+          "academia": "Paragon BJJ Academy",
+          "pontos": 18
+        },
+        {
+          "posicao": 6,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 17
+        },
+        {
+          "posicao": 7,
+          "academia": "CheckMat",
+          "pontos": 16
+        },
+        {
+          "posicao": 8,
+          "academia": "Tinguinha BJJ Academy",
+          "pontos": 15
+        },
+        {
+          "posicao": 9,
+          "academia": "Impact Jiu Jitsu",
+          "pontos": 13
+        },
+        {
+          "posicao": 10,
+          "academia": "Ribeiro Jiu-Jitsu",
+          "pontos": 13
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 85
-    },
-    {
-      "posicao": 2,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 53
-    },
-    {
-      "posicao": 3,
-      "academia": "GF Team",
-      "pontos": 51
-    },
-    {
-      "posicao": 4,
-      "academia": "Gracie Barra",
-      "pontos": 48
-    },
-    {
-      "posicao": 5,
-      "academia": "CheckMat",
-      "pontos": 37
-    },
-    {
-      "posicao": 6,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 35
-    },
-    {
-      "posicao": 7,
-      "academia": "Ns Brotherhood",
-      "pontos": 27
-    },
-    {
-      "posicao": 8,
-      "academia": "Brasa CTA",
-      "pontos": 27
-    },
-    {
-      "posicao": 9,
-      "academia": "Barbosa Jiu-Jitsu",
-      "pontos": 18
-    },
-    {
-      "posicao": 10,
-      "academia": "Alliance International",
-      "pontos": 15
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 66
-    },
-    {
-      "posicao": 2,
-      "academia": "Gracie Humaita",
-      "pontos": 43
-    },
-    {
-      "posicao": 3,
-      "academia": "Gracie Barra",
-      "pontos": 29
-    },
-    {
-      "posicao": 4,
-      "academia": "Ryan Gracie Team",
-      "pontos": 27
-    },
-    {
-      "posicao": 5,
-      "academia": "GF Team",
-      "pontos": 24
-    },
-    {
-      "posicao": 6,
-      "academia": "Ns Brotherhood",
-      "pontos": 18
-    },
-    {
-      "posicao": 7,
-      "academia": "Soul Fighters BJJ",
-      "pontos": 17
-    },
-    {
-      "posicao": 8,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 12
-    },
-    {
-      "posicao": 9,
-      "academia": "Brazil 021 International",
-      "pontos": 11
-    },
-    {
-      "posicao": 10,
-      "academia": "CheckMat",
-      "pontos": 11
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 98
-    },
-    {
-      "posicao": 2,
-      "academia": "Alliance",
-      "pontos": 59
-    },
-    {
-      "posicao": 3,
-      "academia": "Anchorage Brazilian Jiu Jitsu",
-      "pontos": 18
-    },
-    {
-      "posicao": 4,
-      "academia": "GF Team",
-      "pontos": 18
-    },
-    {
-      "posicao": 5,
-      "academia": "David Jacobs Jiu-Jitsu Team",
-      "pontos": 18
-    },
-    {
-      "posicao": 6,
-      "academia": "Way of Jiu-Jitsu Academy / Rigan Machado",
-      "pontos": 18
-    },
-    {
-      "posicao": 7,
-      "academia": "Over Limit BJJ",
-      "pontos": 17
-    },
-    {
-      "posicao": 8,
-      "academia": "Soul Fighters BJJ",
-      "pontos": 15
-    },
-    {
-      "posicao": 9,
-      "academia": "Team Lloyd Irvin",
-      "pontos": 15
-    },
-    {
-      "posicao": 10,
-      "academia": "Brasa CTA",
-      "pontos": 12
-    }
-  ],
-  "Novice": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 30
-    },
-    {
-      "posicao": 2,
-      "academia": "Carlson Gracie Team",
-      "pontos": 24
-    },
-    {
-      "posicao": 3,
-      "academia": "Cleber Jiu Jitsu",
-      "pontos": 22
-    },
-    {
-      "posicao": 4,
-      "academia": "Coalition 95",
-      "pontos": 18
-    },
-    {
-      "posicao": 5,
-      "academia": "Paragon BJJ Academy",
-      "pontos": 18
-    },
-    {
-      "posicao": 6,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 17
-    },
-    {
-      "posicao": 7,
-      "academia": "CheckMat",
-      "pontos": 16
-    },
-    {
-      "posicao": 8,
-      "academia": "Tinguinha BJJ Academy",
-      "pontos": 15
-    },
-    {
-      "posicao": 9,
-      "academia": "Impact Jiu Jitsu",
-      "pontos": 13
-    },
-    {
-      "posicao": 10,
-      "academia": "Ribeiro Jiu-Jitsu",
-      "pontos": 13
-    }
-  ]
-}]

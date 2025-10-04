@@ -2368,164 +2368,165 @@
         "academia": "Gracie Humaita"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 121
+        },
+        {
+          "posicao": 2,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 72
+        },
+        {
+          "posicao": 3,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 58
+        },
+        {
+          "posicao": 4,
+          "academia": "Gracie Barra",
+          "pontos": 43
+        },
+        {
+          "posicao": 5,
+          "academia": "GF Team",
+          "pontos": 34
+        },
+        {
+          "posicao": 6,
+          "academia": "Team Lloyd Irvin",
+          "pontos": 31
+        },
+        {
+          "posicao": 7,
+          "academia": "CheckMat",
+          "pontos": 21
+        },
+        {
+          "posicao": 8,
+          "academia": "Ribeiro Jiu-Jitsu",
+          "pontos": 15
+        },
+        {
+          "posicao": 9,
+          "academia": "Brasa CTA",
+          "pontos": 14
+        },
+        {
+          "posicao": 10,
+          "academia": "Gracie Elite Team",
+          "pontos": 13
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 68
+        },
+        {
+          "posicao": 2,
+          "academia": "Gracie Humaita",
+          "pontos": 61
+        },
+        {
+          "posicao": 3,
+          "academia": "CheckMat",
+          "pontos": 29
+        },
+        {
+          "posicao": 4,
+          "academia": "Brazilian Top Team",
+          "pontos": 25
+        },
+        {
+          "posicao": 5,
+          "academia": "Gracie Barra",
+          "pontos": 24
+        },
+        {
+          "posicao": 6,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 23
+        },
+        {
+          "posicao": 7,
+          "academia": "GF Team",
+          "pontos": 22
+        },
+        {
+          "posicao": 8,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 19
+        },
+        {
+          "posicao": 9,
+          "academia": "Marcio Cruz BJJ",
+          "pontos": 18
+        },
+        {
+          "posicao": 10,
+          "academia": "Team Lloyd Irvin",
+          "pontos": 18
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Gracie Barra",
+          "pontos": 39
+        },
+        {
+          "posicao": 2,
+          "academia": "Associação Oriente",
+          "pontos": 30
+        },
+        {
+          "posicao": 3,
+          "academia": "CheckMat",
+          "pontos": 28
+        },
+        {
+          "posicao": 4,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 28
+        },
+        {
+          "posicao": 5,
+          "academia": "Lótus Club",
+          "pontos": 27
+        },
+        {
+          "posicao": 6,
+          "academia": "GF Team",
+          "pontos": 20
+        },
+        {
+          "posicao": 7,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 19
+        },
+        {
+          "posicao": 8,
+          "academia": "Start Brazilian Jiu-Jitsu",
+          "pontos": 18
+        },
+        {
+          "posicao": 9,
+          "academia": "Gracie Humaita",
+          "pontos": 18
+        },
+        {
+          "posicao": 10,
+          "academia": "Tokai Brazilian Jiu-Jitsu",
+          "pontos": 18
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 121
-    },
-    {
-      "posicao": 2,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 72
-    },
-    {
-      "posicao": 3,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 58
-    },
-    {
-      "posicao": 4,
-      "academia": "Gracie Barra",
-      "pontos": 43
-    },
-    {
-      "posicao": 5,
-      "academia": "GF Team",
-      "pontos": 34
-    },
-    {
-      "posicao": 6,
-      "academia": "Team Lloyd Irvin",
-      "pontos": 31
-    },
-    {
-      "posicao": 7,
-      "academia": "CheckMat",
-      "pontos": 21
-    },
-    {
-      "posicao": 8,
-      "academia": "Ribeiro Jiu-Jitsu",
-      "pontos": 15
-    },
-    {
-      "posicao": 9,
-      "academia": "Brasa CTA",
-      "pontos": 14
-    },
-    {
-      "posicao": 10,
-      "academia": "Gracie Elite Team",
-      "pontos": 13
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 68
-    },
-    {
-      "posicao": 2,
-      "academia": "Gracie Humaita",
-      "pontos": 61
-    },
-    {
-      "posicao": 3,
-      "academia": "CheckMat",
-      "pontos": 29
-    },
-    {
-      "posicao": 4,
-      "academia": "Brazilian Top Team",
-      "pontos": 25
-    },
-    {
-      "posicao": 5,
-      "academia": "Gracie Barra",
-      "pontos": 24
-    },
-    {
-      "posicao": 6,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 23
-    },
-    {
-      "posicao": 7,
-      "academia": "GF Team",
-      "pontos": 22
-    },
-    {
-      "posicao": 8,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 19
-    },
-    {
-      "posicao": 9,
-      "academia": "Marcio Cruz BJJ",
-      "pontos": 18
-    },
-    {
-      "posicao": 10,
-      "academia": "Team Lloyd Irvin",
-      "pontos": 18
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Gracie Barra",
-      "pontos": 39
-    },
-    {
-      "posicao": 2,
-      "academia": "Associação Oriente",
-      "pontos": 30
-    },
-    {
-      "posicao": 3,
-      "academia": "CheckMat",
-      "pontos": 28
-    },
-    {
-      "posicao": 4,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 28
-    },
-    {
-      "posicao": 5,
-      "academia": "Lótus Club",
-      "pontos": 27
-    },
-    {
-      "posicao": 6,
-      "academia": "GF Team",
-      "pontos": 20
-    },
-    {
-      "posicao": 7,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 19
-    },
-    {
-      "posicao": 8,
-      "academia": "Start Brazilian Jiu-Jitsu",
-      "pontos": 18
-    },
-    {
-      "posicao": 9,
-      "academia": "Gracie Humaita",
-      "pontos": 18
-    },
-    {
-      "posicao": 10,
-      "academia": "Tokai Brazilian Jiu-Jitsu",
-      "pontos": 18
-    }
-  ]
-}]

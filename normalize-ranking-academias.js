@@ -87,84 +87,102 @@ function processJsonFile(filePath) {
             return true;
         }
         
-        // Tentar fazer parse direto
-        let data;
-        try {
-            data = JSON.parse(content);
-        } catch (parseError) {
-            // Se falhar, tentar dividir múltiplos JSONs
-            console.log(`⚠️  Parse direto falhou, tentando dividir múltiplos JSONs...`);
-            
-            const jsonParts = content.split(/(?<=\])\s*(?=\[)/);
-            console.log(`📊 Encontrados ${jsonParts.length} arrays JSON`);
-            
-            let allData = [];
-            let hasRankingAcademias = null;
-            
-            for (let i = 0; i < jsonParts.length; i++) {
-                try {
-                    let part = jsonParts[i].trim();
-                    
-                    // Verificar se esta parte contém rankingAcademias
-                    if (part.includes('"rankingAcademias"')) {
-                        // Esta parte contém o ranking, não é um array JSON normal
-                        hasRankingAcademias = part;
-                        continue;
-                    }
-                    
-                    const parsedPart = JSON.parse(part);
-                    if (Array.isArray(parsedPart)) {
-                        allData = allData.concat(parsedPart);
-                    }
-                } catch (partError) {
-                    console.log(`❌ Erro ao fazer parse do array ${i + 1}: ${partError.message}`);
-                }
-            }
-            
-            data = allData;
-            
-            // Se encontrou rankingAcademias separado, processar
-            if (hasRankingAcademias) {
-                // Extrair o objeto rankingAcademias
-                const rankingMatch = hasRankingAcademias.match(/"rankingAcademias":\s*(\[.*?\])/s);
-                if (rankingMatch) {
-                    try {
-                        const rankingData = JSON.parse(rankingMatch[1]);
-                        const normalizedRanking = normalizeRankingAcademias(rankingData);
-                        
-                        // Reescrever o arquivo com dados normalizados + ranking normalizado
-                        const newContent = JSON.stringify(data, null, 2) + '\n\n"rankingAcademias":' + JSON.stringify(normalizedRanking, null, 2);
-                        fs.writeFileSync(filePath, newContent, 'utf8');
-                        
-                        console.log(`✅ Sucesso! Ranking de academias normalizado`);
-                        return true;
-                    } catch (rankingError) {
-                        console.log(`❌ Erro ao processar rankingAcademias: ${rankingError.message}`);
-                        return false;
-                    }
-                }
-            }
-        }
-        
-        // Se chegou aqui e data é um array simples, não tem rankingAcademias para processar
-        if (Array.isArray(data)) {
-            console.log(`⚠️  Arquivo contém apenas dados de competidores, sem rankingAcademias`);
+        // Estratégia: dividir o conteúdo em duas partes - antes e depois do rankingAcademias
+        const rankingIndex = content.indexOf('"rankingAcademias"');
+        if (rankingIndex === -1) {
+            console.log(`⚠️  rankingAcademias não encontrado no arquivo`);
             return true;
         }
         
-        // Se data é um objeto, verificar se tem rankingAcademias
-        if (data && typeof data === 'object' && data.rankingAcademias) {
-            const normalizedRanking = normalizeRankingAcademias(data.rankingAcademias);
-            data.rankingAcademias = normalizedRanking;
+        // Encontrar o início do array principal (antes do rankingAcademias)
+        const beforeRanking = content.substring(0, rankingIndex).trim();
+        const afterRankingStart = content.substring(rankingIndex);
+        
+        // Remover possível quebra de linha e aspas extras antes do rankingAcademias
+        let cleanBeforeRanking = beforeRanking;
+        if (cleanBeforeRanking.endsWith('\n\n')) {
+            cleanBeforeRanking = cleanBeforeRanking.slice(0, -2);
+        }
+        if (cleanBeforeRanking.endsWith('\n')) {
+            cleanBeforeRanking = cleanBeforeRanking.slice(0, -1);
+        }
+        
+        // Tentar fazer parse da parte principal
+        let mainData;
+        try {
+            mainData = JSON.parse(cleanBeforeRanking);
+        } catch (parseError) {
+            console.log(`❌ Erro ao fazer parse da parte principal: ${parseError.message}`);
+            return false;
+        }
+        
+        // Extrair o rankingAcademias usando uma abordagem mais robusta
+        const rankingStartIndex = afterRankingStart.indexOf('[');
+        if (rankingStartIndex === -1) {
+            console.log(`❌ Não foi possível encontrar o início do array rankingAcademias`);
+            return false;
+        }
+        
+        // Encontrar o final do array usando contagem de colchetes
+        let bracketCount = 0;
+        let endIndex = -1;
+        let inString = false;
+        let escapeNext = false;
+        
+        for (let i = rankingStartIndex; i < afterRankingStart.length; i++) {
+            const char = afterRankingStart[i];
             
-            // Reescrever arquivo
-            fs.writeFileSync(filePath, JSON.stringify(data, null, 2), 'utf8');
+            if (escapeNext) {
+                escapeNext = false;
+                continue;
+            }
+            
+            if (char === '\\') {
+                escapeNext = true;
+                continue;
+            }
+            
+            if (char === '"') {
+                inString = !inString;
+                continue;
+            }
+            
+            if (!inString) {
+                if (char === '[') {
+                    bracketCount++;
+                } else if (char === ']') {
+                    bracketCount--;
+                    if (bracketCount === 0) {
+                        endIndex = i + 1;
+                        break;
+                    }
+                }
+            }
+        }
+        
+        if (endIndex === -1) {
+            console.log(`❌ Não foi possível encontrar o final do array rankingAcademias`);
+            return false;
+        }
+        
+        const rankingJsonStr = afterRankingStart.substring(rankingStartIndex, endIndex);
+        
+        try {
+            const rankingData = JSON.parse(rankingJsonStr);
+            const normalizedRanking = normalizeRankingAcademias(rankingData);
+            
+            // Reescrever o arquivo com dados normalizados + ranking normalizado
+            const newContent = JSON.stringify(mainData, null, 2) + '\n\n"rankingAcademias":' + JSON.stringify(normalizedRanking, null, 2);
+            fs.writeFileSync(filePath, newContent, 'utf8');
+            
             console.log(`✅ Sucesso! Ranking de academias normalizado`);
             return true;
+            
+        } catch (rankingError) {
+            console.log(`❌ Erro ao processar rankingAcademias: ${rankingError.message}`);
+            console.log(`🔍 JSON extraído: ${rankingJsonStr.substring(0, 200)}...`);
+            return false;
         }
-        
-        console.log(`⚠️  Estrutura de dados não reconhecida`);
-        return false;
         
     } catch (error) {
         console.log(`❌ Erro ao processar ${path.basename(filePath)}: ${error.message}`);

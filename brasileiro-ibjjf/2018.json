@@ -16873,320 +16873,321 @@
         "academia": "Gracie Barra"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 119
+        },
+        {
+          "posicao": 2,
+          "academia": "Cicero Costha Internacional",
+          "pontos": 62
+        },
+        {
+          "posicao": 3,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 40
+        },
+        {
+          "posicao": 4,
+          "academia": "Nova União",
+          "pontos": 40
+        },
+        {
+          "posicao": 5,
+          "academia": "GF Team",
+          "pontos": 32
+        },
+        {
+          "posicao": 6,
+          "academia": "Flávio Caverna Jiu-Jitsu",
+          "pontos": 23
+        },
+        {
+          "posicao": 7,
+          "academia": "Zenith BJJ",
+          "pontos": 22
+        },
+        {
+          "posicao": 8,
+          "academia": "Gracie Barra",
+          "pontos": 22
+        },
+        {
+          "posicao": 9,
+          "academia": "ZR Team Association",
+          "pontos": 21
+        },
+        {
+          "posicao": 10,
+          "academia": "Guigo JJ",
+          "pontos": 18
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 69
+        },
+        {
+          "posicao": 2,
+          "academia": "Gracie Barra",
+          "pontos": 44
+        },
+        {
+          "posicao": 3,
+          "academia": "GF Team",
+          "pontos": 41
+        },
+        {
+          "posicao": 4,
+          "academia": "CheckMat",
+          "pontos": 40
+        },
+        {
+          "posicao": 5,
+          "academia": "Nova União",
+          "pontos": 37
+        },
+        {
+          "posicao": 6,
+          "academia": "Cicero Costha Europe",
+          "pontos": 28
+        },
+        {
+          "posicao": 7,
+          "academia": "Qatar BJJ Brasil",
+          "pontos": 23
+        },
+        {
+          "posicao": 8,
+          "academia": "De La Riva JJ",
+          "pontos": 21
+        },
+        {
+          "posicao": 9,
+          "academia": "Infight JJ",
+          "pontos": 21
+        },
+        {
+          "posicao": 10,
+          "academia": "Zenith BJJ",
+          "pontos": 19
+        }
+      ],
+      "Pré-Mirim": [
+        {
+          "posicao": 1,
+          "academia": "GF Team",
+          "pontos": 27
+        },
+        {
+          "posicao": 2,
+          "academia": "Gracie Barra",
+          "pontos": 16
+        },
+        {
+          "posicao": 3,
+          "academia": "Infight JJ",
+          "pontos": 15
+        },
+        {
+          "posicao": 4,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 9
+        },
+        {
+          "posicao": 5,
+          "academia": "Equipe PH",
+          "pontos": 9
+        },
+        {
+          "posicao": 6,
+          "academia": "Gracie Barra JJ",
+          "pontos": 9
+        },
+        {
+          "posicao": 7,
+          "academia": "Paulo Ledesma BJJ",
+          "pontos": 9
+        },
+        {
+          "posicao": 8,
+          "academia": "Gracie Humaita",
+          "pontos": 6
+        },
+        {
+          "posicao": 9,
+          "academia": "CheckMat",
+          "pontos": 4
+        },
+        {
+          "posicao": 10,
+          "academia": "Cascão Jiu Jitsu BR",
+          "pontos": 3
+        }
+      ],
+      "Mirim": [
+        {
+          "posicao": 1,
+          "academia": "GF Team",
+          "pontos": 78
+        },
+        {
+          "posicao": 2,
+          "academia": "Cantagalo Team",
+          "pontos": 44
+        },
+        {
+          "posicao": 3,
+          "academia": "Nova União",
+          "pontos": 41
+        },
+        {
+          "posicao": 4,
+          "academia": "CheckMat",
+          "pontos": 34
+        },
+        {
+          "posicao": 5,
+          "academia": "Cicero Costha Mexico",
+          "pontos": 31
+        },
+        {
+          "posicao": 6,
+          "academia": "Gracie Barra",
+          "pontos": 30
+        },
+        {
+          "posicao": 7,
+          "academia": "Geração UPP",
+          "pontos": 30
+        },
+        {
+          "posicao": 8,
+          "academia": "Cassão Team - RJ",
+          "pontos": 28
+        },
+        {
+          "posicao": 9,
+          "academia": "White House Jiu-Jitsu School",
+          "pontos": 27
+        },
+        {
+          "posicao": 10,
+          "academia": "Alliance",
+          "pontos": 19
+        }
+      ],
+      "Infantil": [
+        {
+          "posicao": 1,
+          "academia": "GF Team",
+          "pontos": 209
+        },
+        {
+          "posicao": 2,
+          "academia": "Alliance",
+          "pontos": 96
+        },
+        {
+          "posicao": 3,
+          "academia": "Geração UPP",
+          "pontos": 81
+        },
+        {
+          "posicao": 4,
+          "academia": "Gracie Barra",
+          "pontos": 81
+        },
+        {
+          "posicao": 5,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 52
+        },
+        {
+          "posicao": 6,
+          "academia": "Barbosa Jiu-Jitsu",
+          "pontos": 50
+        },
+        {
+          "posicao": 7,
+          "academia": "Nova União",
+          "pontos": 49
+        },
+        {
+          "posicao": 8,
+          "academia": "Gracie Humaita",
+          "pontos": 46
+        },
+        {
+          "posicao": 9,
+          "academia": "CheckMat",
+          "pontos": 42
+        },
+        {
+          "posicao": 10,
+          "academia": "Cicero Costha Mexico",
+          "pontos": 41
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Nova União",
+          "pontos": 54
+        },
+        {
+          "posicao": 2,
+          "academia": "GF Team",
+          "pontos": 52
+        },
+        {
+          "posicao": 3,
+          "academia": "Game Fight BJJ/Manimal",
+          "pontos": 39
+        },
+        {
+          "posicao": 4,
+          "academia": "Cicero Costha Mexico",
+          "pontos": 38
+        },
+        {
+          "posicao": 5,
+          "academia": "Gracie Humaita",
+          "pontos": 31
+        },
+        {
+          "posicao": 6,
+          "academia": "Gracie Barra",
+          "pontos": 31
+        },
+        {
+          "posicao": 7,
+          "academia": "White House Jiu-Jitsu School",
+          "pontos": 29
+        },
+        {
+          "posicao": 8,
+          "academia": "Alliance",
+          "pontos": 29
+        },
+        {
+          "posicao": 9,
+          "academia": "CheckMat",
+          "pontos": 22
+        },
+        {
+          "posicao": 10,
+          "academia": "Cei Jiu-Jitsu International",
+          "pontos": 18
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias": [{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 119
-    },
-    {
-      "posicao": 2,
-      "academia": "Cicero Costha Internacional",
-      "pontos": 62
-    },
-    {
-      "posicao": 3,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 40
-    },
-    {
-      "posicao": 4,
-      "academia": "Nova União",
-      "pontos": 40
-    },
-    {
-      "posicao": 5,
-      "academia": "GF Team",
-      "pontos": 32
-    },
-    {
-      "posicao": 6,
-      "academia": "Flávio Caverna Jiu-Jitsu",
-      "pontos": 23
-    },
-    {
-      "posicao": 7,
-      "academia": "Zenith BJJ",
-      "pontos": 22
-    },
-    {
-      "posicao": 8,
-      "academia": "Gracie Barra",
-      "pontos": 22
-    },
-    {
-      "posicao": 9,
-      "academia": "ZR Team Association",
-      "pontos": 21
-    },
-    {
-      "posicao": 10,
-      "academia": "Guigo JJ",
-      "pontos": 18
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 69
-    },
-    {
-      "posicao": 2,
-      "academia": "Gracie Barra",
-      "pontos": 44
-    },
-    {
-      "posicao": 3,
-      "academia": "GF Team",
-      "pontos": 41
-    },
-    {
-      "posicao": 4,
-      "academia": "CheckMat",
-      "pontos": 40
-    },
-    {
-      "posicao": 5,
-      "academia": "Nova União",
-      "pontos": 37
-    },
-    {
-      "posicao": 6,
-      "academia": "Cicero Costha Europe",
-      "pontos": 28
-    },
-    {
-      "posicao": 7,
-      "academia": "Qatar BJJ Brasil",
-      "pontos": 23
-    },
-    {
-      "posicao": 8,
-      "academia": "De La Riva JJ",
-      "pontos": 21
-    },
-    {
-      "posicao": 9,
-      "academia": "Infight JJ",
-      "pontos": 21
-    },
-    {
-      "posicao": 10,
-      "academia": "Zenith BJJ",
-      "pontos": 19
-    }
-  ],
-  "Pré-Mirim": [
-    {
-      "posicao": 1,
-      "academia": "GF Team",
-      "pontos": 27
-    },
-    {
-      "posicao": 2,
-      "academia": "Gracie Barra",
-      "pontos": 16
-    },
-    {
-      "posicao": 3,
-      "academia": "Infight JJ",
-      "pontos": 15
-    },
-    {
-      "posicao": 4,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 9
-    },
-    {
-      "posicao": 5,
-      "academia": "Equipe PH",
-      "pontos": 9
-    },
-    {
-      "posicao": 6,
-      "academia": "Gracie Barra JJ",
-      "pontos": 9
-    },
-    {
-      "posicao": 7,
-      "academia": "Paulo Ledesma BJJ",
-      "pontos": 9
-    },
-    {
-      "posicao": 8,
-      "academia": "Gracie Humaita",
-      "pontos": 6
-    },
-    {
-      "posicao": 9,
-      "academia": "CheckMat",
-      "pontos": 4
-    },
-    {
-      "posicao": 10,
-      "academia": "Cascão Jiu Jitsu BR",
-      "pontos": 3
-    }
-  ],
-  "Mirim": [
-    {
-      "posicao": 1,
-      "academia": "GF Team",
-      "pontos": 78
-    },
-    {
-      "posicao": 2,
-      "academia": "Cantagalo Team",
-      "pontos": 44
-    },
-    {
-      "posicao": 3,
-      "academia": "Nova União",
-      "pontos": 41
-    },
-    {
-      "posicao": 4,
-      "academia": "CheckMat",
-      "pontos": 34
-    },
-    {
-      "posicao": 5,
-      "academia": "Cicero Costha Mexico",
-      "pontos": 31
-    },
-    {
-      "posicao": 6,
-      "academia": "Gracie Barra",
-      "pontos": 30
-    },
-    {
-      "posicao": 7,
-      "academia": "Geração UPP",
-      "pontos": 30
-    },
-    {
-      "posicao": 8,
-      "academia": "Cassão Team - RJ",
-      "pontos": 28
-    },
-    {
-      "posicao": 9,
-      "academia": "White House Jiu-Jitsu School",
-      "pontos": 27
-    },
-    {
-      "posicao": 10,
-      "academia": "Alliance",
-      "pontos": 19
-    }
-  ],
-  "Infantil": [
-    {
-      "posicao": 1,
-      "academia": "GF Team",
-      "pontos": 209
-    },
-    {
-      "posicao": 2,
-      "academia": "Alliance",
-      "pontos": 96
-    },
-    {
-      "posicao": 3,
-      "academia": "Geração UPP",
-      "pontos": 81
-    },
-    {
-      "posicao": 4,
-      "academia": "Gracie Barra",
-      "pontos": 81
-    },
-    {
-      "posicao": 5,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 52
-    },
-    {
-      "posicao": 6,
-      "academia": "Barbosa Jiu-Jitsu",
-      "pontos": 50
-    },
-    {
-      "posicao": 7,
-      "academia": "Nova União",
-      "pontos": 49
-    },
-    {
-      "posicao": 8,
-      "academia": "Gracie Humaita",
-      "pontos": 46
-    },
-    {
-      "posicao": 9,
-      "academia": "CheckMat",
-      "pontos": 42
-    },
-    {
-      "posicao": 10,
-      "academia": "Cicero Costha Mexico",
-      "pontos": 41
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Nova União",
-      "pontos": 54
-    },
-    {
-      "posicao": 2,
-      "academia": "GF Team",
-      "pontos": 52
-    },
-    {
-      "posicao": 3,
-      "academia": "Game Fight BJJ/Manimal",
-      "pontos": 39
-    },
-    {
-      "posicao": 4,
-      "academia": "Cicero Costha Mexico",
-      "pontos": 38
-    },
-    {
-      "posicao": 5,
-      "academia": "Gracie Humaita",
-      "pontos": 31
-    },
-    {
-      "posicao": 6,
-      "academia": "Gracie Barra",
-      "pontos": 31
-    },
-    {
-      "posicao": 7,
-      "academia": "White House Jiu-Jitsu School",
-      "pontos": 29
-    },
-    {
-      "posicao": 8,
-      "academia": "Alliance",
-      "pontos": 29
-    },
-    {
-      "posicao": 9,
-      "academia": "CheckMat",
-      "pontos": 22
-    },
-    {
-      "posicao": 10,
-      "academia": "Cei Jiu-Jitsu International",
-      "pontos": 18
-    }
-  ]
-}]

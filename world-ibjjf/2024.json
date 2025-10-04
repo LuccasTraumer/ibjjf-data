@@ -2913,164 +2913,165 @@
         "academia": "Abmar Barbosa Association"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 120
+        },
+        {
+          "posicao": 2,
+          "academia": "AOJ",
+          "pontos": 60
+        },
+        {
+          "posicao": 3,
+          "academia": "Fratres Brazilian Jiu-Jitsu",
+          "pontos": 58
+        },
+        {
+          "posicao": 4,
+          "academia": "DreamArt",
+          "pontos": 57
+        },
+        {
+          "posicao": 5,
+          "academia": "CheckMat",
+          "pontos": 52
+        },
+        {
+          "posicao": 6,
+          "academia": "Vision",
+          "pontos": 48
+        },
+        {
+          "posicao": 7,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 31
+        },
+        {
+          "posicao": 8,
+          "academia": "GF Team",
+          "pontos": 21
+        },
+        {
+          "posicao": 9,
+          "academia": "Brasa CTA",
+          "pontos": 10
+        },
+        {
+          "posicao": 10,
+          "academia": "Unity Jiu-jitsu",
+          "pontos": 10
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "GF Team",
+          "pontos": 50
+        },
+        {
+          "posicao": 2,
+          "academia": "Fratres Brazilian Jiu-Jitsu",
+          "pontos": 48
+        },
+        {
+          "posicao": 3,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 47
+        },
+        {
+          "posicao": 4,
+          "academia": "DreamArt",
+          "pontos": 42
+        },
+        {
+          "posicao": 5,
+          "academia": "AOJ",
+          "pontos": 40
+        },
+        {
+          "posicao": 6,
+          "academia": "CheckMat",
+          "pontos": 40
+        },
+        {
+          "posicao": 7,
+          "academia": "Vision",
+          "pontos": 32
+        },
+        {
+          "posicao": 8,
+          "academia": "JFC Almeida JJ",
+          "pontos": 21
+        },
+        {
+          "posicao": 9,
+          "academia": "Gracie Barra",
+          "pontos": 20
+        },
+        {
+          "posicao": 10,
+          "academia": "Infight JJ",
+          "pontos": 18
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "AOJ",
+          "pontos": 73
+        },
+        {
+          "posicao": 2,
+          "academia": "Alliance",
+          "pontos": 55
+        },
+        {
+          "posicao": 3,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 42
+        },
+        {
+          "posicao": 4,
+          "academia": "CheckMat",
+          "pontos": 31
+        },
+        {
+          "posicao": 5,
+          "academia": "Infight JJ",
+          "pontos": 26
+        },
+        {
+          "posicao": 6,
+          "academia": "Melqui Galvão Jiu-jitsu",
+          "pontos": 26
+        },
+        {
+          "posicao": 7,
+          "academia": "LEAD BJJ",
+          "pontos": 25
+        },
+        {
+          "posicao": 8,
+          "academia": "JFC Almeida JJ",
+          "pontos": 19
+        },
+        {
+          "posicao": 9,
+          "academia": "American Jiu-Jitsu Syndicate",
+          "pontos": 18
+        },
+        {
+          "posicao": 10,
+          "academia": "Gracie Barra",
+          "pontos": 18
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 120
-    },
-    {
-      "posicao": 2,
-      "academia": "AOJ",
-      "pontos": 60
-    },
-    {
-      "posicao": 3,
-      "academia": "Fratres Brazilian Jiu-Jitsu",
-      "pontos": 58
-    },
-    {
-      "posicao": 4,
-      "academia": "DreamArt",
-      "pontos": 57
-    },
-    {
-      "posicao": 5,
-      "academia": "CheckMat",
-      "pontos": 52
-    },
-    {
-      "posicao": 6,
-      "academia": "Vision",
-      "pontos": 48
-    },
-    {
-      "posicao": 7,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 31
-    },
-    {
-      "posicao": 8,
-      "academia": "GF Team",
-      "pontos": 21
-    },
-    {
-      "posicao": 9,
-      "academia": "Brasa CTA",
-      "pontos": 10
-    },
-    {
-      "posicao": 10,
-      "academia": "Unity Jiu-jitsu",
-      "pontos": 10
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "GF Team",
-      "pontos": 50
-    },
-    {
-      "posicao": 2,
-      "academia": "Fratres Brazilian Jiu-Jitsu",
-      "pontos": 48
-    },
-    {
-      "posicao": 3,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 47
-    },
-    {
-      "posicao": 4,
-      "academia": "DreamArt",
-      "pontos": 42
-    },
-    {
-      "posicao": 5,
-      "academia": "AOJ",
-      "pontos": 40
-    },
-    {
-      "posicao": 6,
-      "academia": "CheckMat",
-      "pontos": 40
-    },
-    {
-      "posicao": 7,
-      "academia": "Vision",
-      "pontos": 32
-    },
-    {
-      "posicao": 8,
-      "academia": "JFC Almeida JJ",
-      "pontos": 21
-    },
-    {
-      "posicao": 9,
-      "academia": "Gracie Barra",
-      "pontos": 20
-    },
-    {
-      "posicao": 10,
-      "academia": "Infight JJ",
-      "pontos": 18
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "AOJ",
-      "pontos": 73
-    },
-    {
-      "posicao": 2,
-      "academia": "Alliance",
-      "pontos": 55
-    },
-    {
-      "posicao": 3,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 42
-    },
-    {
-      "posicao": 4,
-      "academia": "CheckMat",
-      "pontos": 31
-    },
-    {
-      "posicao": 5,
-      "academia": "Infight JJ",
-      "pontos": 26
-    },
-    {
-      "posicao": 6,
-      "academia": "Melqui Galvão Jiu-jitsu",
-      "pontos": 26
-    },
-    {
-      "posicao": 7,
-      "academia": "LEAD BJJ",
-      "pontos": 25
-    },
-    {
-      "posicao": 8,
-      "academia": "JFC Almeida JJ",
-      "pontos": 19
-    },
-    {
-      "posicao": 9,
-      "academia": "American Jiu-Jitsu Syndicate",
-      "pontos": 18
-    },
-    {
-      "posicao": 10,
-      "academia": "Gracie Barra",
-      "pontos": 18
-    }
-  ]
-}]

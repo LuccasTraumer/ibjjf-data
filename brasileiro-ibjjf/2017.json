@@ -14398,164 +14398,165 @@
         "academia": "N1 Academia de Artes Marciais"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Mirim": [
+        {
+          "posicao": 1,
+          "academia": "Gracie Barra",
+          "pontos": 71
+        },
+        {
+          "posicao": 2,
+          "academia": "GF Team",
+          "pontos": 35
+        },
+        {
+          "posicao": 3,
+          "academia": "Gracie Humaita RJ",
+          "pontos": 34
+        },
+        {
+          "posicao": 4,
+          "academia": "CheckMat",
+          "pontos": 28
+        },
+        {
+          "posicao": 5,
+          "academia": "Nova União",
+          "pontos": 26
+        },
+        {
+          "posicao": 6,
+          "academia": "Zenith BJJ",
+          "pontos": 26
+        },
+        {
+          "posicao": 7,
+          "academia": "Guigo JJ",
+          "pontos": 21
+        },
+        {
+          "posicao": 8,
+          "academia": "Alliance",
+          "pontos": 19
+        },
+        {
+          "posicao": 9,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 19
+        },
+        {
+          "posicao": 10,
+          "academia": "Carlson Gracie Clube",
+          "pontos": 18
+        }
+      ],
+      "Infantil": [
+        {
+          "posicao": 1,
+          "academia": "GF Team",
+          "pontos": 120
+        },
+        {
+          "posicao": 2,
+          "academia": "Nova União",
+          "pontos": 89
+        },
+        {
+          "posicao": 3,
+          "academia": "Gracie Barra",
+          "pontos": 74
+        },
+        {
+          "posicao": 4,
+          "academia": "Guetho Jiu-Jitsu",
+          "pontos": 66
+        },
+        {
+          "posicao": 5,
+          "academia": "Alliance",
+          "pontos": 46
+        },
+        {
+          "posicao": 6,
+          "academia": "LEAD BJJ",
+          "pontos": 43
+        },
+        {
+          "posicao": 7,
+          "academia": "Caio Terra Association Brasil",
+          "pontos": 43
+        },
+        {
+          "posicao": 8,
+          "academia": "Zenith BJJ",
+          "pontos": 31
+        },
+        {
+          "posicao": 9,
+          "academia": "Barbosa Jiu-Jitsu",
+          "pontos": 28
+        },
+        {
+          "posicao": 10,
+          "academia": "CheckMat",
+          "pontos": 27
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "GF Team",
+          "pontos": 111
+        },
+        {
+          "posicao": 2,
+          "academia": "Nova União",
+          "pontos": 52
+        },
+        {
+          "posicao": 3,
+          "academia": "Guigo JJ",
+          "pontos": 45
+        },
+        {
+          "posicao": 4,
+          "academia": "Infight JJ",
+          "pontos": 34
+        },
+        {
+          "posicao": 5,
+          "academia": "Gracie Barra",
+          "pontos": 31
+        },
+        {
+          "posicao": 6,
+          "academia": "Zenith BJJ",
+          "pontos": 22
+        },
+        {
+          "posicao": 7,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 19
+        },
+        {
+          "posicao": 8,
+          "academia": "Gracie Humaita",
+          "pontos": 18
+        },
+        {
+          "posicao": 9,
+          "academia": "CheckMat",
+          "pontos": 16
+        },
+        {
+          "posicao": 10,
+          "academia": "Caio Terra Association Brasil",
+          "pontos": 13
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Mirim": [
-    {
-      "posicao": 1,
-      "academia": "Gracie Barra",
-      "pontos": 71
-    },
-    {
-      "posicao": 2,
-      "academia": "GF Team",
-      "pontos": 35
-    },
-    {
-      "posicao": 3,
-      "academia": "Gracie Humaita RJ",
-      "pontos": 34
-    },
-    {
-      "posicao": 4,
-      "academia": "CheckMat",
-      "pontos": 28
-    },
-    {
-      "posicao": 5,
-      "academia": "Nova União",
-      "pontos": 26
-    },
-    {
-      "posicao": 6,
-      "academia": "Zenith BJJ",
-      "pontos": 26
-    },
-    {
-      "posicao": 7,
-      "academia": "Guigo JJ",
-      "pontos": 21
-    },
-    {
-      "posicao": 8,
-      "academia": "Alliance",
-      "pontos": 19
-    },
-    {
-      "posicao": 9,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 19
-    },
-    {
-      "posicao": 10,
-      "academia": "Carlson Gracie Clube",
-      "pontos": 18
-    }
-  ],
-  "Infantil": [
-    {
-      "posicao": 1,
-      "academia": "GF Team",
-      "pontos": 120
-    },
-    {
-      "posicao": 2,
-      "academia": "Nova União",
-      "pontos": 89
-    },
-    {
-      "posicao": 3,
-      "academia": "Gracie Barra",
-      "pontos": 74
-    },
-    {
-      "posicao": 4,
-      "academia": "Guetho Jiu-Jitsu",
-      "pontos": 66
-    },
-    {
-      "posicao": 5,
-      "academia": "Alliance",
-      "pontos": 46
-    },
-    {
-      "posicao": 6,
-      "academia": "LEAD BJJ",
-      "pontos": 43
-    },
-    {
-      "posicao": 7,
-      "academia": "Caio Terra Association Brasil",
-      "pontos": 43
-    },
-    {
-      "posicao": 8,
-      "academia": "Zenith BJJ",
-      "pontos": 31
-    },
-    {
-      "posicao": 9,
-      "academia": "Barbosa Jiu-Jitsu",
-      "pontos": 28
-    },
-    {
-      "posicao": 10,
-      "academia": "CheckMat",
-      "pontos": 27
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "GF Team",
-      "pontos": 111
-    },
-    {
-      "posicao": 2,
-      "academia": "Nova União",
-      "pontos": 52
-    },
-    {
-      "posicao": 3,
-      "academia": "Guigo JJ",
-      "pontos": 45
-    },
-    {
-      "posicao": 4,
-      "academia": "Infight JJ",
-      "pontos": 34
-    },
-    {
-      "posicao": 5,
-      "academia": "Gracie Barra",
-      "pontos": 31
-    },
-    {
-      "posicao": 6,
-      "academia": "Zenith BJJ",
-      "pontos": 22
-    },
-    {
-      "posicao": 7,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 19
-    },
-    {
-      "posicao": 8,
-      "academia": "Gracie Humaita",
-      "pontos": 18
-    },
-    {
-      "posicao": 9,
-      "academia": "CheckMat",
-      "pontos": 16
-    },
-    {
-      "posicao": 10,
-      "academia": "Caio Terra Association Brasil",
-      "pontos": 13
-    }
-  ]
-}]

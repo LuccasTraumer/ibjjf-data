@@ -10973,164 +10973,165 @@
         "academia": "Dutra Jiu-Jitsu"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Dream Art",
+          "pontos": 107
+        },
+        {
+          "posicao": 2,
+          "academia": "Cicero Costha Internacional",
+          "pontos": 46
+        },
+        {
+          "posicao": 3,
+          "academia": "GF Team",
+          "pontos": 41
+        },
+        {
+          "posicao": 4,
+          "academia": "Alliance",
+          "pontos": 33
+        },
+        {
+          "posicao": 5,
+          "academia": "Kronos BJJ",
+          "pontos": 30
+        },
+        {
+          "posicao": 6,
+          "academia": "Nova União",
+          "pontos": 28
+        },
+        {
+          "posicao": 7,
+          "academia": "Gracie Barra",
+          "pontos": 26
+        },
+        {
+          "posicao": 8,
+          "academia": "CheckMat",
+          "pontos": 22
+        },
+        {
+          "posicao": 9,
+          "academia": "Fight Sports Brasil",
+          "pontos": 20
+        },
+        {
+          "posicao": 10,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 19
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "GF Team",
+          "pontos": 85
+        },
+        {
+          "posicao": 2,
+          "academia": "Dream Art",
+          "pontos": 41
+        },
+        {
+          "posicao": 3,
+          "academia": "Alliance",
+          "pontos": 29
+        },
+        {
+          "posicao": 4,
+          "academia": "Infight JJ",
+          "pontos": 28
+        },
+        {
+          "posicao": 5,
+          "academia": "CheckMat",
+          "pontos": 28
+        },
+        {
+          "posicao": 6,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 22
+        },
+        {
+          "posicao": 7,
+          "academia": "Qatar BJJ / Vision Brasil",
+          "pontos": 21
+        },
+        {
+          "posicao": 8,
+          "academia": "Castro Team",
+          "pontos": 21
+        },
+        {
+          "posicao": 9,
+          "academia": "Gracie Barra",
+          "pontos": 19
+        },
+        {
+          "posicao": 10,
+          "academia": "Unity Jiu-jitsu",
+          "pontos": 15
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "CheckMat",
+          "pontos": 49
+        },
+        {
+          "posicao": 2,
+          "academia": "GF Team",
+          "pontos": 42
+        },
+        {
+          "posicao": 3,
+          "academia": "Nova União",
+          "pontos": 28
+        },
+        {
+          "posicao": 4,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 27
+        },
+        {
+          "posicao": 5,
+          "academia": "Qatar BJJ / Vision Brasil",
+          "pontos": 22
+        },
+        {
+          "posicao": 6,
+          "academia": "Zenith BJJ",
+          "pontos": 21
+        },
+        {
+          "posicao": 7,
+          "academia": "Double Five",
+          "pontos": 21
+        },
+        {
+          "posicao": 8,
+          "academia": "Six Blades Jiu-Jitsu",
+          "pontos": 18
+        },
+        {
+          "posicao": 9,
+          "academia": "LEAD BJJ",
+          "pontos": 18
+        },
+        {
+          "posicao": 10,
+          "academia": "Nabil Jiu-Jitsu",
+          "pontos": 18
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Dream Art",
-      "pontos": 107
-    },
-    {
-      "posicao": 2,
-      "academia": "Cicero Costha Internacional",
-      "pontos": 46
-    },
-    {
-      "posicao": 3,
-      "academia": "GF Team",
-      "pontos": 41
-    },
-    {
-      "posicao": 4,
-      "academia": "Alliance",
-      "pontos": 33
-    },
-    {
-      "posicao": 5,
-      "academia": "Kronos BJJ",
-      "pontos": 30
-    },
-    {
-      "posicao": 6,
-      "academia": "Nova União",
-      "pontos": 28
-    },
-    {
-      "posicao": 7,
-      "academia": "Gracie Barra",
-      "pontos": 26
-    },
-    {
-      "posicao": 8,
-      "academia": "CheckMat",
-      "pontos": 22
-    },
-    {
-      "posicao": 9,
-      "academia": "Fight Sports Brasil",
-      "pontos": 20
-    },
-    {
-      "posicao": 10,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 19
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "GF Team",
-      "pontos": 85
-    },
-    {
-      "posicao": 2,
-      "academia": "Dream Art",
-      "pontos": 41
-    },
-    {
-      "posicao": 3,
-      "academia": "Alliance",
-      "pontos": 29
-    },
-    {
-      "posicao": 4,
-      "academia": "Infight JJ",
-      "pontos": 28
-    },
-    {
-      "posicao": 5,
-      "academia": "CheckMat",
-      "pontos": 28
-    },
-    {
-      "posicao": 6,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 22
-    },
-    {
-      "posicao": 7,
-      "academia": "Qatar BJJ / Vision Brasil",
-      "pontos": 21
-    },
-    {
-      "posicao": 8,
-      "academia": "Castro Team",
-      "pontos": 21
-    },
-    {
-      "posicao": 9,
-      "academia": "Gracie Barra",
-      "pontos": 19
-    },
-    {
-      "posicao": 10,
-      "academia": "Unity Jiu-jitsu",
-      "pontos": 15
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "CheckMat",
-      "pontos": 49
-    },
-    {
-      "posicao": 2,
-      "academia": "GF Team",
-      "pontos": 42
-    },
-    {
-      "posicao": 3,
-      "academia": "Nova União",
-      "pontos": 28
-    },
-    {
-      "posicao": 4,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 27
-    },
-    {
-      "posicao": 5,
-      "academia": "Qatar BJJ / Vision Brasil",
-      "pontos": 22
-    },
-    {
-      "posicao": 6,
-      "academia": "Zenith BJJ",
-      "pontos": 21
-    },
-    {
-      "posicao": 7,
-      "academia": "Double Five",
-      "pontos": 21
-    },
-    {
-      "posicao": 8,
-      "academia": "Six Blades Jiu-Jitsu",
-      "pontos": 18
-    },
-    {
-      "posicao": 9,
-      "academia": "LEAD BJJ",
-      "pontos": 18
-    },
-    {
-      "posicao": 10,
-      "academia": "Nabil Jiu-Jitsu",
-      "pontos": 18
-    }
-  ]
-}]

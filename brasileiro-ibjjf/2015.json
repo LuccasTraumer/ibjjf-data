@@ -10648,268 +10648,269 @@
         "academia": "Zenith BJJ"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Mirim": [
+        {
+          "posicao": 1,
+          "academia": "Geração UPP",
+          "pontos": 51
+        },
+        {
+          "posicao": 2,
+          "academia": "Gracie Barra",
+          "pontos": 27
+        },
+        {
+          "posicao": 3,
+          "academia": "Nova União",
+          "pontos": 23
+        },
+        {
+          "posicao": 4,
+          "academia": "Gordo Jiu-Jitsu",
+          "pontos": 21
+        },
+        {
+          "posicao": 5,
+          "academia": "IFC Life Brothers",
+          "pontos": 12
+        },
+        {
+          "posicao": 6,
+          "academia": "Infight Jiu-Jitsu",
+          "pontos": 12
+        },
+        {
+          "posicao": 7,
+          "academia": "Gracie Humaita",
+          "pontos": 12
+        },
+        {
+          "posicao": 8,
+          "academia": "Calasans BJJ",
+          "pontos": 12
+        },
+        {
+          "posicao": 9,
+          "academia": "Zenith BJJ",
+          "pontos": 10
+        },
+        {
+          "posicao": 10,
+          "academia": "GF Team",
+          "pontos": 10
+        }
+      ],
+      "Infantil": [
+        {
+          "posicao": 1,
+          "academia": "Geração UPP",
+          "pontos": 85
+        },
+        {
+          "posicao": 2,
+          "academia": "GF Team",
+          "pontos": 53
+        },
+        {
+          "posicao": 3,
+          "academia": "Nova União",
+          "pontos": 47
+        },
+        {
+          "posicao": 4,
+          "academia": "Zenith BJJ",
+          "pontos": 45
+        },
+        {
+          "posicao": 5,
+          "academia": "Projeto Drive-In",
+          "pontos": 32
+        },
+        {
+          "posicao": 6,
+          "academia": "CheckMat",
+          "pontos": 26
+        },
+        {
+          "posicao": 7,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 25
+        },
+        {
+          "posicao": 8,
+          "academia": "IFC Life Brothers",
+          "pontos": 22
+        },
+        {
+          "posicao": 9,
+          "academia": "Garra Office BJJ",
+          "pontos": 19
+        },
+        {
+          "posicao": 10,
+          "academia": "Gracie Barra Amazonas",
+          "pontos": 18
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "Zenith BJJ",
+          "pontos": 61
+        },
+        {
+          "posicao": 2,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 48
+        },
+        {
+          "posicao": 3,
+          "academia": "Gracie Barra",
+          "pontos": 30
+        },
+        {
+          "posicao": 4,
+          "academia": "CheckMat",
+          "pontos": 26
+        },
+        {
+          "posicao": 5,
+          "academia": "CT MR",
+          "pontos": 23
+        },
+        {
+          "posicao": 6,
+          "academia": "Associação Oriente",
+          "pontos": 20
+        },
+        {
+          "posicao": 7,
+          "academia": "GF Team",
+          "pontos": 16
+        },
+        {
+          "posicao": 8,
+          "academia": "Game Fight BJJ/Manimal",
+          "pontos": 14
+        },
+        {
+          "posicao": 9,
+          "academia": "Nova União",
+          "pontos": 14
+        },
+        {
+          "posicao": 10,
+          "academia": "Gordo Jiu-Jitsu",
+          "pontos": 12
+        }
+      ],
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 110
+        },
+        {
+          "posicao": 2,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 98
+        },
+        {
+          "posicao": 3,
+          "academia": "Gracie Barra",
+          "pontos": 44
+        },
+        {
+          "posicao": 4,
+          "academia": "Nova União",
+          "pontos": 43
+        },
+        {
+          "posicao": 5,
+          "academia": "CheckMat",
+          "pontos": 34
+        },
+        {
+          "posicao": 6,
+          "academia": "GF Team",
+          "pontos": 30
+        },
+        {
+          "posicao": 7,
+          "academia": "Guigo JJ",
+          "pontos": 29
+        },
+        {
+          "posicao": 8,
+          "academia": "Zenith BJJ",
+          "pontos": 26
+        },
+        {
+          "posicao": 9,
+          "academia": "Soul Fighters BJJ",
+          "pontos": 21
+        },
+        {
+          "posicao": 10,
+          "academia": "Ryan Gracie Team",
+          "pontos": 19
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "Alliance",
+          "pontos": 91
+        },
+        {
+          "posicao": 2,
+          "academia": "GF Team",
+          "pontos": 59
+        },
+        {
+          "posicao": 3,
+          "academia": "CheckMat",
+          "pontos": 38
+        },
+        {
+          "posicao": 4,
+          "academia": "Gracie Barra",
+          "pontos": 33
+        },
+        {
+          "posicao": 5,
+          "academia": "Ryan Gracie Team",
+          "pontos": 27
+        },
+        {
+          "posicao": 6,
+          "academia": "PSLPB Cicero Costha",
+          "pontos": 23
+        },
+        {
+          "posicao": 7,
+          "academia": "Nova União",
+          "pontos": 22
+        },
+        {
+          "posicao": 8,
+          "academia": "Zenith BJJ",
+          "pontos": 13
+        },
+        {
+          "posicao": 9,
+          "academia": "Striker JJ",
+          "pontos": 12
+        },
+        {
+          "posicao": 10,
+          "academia": "Gracie Humaita",
+          "pontos": 11
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias": [{
-  "Mirim": [
-    {
-      "posicao": 1,
-      "academia": "Geração UPP",
-      "pontos": 51
-    },
-    {
-      "posicao": 2,
-      "academia": "Gracie Barra",
-      "pontos": 27
-    },
-    {
-      "posicao": 3,
-      "academia": "Nova União",
-      "pontos": 23
-    },
-    {
-      "posicao": 4,
-      "academia": "Gordo Jiu-Jitsu",
-      "pontos": 21
-    },
-    {
-      "posicao": 5,
-      "academia": "IFC Life Brothers",
-      "pontos": 12
-    },
-    {
-      "posicao": 6,
-      "academia": "Infight Jiu-Jitsu",
-      "pontos": 12
-    },
-    {
-      "posicao": 7,
-      "academia": "Gracie Humaita",
-      "pontos": 12
-    },
-    {
-      "posicao": 8,
-      "academia": "Calasans BJJ",
-      "pontos": 12
-    },
-    {
-      "posicao": 9,
-      "academia": "Zenith BJJ",
-      "pontos": 10
-    },
-    {
-      "posicao": 10,
-      "academia": "GF Team",
-      "pontos": 10
-    }
-  ],
-  "Infantil": [
-    {
-      "posicao": 1,
-      "academia": "Geração UPP",
-      "pontos": 85
-    },
-    {
-      "posicao": 2,
-      "academia": "GF Team",
-      "pontos": 53
-    },
-    {
-      "posicao": 3,
-      "academia": "Nova União",
-      "pontos": 47
-    },
-    {
-      "posicao": 4,
-      "academia": "Zenith BJJ",
-      "pontos": 45
-    },
-    {
-      "posicao": 5,
-      "academia": "Projeto Drive-In",
-      "pontos": 32
-    },
-    {
-      "posicao": 6,
-      "academia": "CheckMat",
-      "pontos": 26
-    },
-    {
-      "posicao": 7,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 25
-    },
-    {
-      "posicao": 8,
-      "academia": "IFC Life Brothers",
-      "pontos": 22
-    },
-    {
-      "posicao": 9,
-      "academia": "Garra Office BJJ",
-      "pontos": 19
-    },
-    {
-      "posicao": 10,
-      "academia": "Gracie Barra Amazonas",
-      "pontos": 18
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "Zenith BJJ",
-      "pontos": 61
-    },
-    {
-      "posicao": 2,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 48
-    },
-    {
-      "posicao": 3,
-      "academia": "Gracie Barra",
-      "pontos": 30
-    },
-    {
-      "posicao": 4,
-      "academia": "CheckMat",
-      "pontos": 26
-    },
-    {
-      "posicao": 5,
-      "academia": "CT MR",
-      "pontos": 23
-    },
-    {
-      "posicao": 6,
-      "academia": "Associação Oriente",
-      "pontos": 20
-    },
-    {
-      "posicao": 7,
-      "academia": "GF Team",
-      "pontos": 16
-    },
-    {
-      "posicao": 8,
-      "academia": "Game Fight BJJ/Manimal",
-      "pontos": 14
-    },
-    {
-      "posicao": 9,
-      "academia": "Nova União",
-      "pontos": 14
-    },
-    {
-      "posicao": 10,
-      "academia": "Gordo Jiu-Jitsu",
-      "pontos": 12
-    }
-  ],
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 110
-    },
-    {
-      "posicao": 2,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 98
-    },
-    {
-      "posicao": 3,
-      "academia": "Gracie Barra",
-      "pontos": 44
-    },
-    {
-      "posicao": 4,
-      "academia": "Nova União",
-      "pontos": 43
-    },
-    {
-      "posicao": 5,
-      "academia": "CheckMat",
-      "pontos": 34
-    },
-    {
-      "posicao": 6,
-      "academia": "GF Team",
-      "pontos": 30
-    },
-    {
-      "posicao": 7,
-      "academia": "Guigo JJ",
-      "pontos": 29
-    },
-    {
-      "posicao": 8,
-      "academia": "Zenith BJJ",
-      "pontos": 26
-    },
-    {
-      "posicao": 9,
-      "academia": "Soul Fighters BJJ",
-      "pontos": 21
-    },
-    {
-      "posicao": 10,
-      "academia": "Ryan Gracie Team",
-      "pontos": 19
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "Alliance",
-      "pontos": 91
-    },
-    {
-      "posicao": 2,
-      "academia": "GF Team",
-      "pontos": 59
-    },
-    {
-      "posicao": 3,
-      "academia": "CheckMat",
-      "pontos": 38
-    },
-    {
-      "posicao": 4,
-      "academia": "Gracie Barra",
-      "pontos": 33
-    },
-    {
-      "posicao": 5,
-      "academia": "Ryan Gracie Team",
-      "pontos": 27
-    },
-    {
-      "posicao": 6,
-      "academia": "PSLPB Cicero Costha",
-      "pontos": 23
-    },
-    {
-      "posicao": 7,
-      "academia": "Nova União",
-      "pontos": 22
-    },
-    {
-      "posicao": 8,
-      "academia": "Zenith BJJ",
-      "pontos": 13
-    },
-    {
-      "posicao": 9,
-      "academia": "Striker JJ",
-      "pontos": 12
-    },
-    {
-      "posicao": 10,
-      "academia": "Gracie Humaita",
-      "pontos": 11
-    }
-  ]
-}]

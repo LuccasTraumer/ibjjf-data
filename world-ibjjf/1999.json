@@ -1,1184 +1,2009 @@
 [
   {
-    "category": "JUVENILE / BLUE / MALE / ROOSTER",
-    "athleteName": "Ranyyahya\nAtaide Jr",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / ROOSTER",
-    "athleteName": "Paulo Roberto Camos\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / ROOSTER",
-    "athleteName": "Julio Cezar\nUgf",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / ROOSTER",
-    "athleteName": "Eduardo Ramos\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / LIGHT FEATHER",
-    "athleteName": "Celso Vinicius\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / LIGHT FEATHER",
-    "athleteName": "Armando Guedes\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / LIGHT FEATHER",
-    "athleteName": "Manoel Junior\nAlexey Cruz",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / LIGHT FEATHER",
-    "athleteName": "Rodrigo Da Silva\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / FEATHER",
-    "athleteName": "Bruno Becco\nGracie Tijuca",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / FEATHER",
-    "athleteName": "Frederico Mazala\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / FEATHER",
-    "athleteName": "Gustavo Falciroli\nMaromba",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / FEATHER",
-    "athleteName": "Tiago Bastos\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / LIGHT",
-    "athleteName": "Wagner Nascimento\nStrauch",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / LIGHT",
-    "athleteName": "Vinicius Santiago\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / LIGHT",
-    "athleteName": "Demian Skinase\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / LIGHT",
-    "athleteName": "Ricardo Castro\nUniao Goias",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / MIDDLE",
-    "athleteName": "Andre Julio\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / MIDDLE",
-    "athleteName": "Igor Souto\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / MIDDLE",
-    "athleteName": "Augusto Porto\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / MIDDLE",
-    "athleteName": "Mario Regia\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / MEDIUM HEAVY",
-    "athleteName": "Rafael C. Branco\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / MEDIUM HEAVY",
-    "athleteName": "Fabricio Prantera\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / MEDIUM HEAVY",
-    "athleteName": "Daniel Sherman\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / MEDIUM HEAVY",
-    "athleteName": "Roberto Piaza\nAtaque Duplo",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / HEAVY",
-    "athleteName": "Marcelo Garcia\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / HEAVY",
-    "athleteName": "Ronald Santos\nUgf",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / HEAVY",
-    "athleteName": "Rodrigo Almeida\nSaporito",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / HEAVY",
-    "athleteName": "Marco Antonio\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / SUPER HEAVY",
-    "athleteName": "Carlos Macedo\nGodoi/Macaco",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / SUPER HEAVY",
-    "athleteName": "Patrick Maximiniano\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / SUPER HEAVY",
-    "athleteName": "Fabricio Monteiro\nPitbull",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / SUPER HEAVY",
-    "athleteName": "Vitor Hugo\nAndrade Jiu-Jitsu",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / ULTRA HEAVY",
-    "athleteName": "Francisco Fernandes\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / ULTRA HEAVY",
-    "athleteName": "Tiago De Lima\nJorge Cruz",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / ULTRA HEAVY",
-    "athleteName": "Marc Romano\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / ULTRA HEAVY",
-    "athleteName": "Danilo Pereira\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / OPEN CLASS",
-    "athleteName": "Francisco Fernandes\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / OPEN CLASS",
-    "athleteName": "Carlos Eduardo Barbalho\nKioto",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / OPEN CLASS",
-    "athleteName": "Rafael Castelo Branco\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "JUVENILE / BLUE / MALE / OPEN CLASS",
-    "athleteName": "Danilo Pereira\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / ROOSTER",
-    "athleteName": "Bruno Sena\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / ROOSTER",
-    "athleteName": "Rafael Rabelo\nBolao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / ROOSTER",
-    "athleteName": "Daive Herison\nNova Uniao Campos",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / ROOSTER",
-    "athleteName": "Rhuando Cavalcanti\nUnião Goias",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / LIGHT FEATHER",
-    "athleteName": "Tiago Fernandes\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / LIGHT FEATHER",
-    "athleteName": "Andre Taba\nInfight",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / LIGHT FEATHER",
-    "athleteName": "Rodrigo Cordeiro\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / LIGHT FEATHER",
-    "athleteName": "Marcelinho Freitas\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / FEATHER",
-    "athleteName": "Clauz Rodrigo\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / FEATHER",
-    "athleteName": "Adolfo Nardy\nInfight",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / FEATHER",
-    "athleteName": "Reinaldo Boa Morte\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / FEATHER",
-    "athleteName": "Michel Maia\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / LIGHT",
-    "athleteName": "Luciano De Paula\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / LIGHT",
-    "athleteName": "Ronaldo Sintra\nOswaldo Alves",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / LIGHT",
-    "athleteName": "Cleber Teixeira\nCarlos Henrique",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / LIGHT",
-    "athleteName": "Marcelo Ricci\nGodoi/Macaco",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / MIDDLE",
-    "athleteName": "Erick Cardoso\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / MIDDLE",
-    "athleteName": "Demian Maia\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / MIDDLE",
-    "athleteName": "Fabio Nascimento\nLotus Clube",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / MIDDLE",
-    "athleteName": "Gustavo Santos\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / MEDIUM HEAVY",
-    "athleteName": "Andre Felix\nCrolin Gracie",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / MEDIUM HEAVY",
-    "athleteName": "Gustavo Gussem\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / MEDIUM HEAVY",
-    "athleteName": "Ivan Fanton\nRenzo Gracie",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / MEDIUM HEAVY",
-    "athleteName": "Dionisiop Bechara\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / HEAVY",
-    "athleteName": "Fernando Paradena\nSul Jiu-Jitsu",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / HEAVY",
-    "athleteName": "Rick Migliarese\nRelson Gracie",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / HEAVY",
-    "athleteName": "Roberto Mota\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / HEAVY",
-    "athleteName": "Jamie Alexandrino\nLotus Club",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / SUPER HEAVY",
-    "athleteName": "Adalberto Junior\nSul Jiu-Jitsu",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / SUPER HEAVY",
-    "athleteName": "Felipe Esteves\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / SUPER HEAVY",
-    "athleteName": "Rodrigo Asmus\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / SUPER HEAVY",
-    "athleteName": "Antoni Peroshi\nMachado",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / ULTRA HEAVY",
-    "athleteName": "Seth Woodwill\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / ULTRA HEAVY",
-    "athleteName": "Ero Nascimento\nTanque",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / ULTRA HEAVY",
-    "athleteName": "Claudio Bonfim\nThe Brites Family",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / ULTRA HEAVY",
-    "athleteName": "Alexandre Petraglia\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / OPEN CLASS",
-    "athleteName": "Eduardo Nogueira\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / OPEN CLASS",
-    "athleteName": "Seth Woodwill\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / OPEN CLASS",
-    "athleteName": "Luiz Felipe\nAndrade Jiu-Jitsu",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / MALE / OPEN CLASS",
-    "athleteName": "Gabriel Clementenucci\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / ROOSTER",
-    "athleteName": "Jorge Coelho\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / ROOSTER",
-    "athleteName": "Vinicius Pedrosa\nUgf",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / ROOSTER",
-    "athleteName": "Alexandre Verdan\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / ROOSTER",
-    "athleteName": "Arlisson Melo\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / LIGHT FEATHER",
-    "athleteName": "Carlos Lemos\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / LIGHT FEATHER",
-    "athleteName": "Marcos Maia\nUgf",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / LIGHT FEATHER",
-    "athleteName": "Otavio Viana\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / LIGHT FEATHER",
-    "athleteName": "Marcelo Splinter\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / FEATHER",
-    "athleteName": "Reinaldo Ribeiro\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / FEATHER",
-    "athleteName": "Renato Migliatcho\nGracie Sp",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / FEATHER",
-    "athleteName": "Luciano Nucci\nGracie Sp",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / FEATHER",
-    "athleteName": "Daniel Moraes\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / LIGHT",
-    "athleteName": "Alexandre Ribeiro\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / LIGHT",
-    "athleteName": "Ricardo Bastos\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / LIGHT",
-    "athleteName": "Daniel Dias\nGracie Tijuca",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / LIGHT",
-    "athleteName": "Joao Junior\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / MIDDLE",
-    "athleteName": "Rodrigo Pinheiro\nOswaldo Alves",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / MIDDLE",
-    "athleteName": "Albert Cray\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / MIDDLE",
-    "athleteName": "Regis Lebre\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / MIDDLE",
-    "athleteName": "Carlos Augusto\nGracie Barra Bh",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / MEDIUM HEAVY",
-    "athleteName": "Marcos Valle\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / MEDIUM HEAVY",
-    "athleteName": "Adriano Maciel\nGodoi/Macaco",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / MEDIUM HEAVY",
-    "athleteName": "Max Araujo\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / MEDIUM HEAVY",
-    "athleteName": "Lucio Linhares\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / HEAVY",
-    "athleteName": "Marcio Ribeiro\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / HEAVY",
-    "athleteName": "Carlos Nelson\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / HEAVY",
-    "athleteName": "Cristiano Lazarini\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / HEAVY",
-    "athleteName": "Raulinson Augusto\nThe Brites Family",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / SUPER HEAVY",
-    "athleteName": "Matheus Miranda\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / SUPER HEAVY",
-    "athleteName": "Jorge Oliveira\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / SUPER HEAVY",
-    "athleteName": "Rolles Gracie\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / SUPER HEAVY",
-    "athleteName": "Fabio Prado\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / ULTRA HEAVY",
-    "athleteName": "Garth Taylor\nClaudio França",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / ULTRA HEAVY",
-    "athleteName": "Eduardo Telles\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / ULTRA HEAVY",
-    "athleteName": "Alex Pags\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / ULTRA HEAVY",
-    "athleteName": "Walter Pinto\nAlexey Cruz",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / OPEN CLASS",
-    "athleteName": "Eduardo Santoro\nCia Paulista",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / OPEN CLASS",
-    "athleteName": "Alex Pags\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / OPEN CLASS",
-    "athleteName": "Garth Taylor\nClaudio França",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE / MALE / OPEN CLASS",
-    "athleteName": "Rico Rodrigues\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / ROOSTER",
-    "athleteName": "Ricardo Brandão\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / ROOSTER",
-    "athleteName": "Joelson Souza\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / ROOSTER",
-    "athleteName": "Bernardo Pitel\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / ROOSTER",
-    "athleteName": "Vinicius Gayva\nBolao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / LIGHT FEATHER",
-    "athleteName": "Ricardo Vieira\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / LIGHT FEATHER",
-    "athleteName": "Rodnei Duvale\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / LIGHT FEATHER",
-    "athleteName": "Marcos Mello\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / LIGHT FEATHER",
-    "athleteName": "Sandro Santiago\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / FEATHER",
-    "athleteName": "Edson Diniz\nInfight",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / FEATHER",
-    "athleteName": "Gabriel Cardoso\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / FEATHER",
-    "athleteName": "Rodrigo Antonio\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / FEATHER",
-    "athleteName": "Adriano Lucio\nBolao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / LIGHT",
-    "athleteName": "Fernando Augusto\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / LIGHT",
-    "athleteName": "Cristiano Ribeiro\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / LIGHT",
-    "athleteName": "Bj penn\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / LIGHT",
-    "athleteName": "Cristiano Marcelo\nGracie Tijuca",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / MIDDLE",
-    "athleteName": "Renato Miraguaia\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / MIDDLE",
-    "athleteName": "Bruno Fernandes\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / MIDDLE",
-    "athleteName": "Renato Silva\nGracie Barra Bh",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / MIDDLE",
-    "athleteName": "Malt Serra\nRenzo Gracie",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / MEDIUM HEAVY",
-    "athleteName": "Flavio Almeida\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / MEDIUM HEAVY",
-    "athleteName": "Jair Gonçalves\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / MEDIUM HEAVY",
-    "athleteName": "Fernando Pontes\nGodoi/Macaco",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / MEDIUM HEAVY",
-    "athleteName": "Bruno Raso\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / HEAVY",
-    "athleteName": "Ricardo Arona\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / HEAVY",
-    "athleteName": "Fabio Leopoldo\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / HEAVY",
-    "athleteName": "Erick Wanderley\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / HEAVY",
-    "athleteName": "Gabriel Napão\nJorge Pereira",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / SUPER HEAVY",
-    "athleteName": "Alexandre Dantas\nDojo",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / SUPER HEAVY",
-    "athleteName": "Francisco Nonato\nOswaldo Alves",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / SUPER HEAVY",
-    "athleteName": "Luiz Gustavo\nTanque",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / SUPER HEAVY",
-    "athleteName": "Marcelo Lucena\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / ULTRA HEAVY",
-    "athleteName": "Aurelio Fernandes\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / ULTRA HEAVY",
-    "athleteName": "Marco Corleta\nBehring",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / ULTRA HEAVY",
-    "athleteName": "Marcelo Clemente\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / ULTRA HEAVY",
-    "athleteName": "Antonio Marcos\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / OPEN CLASS",
-    "athleteName": "Aurelio Fernandes\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / OPEN CLASS",
-    "athleteName": "Ricardo Arona\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / OPEN CLASS",
-    "athleteName": "Fernando Pontes\nGodoi/Macaco",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BROWN / MALE / OPEN CLASS",
-    "athleteName": "Alexandre Dantas\nDojo/Machado",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / ROOSTER",
-    "athleteName": "Omar Salum\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / ROOSTER",
-    "athleteName": "Ralph Pires\nWall Street",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / ROOSTER",
-    "athleteName": "Sergio Torres\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / ROOSTER",
-    "athleteName": "Pablo Ian\nBolao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / LIGHT FEATHER",
-    "athleteName": "Robson Moura\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / LIGHT FEATHER",
-    "athleteName": "Vinicius Cruz\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / LIGHT FEATHER",
-    "athleteName": "Bruno Ximenes\nBolao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / LIGHT FEATHER",
-    "athleteName": "Paulo Sergio\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / FEATHER",
-    "athleteName": "Royler Gracie\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / FEATHER",
-    "athleteName": "Leonardo Vieira\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / FEATHER",
-    "athleteName": "Vinicius Magalhães\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / FEATHER",
-    "athleteName": "Marcos Barbosa\nGodoi/Macaco",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / LIGHT",
-    "athleteName": "Vitor Ribeiro\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / LIGHT",
-    "athleteName": "Marcio Feitosa\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / LIGHT",
-    "athleteName": "Renato Barreto\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / LIGHT",
-    "athleteName": "Wellington Dias\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / MIDDLE",
-    "athleteName": "Alexandre Paiva\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / MIDDLE",
-    "athleteName": "Roberto Atalla\nBolao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / MIDDLE",
-    "athleteName": "Haroldo Vitoriano\nMaster Atlanta",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / MIDDLE",
-    "athleteName": "Suian Queiroz\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / MEDIUM HEAVY",
-    "athleteName": "Saulo Ribeiro\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / MEDIUM HEAVY",
-    "athleteName": "Roberto Magalhães\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / MEDIUM HEAVY",
-    "athleteName": "Ze Marcelo\nCarlson Lagoa",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / MEDIUM HEAVY",
-    "athleteName": "Amauri Bitetti\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / HEAVY",
-    "athleteName": "Murilo Bustamante\nCarlson Lagoa",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / HEAVY",
-    "athleteName": "Paulo Filho\nCarlson Lagoa",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / HEAVY",
-    "athleteName": "Fabio Gurgel\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / HEAVY",
-    "athleteName": "Leonardo Dalla\nJorge Pereira",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / SUPER HEAVY",
-    "athleteName": "Leonardo Leite\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / SUPER HEAVY",
-    "athleteName": "Jose Mario\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / SUPER HEAVY",
-    "athleteName": "Claudio Moreno\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / SUPER HEAVY",
-    "athleteName": "Daniel Simoes\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / ULTRA HEAVY",
-    "athleteName": "Roberto Traven\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / ULTRA HEAVY",
-    "athleteName": "Leonardo Castello Branco\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / ULTRA HEAVY",
-    "athleteName": "Andre Mendes\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / ULTRA HEAVY",
-    "athleteName": "Jose Mario Mc Coord\nMaster Atlanta",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / OPEN CLASS",
-    "athleteName": "Rodrigo Madeiros\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / OPEN CLASS",
-    "athleteName": "Roberto Magalhães\nGracie Barra",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / OPEN CLASS",
-    "athleteName": "Antonio Nogueira\nDe La Riva",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLACK / MALE / OPEN CLASS",
-    "athleteName": "Jose Mario\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / FEMALE / FEATHER",
-    "athleteName": "Kelly Magalhães\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / FEMALE / FEATHER",
-    "athleteName": "Nadia Melo\nUgf",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / FEMALE / FEATHER",
-    "athleteName": "Viviane Caixeta\nUgf",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / FEMALE / FEATHER",
-    "athleteName": "Liliane Da Silva\nCarlos Rolinson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / FEMALE / MIDDLE",
-    "athleteName": "Nely Miranda\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / FEMALE / MIDDLE",
-    "athleteName": "Gabriela Bermudes\nCarlson",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / FEMALE / MIDDLE",
-    "athleteName": "Carine De Jesus\nMaromba",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / FEMALE / MIDDLE",
-    "athleteName": "Analia Xavier\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / FEMALE / HEAVY",
-    "athleteName": "Luzia Fernandes\nDetonando",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / FEMALE / HEAVY",
-    "athleteName": "Camila Silva\nUgf",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / FEMALE / HEAVY",
-    "athleteName": "Fabiola Silva\nUgf",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / BLUE / FEMALE / HEAVY",
-    "athleteName": "Michele Develard\nBreda",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE BROWN BLACK / FEMALE / FEATHER",
-    "athleteName": "Alessandra Vieira\nDojo/Machado",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE BROWN BLACK / FEMALE / FEATHER",
-    "athleteName": "Daniela Figueredo\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE BROWN BLACK / FEMALE / FEATHER",
-    "athleteName": "Leticia Ribeiro\nGracie Humaita",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE BROWN BLACK / FEMALE / FEATHER",
-    "athleteName": "Fernanda Bastos\nUgf",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE BROWN BLACK / FEMALE / MIDDLE",
-    "athleteName": "Alessandra Oliveira\nAlliance",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE BROWN BLACK / FEMALE / MIDDLE",
-    "athleteName": "Erica Paes\nOswaldo Alves",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE BROWN BLACK / FEMALE / MIDDLE",
-    "athleteName": "Janaina Ventura\nBraz. Fight/Manimal",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE BROWN BLACK / FEMALE / MIDDLE",
-    "athleteName": "Alexandra Correa\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE BROWN BLACK / FEMALE / HEAVY",
-    "athleteName": "Cristina Pereira\nNova Uniao",
-    "academy": ""
-  },
-  {
-    "category": "ADULT / PURPLE BROWN BLACK / FEMALE / HEAVY",
-    "athleteName": "Andrea Pereira\nLeão Dourado",
-    "academy": ""
-  }
-]
-
-// Academias:
-"rankingAcademias": [
-  {
-    "academyName": "",
-    "address": "",
-    "categories": [
+    "categoria": "JUVENILE / BLUE / MALE / ROOSTER",
+    "ranking": [
       {
-        "categoryName": "ADULT MALE",
-        "ranking": [
-          {
-            "place": "1",
-            "name": "Alliance",
-            "points": ""
-          },
-          {
-            "place": "2",
-            "name": "Gracie Barra",
-            "points": ""
-          },
-          {
-            "place": "3",
-            "name": "Nova Uniao",
-            "points": ""
-          }
-        ]
-      },
-      {
-        "categoryName": "ADULT FEMALE",
-        "ranking": [
-          {
-            "place": "1",
-            "name": "Alliance",
-            "points": ""
-          },
-          {
-            "place": "2",
-            "name": "Nova Uniao",
-            "points": ""
-          },
-          {
-            "place": "3",
-            "name": "Gracie Humaita",
-            "points": ""
-          }
-        ]
-      },
-      {
-        "categoryName": "JUVENILE",
-        "ranking": [
-          {
-            "place": "1",
-            "name": "Gracie Barra",
-            "points": ""
-          },
-          {
-            "place": "2",
-            "name": "Alliance",
-            "points": ""
-          },
-          {
-            "place": "3",
-            "name": "Nova Uniao",
-            "points": ""
-          }
-        ]
+        "nome": "Ranyyahya",
+        "academia": ""
       }
     ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Paulo Roberto Camos",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Julio Cezar",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Eduardo Ramos",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Celso Vinicius",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Armando Guedes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Manoel Junior",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Rodrigo Da Silva",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Bruno Becco",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Frederico Mazala",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Gustavo Falciroli",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Tiago Bastos",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Wagner Nascimento",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Vinicius Santiago",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Demian Skinase",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Ricardo Castro",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Andre Julio",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Igor Souto",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Augusto Porto",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Mario Regia",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Rafael C. Branco",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Fabricio Prantera",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Daniel Sherman",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Roberto Piaza",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Marcelo Garcia",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Ronald Santos",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Rodrigo Almeida",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Marco Antonio",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Carlos Macedo",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Patrick Maximiniano",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Fabricio Monteiro",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Vitor Hugo",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Francisco Fernandes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Tiago De Lima",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Marc Romano",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Danilo Pereira",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Francisco Fernandes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Carlos Eduardo Barbalho",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Rafael Castelo Branco",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "JUVENILE / BLUE / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Danilo Pereira",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Bruno Sena",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Rafael Rabelo",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Daive Herison",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Rhuando Cavalcanti",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Tiago Fernandes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Andre Taba",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Rodrigo Cordeiro",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Marcelinho Freitas",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Clauz Rodrigo",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Adolfo Nardy",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Reinaldo Boa Morte",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Michel Maia",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Luciano De Paula",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Ronaldo Sintra",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Cleber Teixeira",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Marcelo Ricci",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Erick Cardoso",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Demian Maia",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Fabio Nascimento",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Gustavo Santos",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Andre Felix",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Gustavo Gussem",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Ivan Fanton",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Dionisiop Bechara",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Fernando Paradena",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Rick Migliarese",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Roberto Mota",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Jamie Alexandrino",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Adalberto Junior",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Felipe Esteves",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Rodrigo Asmus",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Antoni Peroshi",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Seth Woodwill",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Ero Nascimento",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Claudio Bonfim",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Alexandre Petraglia",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Eduardo Nogueira",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Seth Woodwill",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Luiz Felipe",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Gabriel Clementenucci",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Jorge Coelho",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Vinicius Pedrosa",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Alexandre Verdan",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Arlisson Melo",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Carlos Lemos",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Marcos Maia",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Otavio Viana",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Marcelo Splinter",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Reinaldo Ribeiro",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Renato Migliatcho",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Luciano Nucci",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Daniel Moraes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Alexandre Ribeiro",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Ricardo Bastos",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Daniel Dias",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Joao Junior",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Rodrigo Pinheiro",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Albert Cray",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Regis Lebre",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Carlos Augusto",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Marcos Valle",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Adriano Maciel",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Max Araujo",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Lucio Linhares",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Marcio Ribeiro",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Carlos Nelson",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Cristiano Lazarini",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Raulinson Augusto",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Matheus Miranda",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Jorge Oliveira",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Rolles Gracie",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Fabio Prado",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Garth Taylor",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Eduardo Telles",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Alex Pags",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Walter Pinto",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Eduardo Santoro",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Alex Pags",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Garth Taylor",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Rico Rodrigues",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Ricardo Brandão",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Joelson Souza",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Bernardo Pitel",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Vinicius Gayva",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Ricardo Vieira",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Rodnei Duvale",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Marcos Mello",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Sandro Santiago",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Edson Diniz",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Gabriel Cardoso",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Rodrigo Antonio",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Adriano Lucio",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Fernando Augusto",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Cristiano Ribeiro",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Bj penn",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Cristiano Marcelo",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Renato Miraguaia",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Bruno Fernandes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Renato Silva",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Malt Serra",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Flavio Almeida",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Jair Gonçalves",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Fernando Pontes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Bruno Raso",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Ricardo Arona",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Fabio Leopoldo",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Erick Wanderley",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Gabriel Napão",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Alexandre Dantas",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Francisco Nonato",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Luiz Gustavo",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Marcelo Lucena",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Aurelio Fernandes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Marco Corleta",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Marcelo Clemente",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Antonio Marcos",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Aurelio Fernandes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Ricardo Arona",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Fernando Pontes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BROWN / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Alexandre Dantas",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Omar Salum",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Ralph Pires",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Sergio Torres",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / ROOSTER",
+    "ranking": [
+      {
+        "nome": "Pablo Ian",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Robson Moura",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Vinicius Cruz",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Bruno Ximenes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / LIGHT FEATHER",
+    "ranking": [
+      {
+        "nome": "Paulo Sergio",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Royler Gracie",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Leonardo Vieira",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Vinicius Magalhães",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Marcos Barbosa",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Vitor Ribeiro",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Marcio Feitosa",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Renato Barreto",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / LIGHT",
+    "ranking": [
+      {
+        "nome": "Wellington Dias",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Alexandre Paiva",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Roberto Atalla",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Haroldo Vitoriano",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Suian Queiroz",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Saulo Ribeiro",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Roberto Magalhães",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Ze Marcelo",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / MEDIUM HEAVY",
+    "ranking": [
+      {
+        "nome": "Amauri Bitetti",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Murilo Bustamante",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Paulo Filho",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Fabio Gurgel",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Leonardo Dalla",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Leonardo Leite",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Jose Mario",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Claudio Moreno",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / SUPER HEAVY",
+    "ranking": [
+      {
+        "nome": "Daniel Simoes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Roberto Traven",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Leonardo Castello Branco",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Andre Mendes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / ULTRA HEAVY",
+    "ranking": [
+      {
+        "nome": "Jose Mario Mc Coord",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Rodrigo Madeiros",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Roberto Magalhães",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Antonio Nogueira",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLACK / MALE / OPEN CLASS",
+    "ranking": [
+      {
+        "nome": "Jose Mario",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / FEMALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Kelly Magalhães",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / FEMALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Nadia Melo",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / FEMALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Viviane Caixeta",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / FEMALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Liliane Da Silva",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / FEMALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Nely Miranda",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / FEMALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Gabriela Bermudes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / FEMALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Carine De Jesus",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / FEMALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Analia Xavier",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / FEMALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Luzia Fernandes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / FEMALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Camila Silva",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / FEMALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Fabiola Silva",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / BLUE / FEMALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Michele Develard",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE BROWN BLACK / FEMALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Alessandra Vieira",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE BROWN BLACK / FEMALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Daniela Figueredo",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE BROWN BLACK / FEMALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Leticia Ribeiro",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE BROWN BLACK / FEMALE / FEATHER",
+    "ranking": [
+      {
+        "nome": "Fernanda Bastos",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE BROWN BLACK / FEMALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Alessandra Oliveira",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE BROWN BLACK / FEMALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Erica Paes",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE BROWN BLACK / FEMALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Janaina Ventura",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE BROWN BLACK / FEMALE / MIDDLE",
+    "ranking": [
+      {
+        "nome": "Alexandra Correa",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE BROWN BLACK / FEMALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Cristina Pereira",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "categoria": "ADULT / PURPLE BROWN BLACK / FEMALE / HEAVY",
+    "ranking": [
+      {
+        "nome": "Andrea Pereira",
+        "academia": ""
+      }
+    ]
+  },
+  {
+    "rankingAcademias": {
+      "categories": [
+        {},
+        {},
+        {}
+      ]
+    }
   }
 ]
-
-

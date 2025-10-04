@@ -10088,164 +10088,165 @@
         "academia": "Gracie Barra"
       }
     ]
+  },
+  {
+    "rankingAcademias": {
+      "Masculino": [
+        {
+          "posicao": 1,
+          "academia": "Dream Art",
+          "pontos": 110
+        },
+        {
+          "posicao": 2,
+          "academia": "Alliance",
+          "pontos": 61
+        },
+        {
+          "posicao": 3,
+          "academia": "Nova União",
+          "pontos": 59
+        },
+        {
+          "posicao": 4,
+          "academia": "Cicero Costha Internacional",
+          "pontos": 36
+        },
+        {
+          "posicao": 5,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 35
+        },
+        {
+          "posicao": 6,
+          "academia": "GF Team",
+          "pontos": 26
+        },
+        {
+          "posicao": 7,
+          "academia": "Carlson Gracie Team",
+          "pontos": 25
+        },
+        {
+          "posicao": 8,
+          "academia": "R1NG BJJ",
+          "pontos": 22
+        },
+        {
+          "posicao": 9,
+          "academia": "Zenith BJJ",
+          "pontos": 21
+        },
+        {
+          "posicao": 10,
+          "academia": "Kronos BJJ",
+          "pontos": 21
+        }
+      ],
+      "Feminino": [
+        {
+          "posicao": 1,
+          "academia": "GF Team",
+          "pontos": 94
+        },
+        {
+          "posicao": 2,
+          "academia": "Dream Art",
+          "pontos": 82
+        },
+        {
+          "posicao": 3,
+          "academia": "CheckMat",
+          "pontos": 52
+        },
+        {
+          "posicao": 4,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 25
+        },
+        {
+          "posicao": 5,
+          "academia": "Infight JJ",
+          "pontos": 24
+        },
+        {
+          "posicao": 6,
+          "academia": "Qatar BJJ / Vision Brasil",
+          "pontos": 19
+        },
+        {
+          "posicao": 7,
+          "academia": "Gracie Barra",
+          "pontos": 19
+        },
+        {
+          "posicao": 8,
+          "academia": "Double Five",
+          "pontos": 15
+        },
+        {
+          "posicao": 9,
+          "academia": "Carlson Gracie Team",
+          "pontos": 15
+        },
+        {
+          "posicao": 10,
+          "academia": "Guigo JJ",
+          "pontos": 13
+        }
+      ],
+      "Juvenil": [
+        {
+          "posicao": 1,
+          "academia": "GF Team",
+          "pontos": 96
+        },
+        {
+          "posicao": 2,
+          "academia": "Qatar BJJ / Vision Brasil",
+          "pontos": 30
+        },
+        {
+          "posicao": 3,
+          "academia": "Atos Jiu-Jitsu",
+          "pontos": 28
+        },
+        {
+          "posicao": 4,
+          "academia": "Alliance",
+          "pontos": 27
+        },
+        {
+          "posicao": 5,
+          "academia": "Nova União",
+          "pontos": 26
+        },
+        {
+          "posicao": 6,
+          "academia": "Carlson Gracie Team",
+          "pontos": 23
+        },
+        {
+          "posicao": 7,
+          "academia": "CheckMat",
+          "pontos": 22
+        },
+        {
+          "posicao": 8,
+          "academia": "Dream Art",
+          "pontos": 18
+        },
+        {
+          "posicao": 9,
+          "academia": "MG TEAM",
+          "pontos": 18
+        },
+        {
+          "posicao": 10,
+          "academia": "LEAD BJJ",
+          "pontos": 18
+        }
+      ]
+    }
   }
 ]
-
-"rankingAcademias":[{
-  "Masculino": [
-    {
-      "posicao": 1,
-      "academia": "Dream Art",
-      "pontos": 110
-    },
-    {
-      "posicao": 2,
-      "academia": "Alliance",
-      "pontos": 61
-    },
-    {
-      "posicao": 3,
-      "academia": "Nova União",
-      "pontos": 59
-    },
-    {
-      "posicao": 4,
-      "academia": "Cicero Costha Internacional",
-      "pontos": 36
-    },
-    {
-      "posicao": 5,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 35
-    },
-    {
-      "posicao": 6,
-      "academia": "GF Team",
-      "pontos": 26
-    },
-    {
-      "posicao": 7,
-      "academia": "Carlson Gracie Team",
-      "pontos": 25
-    },
-    {
-      "posicao": 8,
-      "academia": "R1NG BJJ",
-      "pontos": 22
-    },
-    {
-      "posicao": 9,
-      "academia": "Zenith BJJ",
-      "pontos": 21
-    },
-    {
-      "posicao": 10,
-      "academia": "Kronos BJJ",
-      "pontos": 21
-    }
-  ],
-  "Feminino": [
-    {
-      "posicao": 1,
-      "academia": "GF Team",
-      "pontos": 94
-    },
-    {
-      "posicao": 2,
-      "academia": "Dream Art",
-      "pontos": 82
-    },
-    {
-      "posicao": 3,
-      "academia": "CheckMat",
-      "pontos": 52
-    },
-    {
-      "posicao": 4,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 25
-    },
-    {
-      "posicao": 5,
-      "academia": "Infight JJ",
-      "pontos": 24
-    },
-    {
-      "posicao": 6,
-      "academia": "Qatar BJJ / Vision Brasil",
-      "pontos": 19
-    },
-    {
-      "posicao": 7,
-      "academia": "Gracie Barra",
-      "pontos": 19
-    },
-    {
-      "posicao": 8,
-      "academia": "Double Five",
-      "pontos": 15
-    },
-    {
-      "posicao": 9,
-      "academia": "Carlson Gracie Team",
-      "pontos": 15
-    },
-    {
-      "posicao": 10,
-      "academia": "Guigo JJ",
-      "pontos": 13
-    }
-  ],
-  "Juvenil": [
-    {
-      "posicao": 1,
-      "academia": "GF Team",
-      "pontos": 96
-    },
-    {
-      "posicao": 2,
-      "academia": "Qatar BJJ / Vision Brasil",
-      "pontos": 30
-    },
-    {
-      "posicao": 3,
-      "academia": "Atos Jiu-Jitsu",
-      "pontos": 28
-    },
-    {
-      "posicao": 4,
-      "academia": "Alliance",
-      "pontos": 27
-    },
-    {
-      "posicao": 5,
-      "academia": "Nova União",
-      "pontos": 26
-    },
-    {
-      "posicao": 6,
-      "academia": "Carlson Gracie Team",
-      "pontos": 23
-    },
-    {
-      "posicao": 7,
-      "academia": "CheckMat",
-      "pontos": 22
-    },
-    {
-      "posicao": 8,
-      "academia": "Dream Art",
-      "pontos": 18
-    },
-    {
-      "posicao": 9,
-      "academia": "MG TEAM",
-      "pontos": 18
-    },
-    {
-      "posicao": 10,
-      "academia": "LEAD BJJ",
-      "pontos": 18
-    }
-  ]
-}]
